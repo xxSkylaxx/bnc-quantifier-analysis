@@ -44,10 +44,7 @@ Examples:
 - The Office of Fair Trading
 - The Confederation of British Industry
 - The European Court of Justice
-- a long period of time
-- a great deal of time
 - a clean bill of health
-- a space of short time
 - a lot of hard work
 
 **Question for further investigation:** Could quantifiers be queried directly to improve the accuracy of the search?
