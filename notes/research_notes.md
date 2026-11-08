@@ -205,7 +205,7 @@ To organize the collected quantifiers, 13 semantic categories were established.
 
 ### 3.2 Reducing the Quantifier List
 
-Since the BNC interface could not process queries that were too long, the initial list had to be reduced.
+Since the BNC server could not process queries that were too long, the initial list had to be reduced.
 
 **Second version:**
 
@@ -227,7 +227,7 @@ Since the BNC interface could not process queries that were too long, the initia
 
 ### 3.3 Final Reduced Quantifier List
 
-The second list was still too long for the BNC interface. Therefore, a further reduction was made.
+The second list was still too long for the BNC server. Therefore, a further reduction was made.
 
 The following list was used as the final working list for the corpus queries:
 
