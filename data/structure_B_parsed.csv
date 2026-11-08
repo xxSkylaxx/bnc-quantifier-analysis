@@ -1,0 +1,3157 @@
+﻿Rank,Lexical item,Quantifier,Category,B,Percentage
+1,a bottle of sparkling wine,bottle,Container,72,1.96
+2,the level of aggregate demand,level,Abstract quantity,20,0.54
+3,a glass of white wine,glass,Container,13,0.35
+4,the level of national income,level,Abstract quantity,12,0.33
+5,a bottle of red wine,bottle,Container,10,0.27
+6,an area of high unemployment,area,Spatial,10,0.27
+7,a bottle of white wine,bottle,Container,9,0.25
+8,the level of economic activity,level,Abstract quantity,9,0.25
+9,the period of industrial placement,period,Temporal,8,0.22
+10,a slice of wholemeal toast,slice,Portion,7,0.19
+11,a cup of hot chocolate,cup,Container,6,0.16
+12,the level of practical consciousness,level,Abstract quantity,6,0.16
+13,the level of public expenditure,level,Abstract quantity,6,0.16
+14,a cup of black coffee,cup,Container,5,0.14
+15,a cup of watered wine,cup,Container,5,0.14
+16,A length of brown satin,length,Spatial,5,0.14
+17,a period of great change,period,Temporal,5,0.14
+18,a slice of wholemeal bread,slice,Portion,5,0.14
+19,an area of compulsory registration,area,Spatial,5,0.14
+20,the degree of natural handicap,degree,Abstract quantity,5,0.14
+21,the level of effective demand,level,Abstract quantity,5,0.14
+22,the level of real income,level,Abstract quantity,5,0.14
+23,a cup of instant coffee,cup,Container,4,0.11
+24,a cup of strong coffee,cup,Container,4,0.11
+25,a glass of hot milk,glass,Container,4,0.11
+26,a glass of iced water,glass,Container,4,0.11
+27,a glass of red wine,glass,Container,4,0.11
+28,a period of full employment,period,Temporal,4,0.11
+29,a period of high unemployment,period,Temporal,4,0.11
+30,a period of rapid expansion,period,Temporal,4,0.11
+31,a period of rapid growth,period,Temporal,4,0.11
+32,a period of relative stability,period,Temporal,4,0.11
+33,a period of structural change,period,Temporal,4,0.11
+34,a period of supervised practice,period,Temporal,4,0.11
+35,a period of sustained pressure,period,Temporal,4,0.11
+36,a piece of electrical equipment,piece,Portion,4,0.11
+37,a piece of good news,piece,Portion,4,0.11
+38,a piece of non-stick paper,piece,Portion,4,0.11
+39,a piece of raw meat,piece,Portion,4,0.11
+40,an area of high pressure,area,Spatial,4,0.11
+41,the amount of perceived depth,amount,Abstract quantity,4,0.11
+42,the degree of social mobility,degree,Abstract quantity,4,0.11
+43,the level of economic development,level,Abstract quantity,4,0.11
+44,the level of real output,level,Abstract quantity,4,0.11
+45,a bottle of ginger beer,bottle,Container,3,0.08
+46,a cup of hot milk,cup,Container,3,0.08
+47,a cup of hot tea,cup,Container,3,0.08
+48,a day of great joy,day,Temporal,3,0.08
+49,a degree of local autonomy,degree,Abstract quantity,3,0.08
+50,a glass of cold water,glass,Container,3,0.08
+51,a glass of skimmed milk,glass,Container,3,0.08
+52,a period of considerable change,period,Temporal,3,0.08
+53,a period of economic recession,period,Temporal,3,0.08
+54,a period of high lake,period,Temporal,3,0.08
+55,a period of military rule,period,Temporal,3,0.08
+56,a period of public consultation,period,Temporal,3,0.08
+57,a period of rapid change,period,Temporal,3,0.08
+58,a piece of broken glass,piece,Portion,3,0.08
+59,a piece of brown bread,piece,Portion,3,0.08
+60,a piece of sticking plaster,piece,Portion,3,0.08
+61,a piece of sticky tape,piece,Portion,3,0.08
+62,a piece of white card,piece,Portion,3,0.08
+63,a piece of white fondant,piece,Portion,3,0.08
+64,a piece of white paper,piece,Portion,3,0.08
+65,a pile of dirty washing,pile,Portion / quantity,3,0.08
+66,a pile of Fun Fortnight,pile,Portion / quantity,3,0.08
+67,a stretch of muddy field,stretch,Spatial,3,0.08
+68,a year of minimum rainfall,year,Temporal,3,0.08
+69,an area of low pressure,area,Spatial,3,0.08
+70,an area of social life,area,Spatial,3,0.08
+71,an area of social policy,area,Spatial,3,0.08
+72,an ounce of common sense,ounce,Weight,3,0.08
+73,every level of national income,level,Abstract quantity,3,0.08
+74,the amount of central government,amount,Abstract quantity,3,0.08
+75,the amount of fresh air,amount,Abstract quantity,3,0.08
+76,the amount of public money,amount,Abstract quantity,3,0.08
+77,the amount of useful energy,amount,Abstract quantity,3,0.08
+78,the amount of useful information,amount,Abstract quantity,3,0.08
+79,the degree of amyloid deposition,degree,Abstract quantity,3,0.08
+80,the degree of intestinal atrophy,degree,Abstract quantity,3,0.08
+81,the degree of potential prejudice,degree,Abstract quantity,3,0.08
+82,The level of criminal activity,level,Abstract quantity,3,0.08
+83,the level of social security,level,Abstract quantity,3,0.08
+84,the Period of Baronial Reform,period,Temporal,3,0.08
+85,the period of compulsory schooling,period,Temporal,3,0.08
+86,the period of military rule,period,Temporal,3,0.08
+87,the period of rapid growth,period,Temporal,3,0.08
+88,the quantity of dietary fibre,quantity,Abstract quantity,3,0.08
+89,the School of Social work,school,Animal group,3,0.08
+90,a bottle of cheap wine,bottle,Container,2,0.05
+91,a bottle of cold tea,bottle,Container,2,0.05
+92,A bottle of good whisky,bottle,Container,2,0.05
+93,a bottle of passable claret,bottle,Container,2,0.05
+94,a bottle of Scotch whisky,bottle,Container,2,0.05
+95,a bottle of Spanish wine,bottle,Container,2,0.05
+96,a can of soft drink,can,Container,2,0.05
+97,a cup of hot water,cup,Container,2,0.05
+98,a Day of National Mourning,day,Temporal,2,0.05
+99,a degree of common interest,degree,Abstract quantity,2,0.05
+100,a degree of common sense,degree,Abstract quantity,2,0.05
+101,a degree of political reorganization,degree,Abstract quantity,2,0.05
+102,a degree of structural fluidity,degree,Abstract quantity,2,0.05
+103,a drop of primary antibody,drop,Small / discrete,2,0.05
+104,a gallon of four-star petrol,gallon,Volume,2,0.05
+105,a glass of cold milk,glass,Container,2,0.05
+106,a glass of fresh orange,glass,Container,2,0.05
+107,a group of British fund,group,Numerical / counting,2,0.05
+108,A group of mobile cafe,group,Numerical / counting,2,0.05
+109,a group of unidentified object,group,Numerical / counting,2,0.05
+110,a handful of dismembered glockenspiel,handful,Portion,2,0.05
+111,a handful of loose change,handful,Portion,2,0.05
+112,a length of rubber tubing,length,Spatial,2,0.05
+113,a load of bloody rubbish,load,Portion / quantity,2,0.05
+114,a load of corporate overhead,load,Portion / quantity,2,0.05
+115,a load of hot air,load,Portion / quantity,2,0.05
+116,A PAIR of 100-year-old railway,pair,Numerical / counting,2,0.05
+117,a pair of black lace,pair,Numerical / counting,2,0.05
+118,a pair of black leather,pair,Numerical / counting,2,0.05
+119,A pair of French burr,pair,Numerical / counting,2,0.05
+120,a pair of green suede,pair,Numerical / counting,2,0.05
+121,a period of basic training,period,Temporal,2,0.05
+122,a period of economic growth,period,Temporal,2,0.05
+123,a period of financial stringency,period,Temporal,2,0.05
+124,a period of heavy rain,period,Temporal,2,0.05
+125,a period of intense activity,period,Temporal,2,0.05
+126,a period of intermittent family,period,Temporal,2,0.05
+127,a period of martial law,period,Temporal,2,0.05
+128,a period of practical training,period,Temporal,2,0.05
+129,a period of profound change,period,Temporal,2,0.05
+130,a period of rapid development,period,Temporal,2,0.05
+131,a period of relative peace,period,Temporal,2,0.05
+132,a period of remorseless manufacturing,period,Temporal,2,0.05
+133,a period of shocked dismay,period,Temporal,2,0.05
+134,a period of substantial growth,period,Temporal,2,0.05
+135,a period of sustained growth,period,Temporal,2,0.05
+136,a period of temporary reputation,period,Temporal,2,0.05
+137,a piece of black bread,piece,Portion,2,0.05
+138,a piece of black cardboard,piece,Portion,2,0.05
+139,a piece of broken mirror,piece,Portion,2,0.05
+140,a piece of clean rag,piece,Portion,2,0.05
+141,a piece of coloured card,piece,Portion,2,0.05
+142,a piece of common land,piece,Portion,2,0.05
+143,a piece of derelict land,piece,Portion,2,0.05
+144,a piece of dry bread,piece,Portion,2,0.05
+145,a piece of flat wood,piece,Portion,2,0.05
+146,a piece of old towelling,piece,Portion,2,0.05
+147,a piece of Roman pottery,piece,Portion,2,0.05
+148,a piece of rough ground,piece,Portion,2,0.05
+149,a piece of thin wire,piece,Portion,2,0.05
+150,a piece of waxed paper,piece,Portion,2,0.05
+151,a set of dynamic link,set,Numerical / counting,2,0.05
+152,a set of front-end application,set,Numerical / counting,2,0.05
+153,a set of graphic monitoring,set,Numerical / counting,2,0.05
+154,a set of natural monopoly,set,Numerical / counting,2,0.05
+155,a slice of contemporary history,slice,Portion,2,0.05
+156,a slice of lean ham,slice,Portion,2,0.05
+157,a spoonful of olive oil,spoonful,Portion,2,0.05
+158,a year of extreme hunger,year,Temporal,2,0.05
+159,a year of immense activity,year,Temporal,2,0.05
+160,an area of bare moorland,area,Spatial,2,0.05
+161,an area of considerable interest,area,Spatial,2,0.05
+162,an area of great interest,area,Spatial,2,0.05
+163,an area of high ground,area,Spatial,2,0.05
+164,an area of low priority,area,Spatial,2,0.05
+165,an area of natural beauty,area,Spatial,2,0.05
+166,an area of particular interest,area,Spatial,2,0.05
+167,an area of poor housing,area,Spatial,2,0.05
+168,every piece of bad news,piece,Portion,2,0.05
+169,no amount of intelligent software,amount,Abstract quantity,2,0.05
+170,the amount of arable land,amount,Abstract quantity,2,0.05
+171,the amount of associative strength,amount,Abstract quantity,2,0.05
+172,the amount of atmospheric carbon,amount,Abstract quantity,2,0.05
+173,the amount of creative talent,amount,Abstract quantity,2,0.05
+174,the amount of crushed rock,amount,Abstract quantity,2,0.05
+175,The amount of deferred taxation,amount,Abstract quantity,2,0.05
+176,the amount of dissolved oxygen,amount,Abstract quantity,2,0.05
+177,the amount of foreign music,amount,Abstract quantity,2,0.05
+178,the amount of free memory,amount,Abstract quantity,2,0.05
+179,the amount of fresh water,amount,Abstract quantity,2,0.05
+180,the amount of gross pay,amount,Abstract quantity,2,0.05
+181,the amount of hard work,amount,Abstract quantity,2,0.05
+182,the amount of hot water,amount,Abstract quantity,2,0.05
+183,the amount of incorporated label,amount,Abstract quantity,2,0.05
+184,the amount of lean muscle,amount,Abstract quantity,2,0.05
+185,the amount of linear DNA,amount,Abstract quantity,2,0.05
+186,the amount of local authority,amount,Abstract quantity,2,0.05
+187,the amount of naked aggression,amount,Abstract quantity,2,0.05
+188,The amount of new credit,amount,Abstract quantity,2,0.05
+189,The amount of new housing,amount,Abstract quantity,2,0.05
+190,the amount of new material,amount,Abstract quantity,2,0.05
+191,the amount of positive pitch,amount,Abstract quantity,2,0.05
+192,the amount of redundant information,amount,Abstract quantity,2,0.05
+193,the amount of syntactic information,amount,Abstract quantity,2,0.05
+194,the amount of thermal energy,amount,Abstract quantity,2,0.05
+195,the area of artificial intelligence,area,Spatial,2,0.05
+196,the area of mucosal lesion,area,Spatial,2,0.05
+197,the area of permanent grassland,area,Spatial,2,0.05
+198,the area of social policy,area,Spatial,2,0.05
+199,the bottle of Old Bedwetter,bottle,Container,2,0.05
+200,the degree of architectural distortion,degree,Abstract quantity,2,0.05
+201,the degree of British commitment,degree,Abstract quantity,2,0.05
+202,the degree of governmental response,degree,Abstract quantity,2,0.05
+203,the degree of political power,degree,Abstract quantity,2,0.05
+204,the length of inter-birth interval,length,Spatial,2,0.05
+205,the level of bad debt,level,Abstract quantity,2,0.05
+206,the level of central government,level,Abstract quantity,2,0.05
+207,the level of chemical exposure,level,Abstract quantity,2,0.05
+208,the level of external calcium,level,Abstract quantity,2,0.05
+209,The level of foreign debt,level,Abstract quantity,2,0.05
+210,the level of grammatical complexity,level,Abstract quantity,2,0.05
+211,the level of grand theory,level,Abstract quantity,2,0.05
+212,the level of local taxation,level,Abstract quantity,2,0.05
+213,the level of marginal cost,level,Abstract quantity,2,0.05
+214,the level of national insurance,level,Abstract quantity,2,0.05
+215,the level of open interest,level,Abstract quantity,2,0.05
+216,the level of outstanding debt,level,Abstract quantity,2,0.05
+217,the level of parental encouragement,level,Abstract quantity,2,0.05
+218,the level of popular support,level,Abstract quantity,2,0.05
+219,the level of real expenditure,level,Abstract quantity,2,0.05
+220,the level of real government,level,Abstract quantity,2,0.05
+221,the level of recorded crime,level,Abstract quantity,2,0.05
+222,the level of reduced glutathione,level,Abstract quantity,2,0.05
+223,the level of social mobility,level,Abstract quantity,2,0.05
+224,the level of social welfare,level,Abstract quantity,2,0.05
+225,the level of subjective risk,level,Abstract quantity,2,0.05
+226,the level of technical risk,level,Abstract quantity,2,0.05
+227,the level of verbal consciousness,level,Abstract quantity,2,0.05
+228,the period of Conservative government,period,Temporal,2,0.05
+229,the period of military government,period,Temporal,2,0.05
+230,the period of parental investment,period,Temporal,2,0.05
+231,the period of public consultation,period,Temporal,2,0.05
+232,the portion of total variance,portion,Portion / quantity,2,0.05
+233,the quantity of nominal money,quantity,Abstract quantity,2,0.05
+234,the School of Applied Art,school,Animal group,2,0.05
+235,the School of Civil Engineering,school,Animal group,2,0.05
+236,the School of Military Engineering,school,Animal group,2,0.05
+237,the School of Tropical Medicine,school,Animal group,2,0.05
+238,a bag of coarse mix,bag,Container,1,0.03
+239,a bag of crispy batter,bag,Container,1,0.03
+240,a bag of duty-free claret,bag,Container,1,0.03
+241,a bag of effervescent pus,bag,Container,1,0.03
+242,a bag of fake cannabis,bag,Container,1,0.03
+243,a bag of frozen food,bag,Container,1,0.03
+244,a bag of pimply skin,bag,Container,1,0.03
+245,a bag of raw meat,bag,Container,1,0.03
+246,A bag of red wool,bag,Container,1,0.03
+247,a bag of rotted chicken,bag,Container,1,0.03
+248,a bag of smoky bacon,bag,Container,1,0.03
+249,a bag of unknown origin,bag,Container,1,0.03
+250,a bag of wet sulphur,bag,Container,1,0.03
+251,a bottle of antiseptic fell,bottle,Container,1,0.03
+252,a bottle of brandless brandy,bottle,Container,1,0.03
+253,a bottle of cask-strength whisky,bottle,Container,1,0.03
+254,a bottle of cheap booze,bottle,Container,1,0.03
+255,a bottle of cheap plonk,bottle,Container,1,0.03
+256,a bottle of chemical poison,bottle,Container,1,0.03
+257,a bottle of chilled champagne,bottle,Container,1,0.03
+258,a bottle of clean drinking,bottle,Container,1,0.03
+259,a bottle of decent champagne,bottle,Container,1,0.03
+260,a bottle of dry sherry,bottle,Container,1,0.03
+261,a bottle of duty-free gin,bottle,Container,1,0.03
+262,a bottle of five-star rum,bottle,Container,1,0.03
+263,a bottle of foul-looking medicine,bottle,Container,1,0.03
+264,a bottle of French cider,bottle,Container,1,0.03
+265,a bottle of French designer,bottle,Container,1,0.03
+266,a bottle of French perfume,bottle,Container,1,0.03
+267,a bottle of generic whisky,bottle,Container,1,0.03
+268,a bottle of good brandy,bottle,Container,1,0.03
+269,a bottle of good wine,bottle,Container,1,0.03
+270,a bottle of lethal acid,bottle,Container,1,0.03
+271,a bottle of light ale,bottle,Container,1,0.03
+272,a bottle of lime-flavoured Perrier,bottle,Container,1,0.03
+273,a bottle of local cider,bottle,Container,1,0.03
+274,a bottle of local plonk,bottle,Container,1,0.03
+275,a bottle of made-up vodka,bottle,Container,1,0.03
+276,a bottle of non-vintage champagne,bottle,Container,1,0.03
+277,a bottle of orange-coloured liquid,bottle,Container,1,0.03
+278,a bottle of pure malt,bottle,Container,1,0.03
+279,a bottle of pure water,bottle,Container,1,0.03
+280,a bottle of rare wine,bottle,Container,1,0.03
+281,a bottle of red ink,bottle,Container,1,0.03
+282,a bottle of Southern Comfort,bottle,Container,1,0.03
+283,a bottle of soy sauce,bottle,Container,1,0.03
+284,a bottle of sparkling mineral,bottle,Container,1,0.03
+285,a bottle of systemic insecticide,bottle,Container,1,0.03
+286,a bottle of venerable malt,bottle,Container,1,0.03
+287,a bottle of vichy water,bottle,Container,1,0.03
+288,a box of amber glass,box,Container,1,0.03
+289,a box of American tobacco,box,Container,1,0.03
+290,a box of ancient cane,box,Container,1,0.03
+291,a box of brown stone,box,Container,1,0.03
+292,a box of chilled orange,box,Container,1,0.03
+293,a box of prepared food,box,Container,1,0.03
+294,a box of Spanish gold,box,Container,1,0.03
+295,a bunch of bogus bank,bunch,Portion,1,0.03
+296,a bunch of future film,bunch,Portion,1,0.03
+297,a bunch of glamorous rock'n'roll,bunch,Portion,1,0.03
+298,a bunch of high school,bunch,Portion,1,0.03
+299,a bunch of idle west,bunch,Portion,1,0.03
+300,a bunch of like-minded band,bunch,Portion,1,0.03
+301,a bunch of middle-class college,bunch,Portion,1,0.03
+302,a bunch of Pentium-based prototype,bunch,Portion,1,0.03
+303,a bunch of real rock,bunch,Portion,1,0.03
+304,a bunch of rowdy street,bunch,Portion,1,0.03
+305,a bunch of russian part,bunch,Portion,1,0.03
+306,a bunch of small summer,bunch,Portion,1,0.03
+307,a bunch of top quality,bunch,Portion,1,0.03
+308,a bunch of trailing ivy,bunch,Portion,1,0.03
+309,a bunch of weary foot,bunch,Portion,1,0.03
+310,a can of cold beer,can,Container,1,0.03
+311,a can of hot coffee,can,Container,1,0.03
+312,a can of light ale,can,Container,1,0.03
+313,a can of low-al lager,can,Container,1,0.03
+314,a can of red spray,can,Container,1,0.03
+315,a can of Special Brew,can,Container,1,0.03
+316,a can of special primer,can,Container,1,0.03
+317,a can of Tartan Ale,can,Container,1,0.03
+318,a can of white wine,can,Container,1,0.03
+319,a can of whole chicken,can,Container,1,0.03
+320,A chunk of conversational discourse,chunk,Portion / quantity,1,0.03
+321,a chunk of dead mouse,chunk,Portion / quantity,1,0.03
+322,a chunk of moist cheese,chunk,Portion / quantity,1,0.03
+323,a chunk of pink polystyrene,chunk,Portion / quantity,1,0.03
+324,a chunk of raw flesh,chunk,Portion / quantity,1,0.03
+325,a chunk of rubber heel,chunk,Portion / quantity,1,0.03
+326,a couple of automatic conversion,couple,Numerical / counting,1,0.03
+327,a couple of bad iron,couple,Numerical / counting,1,0.03
+328,a couple of big pension,couple,Numerical / counting,1,0.03
+329,a couple of big plastic,couple,Numerical / counting,1,0.03
+330,a couple of buff-coloured laboratory,couple,Numerical / counting,1,0.03
+331,a couple of celebrated court,couple,Numerical / counting,1,0.03
+332,a couple of classic Pillar,couple,Numerical / counting,1,0.03
+333,a couple of classy UPSs,couple,Numerical / counting,1,0.03
+334,a couple of conventional atom,couple,Numerical / counting,1,0.03
+335,a couple of corrugated iron,couple,Numerical / counting,1,0.03
+336,a couple of deep whoo,couple,Numerical / counting,1,0.03
+337,a couple of different size,couple,Numerical / counting,1,0.03
+338,A couple of double spring,couple,Numerical / counting,1,0.03
+339,a couple of early season,couple,Numerical / counting,1,0.03
+340,a couple of efficient centre,couple,Numerical / counting,1,0.03
+341,a couple of fine Rh�ne,couple,Numerical / counting,1,0.03
+342,a couple of folded Kleenex,couple,Numerical / counting,1,0.03
+343,a couple of friendly Gardai,couple,Numerical / counting,1,0.03
+344,a couple of government-appointed bank,couple,Numerical / counting,1,0.03
+345,a couple of high street,couple,Numerical / counting,1,0.03
+346,a couple of hot killer,couple,Numerical / counting,1,0.03
+347,A couple of judicious phone,couple,Numerical / counting,1,0.03
+348,a couple of large leather,couple,Numerical / counting,1,0.03
+349,a couple of little nostril,couple,Numerical / counting,1,0.03
+350,a couple of little plastic,couple,Numerical / counting,1,0.03
+351,a couple of long section,couple,Numerical / counting,1,0.03
+352,a couple of long weekend,couple,Numerical / counting,1,0.03
+353,a couple of low-level bombing,couple,Numerical / counting,1,0.03
+354,a couple of mild intonation,couple,Numerical / counting,1,0.03
+355,a couple of mismatched kitchen,couple,Numerical / counting,1,0.03
+356,a couple of musical teddy,couple,Numerical / counting,1,0.03
+357,a couple of narrow-mouthed stone,couple,Numerical / counting,1,0.03
+358,a couple of nasty telephone,couple,Numerical / counting,1,0.03
+359,a couple of new laser,couple,Numerical / counting,1,0.03
+360,a couple of non-strenuous schooling,couple,Numerical / counting,1,0.03
+361,a couple of old OSS,couple,Numerical / counting,1,0.03
+362,a couple of old school,couple,Numerical / counting,1,0.03
+363,a couple of other crime,couple,Numerical / counting,1,0.03
+364,a couple of other Unix,couple,Numerical / counting,1,0.03
+365,a couple of outstanding lady,couple,Numerical / counting,1,0.03
+366,a couple of overseas phone,couple,Numerical / counting,1,0.03
+367,a couple of powdered sleeping,couple,Numerical / counting,1,0.03
+368,a couple of real humdinger,couple,Numerical / counting,1,0.03
+369,a couple of remarkable rock,couple,Numerical / counting,1,0.03
+370,a couple of shallow terracotta,couple,Numerical / counting,1,0.03
+371,a couple of short keyboard,couple,Numerical / counting,1,0.03
+372,a couple of Siamese Tiger,couple,Numerical / counting,1,0.03
+373,a couple of significant product,couple,Numerical / counting,1,0.03
+374,a couple of small bronze,couple,Numerical / counting,1,0.03
+375,a couple of small east-west,couple,Numerical / counting,1,0.03
+376,a couple of social science,couple,Numerical / counting,1,0.03
+377,a couple of solid psycho,couple,Numerical / counting,1,0.03
+378,a couple of Spanish car,couple,Numerical / counting,1,0.03
+379,a couple of splendid interview,couple,Numerical / counting,1,0.03
+380,a couple of standard dualist,couple,Numerical / counting,1,0.03
+381,a couple of tall stone,couple,Numerical / counting,1,0.03
+382,a couple of tasty dessert,couple,Numerical / counting,1,0.03
+383,a couple of technical support,couple,Numerical / counting,1,0.03
+384,a couple of three-band EQ,couple,Numerical / counting,1,0.03
+385,a couple of uniformed railway,couple,Numerical / counting,1,0.03
+386,a couple of vast barbecue,couple,Numerical / counting,1,0.03
+387,a couple of well-publicized mercy,couple,Numerical / counting,1,0.03
+388,a couple of wooden family,couple,Numerical / counting,1,0.03
+389,a couple of wooden Republican,couple,Numerical / counting,1,0.03
+390,a cup of atrocious coffee,cup,Container,1,0.03
+391,A cup of black tea,cup,Container,1,0.03
+392,a cup of boiling water,cup,Container,1,0.03
+393,a cup of brackish water,cup,Container,1,0.03
+394,a cup of British Rail,cup,Container,1,0.03
+395,a cup of cold coffee,cup,Container,1,0.03
+396,a cup of cold piss,cup,Container,1,0.03
+397,a cup of cold tea,cup,Container,1,0.03
+398,a cup of delicious coffee,cup,Container,1,0.03
+399,a cup of English breakfast,cup,Container,1,0.03
+400,a cup of fake cappuccino,cup,Container,1,0.03
+401,a cup of fake coffee,cup,Container,1,0.03
+402,A cup of foaming vitriol,cup,Container,1,0.03
+403,a cup of French coffee,cup,Container,1,0.03
+404,a cup of good coffee,cup,Container,1,0.03
+405,a cup of herbal tea,cup,Container,1,0.03
+406,a cup of hot coffee,cup,Container,1,0.03
+407,a cup of hot morning,cup,Container,1,0.03
+408,a cup of lukewarm water,cup,Container,1,0.03
+409,a cup of mediocre wine,cup,Container,1,0.03
+410,a cup of milkless tea,cup,Container,1,0.03
+411,a cup of milky tea,cup,Container,1,0.03
+412,a cup of old wine,cup,Container,1,0.03
+413,a cup of painted glass,cup,Container,1,0.03
+414,a cup of poisoned wine,cup,Container,1,0.03
+415,a cup of Ruski &#x10D;aj,cup,Container,1,0.03
+416,a cup of stewed tea,cup,Container,1,0.03
+417,a cup of sugary tea,cup,Container,1,0.03
+418,A cup of sweet tea,cup,Container,1,0.03
+419,a cup of warm water,cup,Container,1,0.03
+420,a cup of watered ale,cup,Container,1,0.03
+421,a cup of weak tea,cup,Container,1,0.03
+422,a cup of white tea,cup,Container,1,0.03
+423,a day of brilliant sunshine,day,Temporal,1,0.03
+424,a day of broken cloud,day,Temporal,1,0.03
+425,a day of civil disobedience,day,Temporal,1,0.03
+426,a day of deep winter,day,Temporal,1,0.03
+427,a day of eccentric pop,day,Temporal,1,0.03
+428,a day of extraordinary jubilation,day,Temporal,1,0.03
+429,a day of extraordinary scoring,day,Temporal,1,0.03
+430,a day of frantic trading,day,Temporal,1,0.03
+431,a day of General Thanksgiving,day,Temporal,1,0.03
+432,a day of good news,day,Temporal,1,0.03
+433,a day of good weather,day,Temporal,1,0.03
+434,a day of great anxiety,day,Temporal,1,0.03
+435,a day of great celebration,day,Temporal,1,0.03
+436,a day of great significance,day,Temporal,1,0.03
+437,a day of hard work,day,Temporal,1,0.03
+438,a day of heavy fighting,day,Temporal,1,0.03
+439,a day of heavy rain,day,Temporal,1,0.03
+440,a day of heavy traffic,day,Temporal,1,0.03
+441,a day of high celebration,day,Temporal,1,0.03
+442,a day of high summer,day,Temporal,1,0.03
+443,a day of hot summer,day,Temporal,1,0.03
+444,a day of hot sunshine,day,Temporal,1,0.03
+445,a day of increasing speculation,day,Temporal,1,0.03
+446,a day of legal argument,day,Temporal,1,0.03
+447,a day of legal drama,day,Temporal,1,0.03
+448,a day of light wind,day,Temporal,1,0.03
+449,a day of little incident,day,Temporal,1,0.03
+450,a day of low cloud,day,Temporal,1,0.03
+451,a day of low scoring,day,Temporal,1,0.03
+452,a day of moody magnificence,day,Temporal,1,0.03
+453,a day of oppressive heat,day,Temporal,1,0.03
+454,a day of particular ill-omen,day,Temporal,1,0.03
+455,a day of perfect weather,day,Temporal,1,0.03
+456,a day of persistent rain,day,Temporal,1,0.03
+457,a day of pioneering music,day,Temporal,1,0.03
+458,a day of pure pleasure,day,Temporal,1,0.03
+459,a day of rare pleasure,day,Temporal,1,0.03
+460,a day of reasonable weather,day,Temporal,1,0.03
+461,a day of religious devotion,day,Temporal,1,0.03
+462,a day of religious observance,day,Temporal,1,0.03
+463,a Day of Solemn Thanksgiving,day,Temporal,1,0.03
+464,a day of special prayer,day,Temporal,1,0.03
+465,a day of sweet triumph,day,Temporal,1,0.03
+466,a day of theological confusion,day,Temporal,1,0.03
+467,a day of top class,day,Temporal,1,0.03
+468,a day of torrential rain,day,Temporal,1,0.03
+469,a day of True Bluery,day,Temporal,1,0.03
+470,a day of universal socialism,day,Temporal,1,0.03
+471,a day of vital interest,day,Temporal,1,0.03
+472,a day of white sky,day,Temporal,1,0.03
+473,a degree of absolute power,degree,Abstract quantity,1,0.03
+474,a degree of absolute zero,degree,Abstract quantity,1,0.03
+475,a degree of academic autonomy,degree,Abstract quantity,1,0.03
+476,a degree of administrative autonomy,degree,Abstract quantity,1,0.03
+477,a degree of adverse attention,degree,Abstract quantity,1,0.03
+478,a degree of adverse publicity,degree,Abstract quantity,1,0.03
+479,a degree of American backing,degree,Abstract quantity,1,0.03
+480,A degree of anaerobic filtration,degree,Abstract quantity,1,0.03
+481,a degree of artificial intelligence,degree,Abstract quantity,1,0.03
+482,A degree of Associate Membership,degree,Abstract quantity,1,0.03
+483,a degree of authorial absence,degree,Abstract quantity,1,0.03
+484,a degree of autonomic denervation,degree,Abstract quantity,1,0.03
+485,a degree of autonomic impairment,degree,Abstract quantity,1,0.03
+486,a degree of autonomic neuropathy,degree,Abstract quantity,1,0.03
+487,a degree of bad feeling,degree,Abstract quantity,1,0.03
+488,a degree of basic trust,degree,Abstract quantity,1,0.03
+489,a degree of behavioural sophistication,degree,Abstract quantity,1,0.03
+490,a degree of black over-representation,degree,Abstract quantity,1,0.03
+491,a degree of chemical segregation,degree,Abstract quantity,1,0.03
+492,a degree of commercial activity,degree,Abstract quantity,1,0.03
+493,a degree of common cause,degree,Abstract quantity,1,0.03
+494,a degree of common ground,degree,Abstract quantity,1,0.03
+495,a degree of common ownership,degree,Abstract quantity,1,0.03
+496,a degree of common purpose,degree,Abstract quantity,1,0.03
+497,a degree of conscious awareness,degree,Abstract quantity,1,0.03
+498,a degree of conscious showmanship,degree,Abstract quantity,1,0.03
+499,a degree of continuing Government,degree,Abstract quantity,1,0.03
+500,a degree of controlled flexibility,degree,Abstract quantity,1,0.03
+501,a degree of corporate confusion,degree,Abstract quantity,1,0.03
+502,a degree of creative control,degree,Abstract quantity,1,0.03
+503,a degree of creative intelligence,degree,Abstract quantity,1,0.03
+504,a degree of critical detachment,degree,Abstract quantity,1,0.03
+505,a degree of devolved responsibility,degree,Abstract quantity,1,0.03
+506,a degree of divine power-sharing,degree,Abstract quantity,1,0.03
+507,a degree of economic dependency,degree,Abstract quantity,1,0.03
+508,a degree of economic independence,degree,Abstract quantity,1,0.03
+509,a degree of economic prosperity,degree,Abstract quantity,1,0.03
+510,a degree of economic security,degree,Abstract quantity,1,0.03
+511,a degree of empirical testability,degree,Abstract quantity,1,0.03
+512,a degree of enforced dependence,degree,Abstract quantity,1,0.03
+513,a degree of environmental protection,degree,Abstract quantity,1,0.03
+514,a degree of essential moisture,degree,Abstract quantity,1,0.03
+515,a degree of ethnic diversity,degree,Abstract quantity,1,0.03
+516,a degree of excess capacity,degree,Abstract quantity,1,0.03
+517,a degree of excess hostility,degree,Abstract quantity,1,0.03
+518,a degree of external influence,degree,Abstract quantity,1,0.03
+519,a degree of false diplomacy,degree,Abstract quantity,1,0.03
+520,a degree of financial dependency,degree,Abstract quantity,1,0.03
+521,a degree of financial independence,degree,Abstract quantity,1,0.03
+522,a degree of foreign participation,degree,Abstract quantity,1,0.03
+523,a degree of foreign-policy alignment,degree,Abstract quantity,1,0.03
+524,a degree of formal connection,degree,Abstract quantity,1,0.03
+525,a degree of genuine independence,degree,Abstract quantity,1,0.03
+526,a degree of glandular distortion,degree,Abstract quantity,1,0.03
+527,a degree of global harmonisation,degree,Abstract quantity,1,0.03
+528,a degree of glycaemic control,degree,Abstract quantity,1,0.03
+529,a degree of governmental stability,degree,Abstract quantity,1,0.03
+530,a degree of historical inaccuracy,degree,Abstract quantity,1,0.03
+531,a degree of human authenticity,degree,Abstract quantity,1,0.03
+532,a degree of human wisdom,degree,Abstract quantity,1,0.03
+533,a degree of imperial elan,degree,Abstract quantity,1,0.03
+534,a degree of independent authority,degree,Abstract quantity,1,0.03
+535,a degree of individual responsibility,degree,Abstract quantity,1,0.03
+536,a degree of individual variation,degree,Abstract quantity,1,0.03
+537,a degree of inherent risk,degree,Abstract quantity,1,0.03
+538,a degree of intellectual honesty,degree,Abstract quantity,1,0.03
+539,a degree of intellectual space,degree,Abstract quantity,1,0.03
+540,a degree of inter-sectorial collaboration,degree,Abstract quantity,1,0.03
+541,a degree of inter-subjective understanding,degree,Abstract quantity,1,0.03
+542,a degree of interactive processing,degree,Abstract quantity,1,0.03
+543,a degree of interdependent affiliation,degree,Abstract quantity,1,0.03
+544,a degree of internal autonomy,degree,Abstract quantity,1,0.03
+545,a degree of internal competition,degree,Abstract quantity,1,0.03
+546,a degree of international personality,degree,Abstract quantity,1,0.03
+547,a degree of journalistic attention,degree,Abstract quantity,1,0.03
+548,a degree of late equalization,degree,Abstract quantity,1,0.03
+549,a degree of linguistic innovation,degree,Abstract quantity,1,0.03
+550,a degree of linguistic self-consciousness,degree,Abstract quantity,1,0.03
+551,a degree of linguistic tolerance,degree,Abstract quantity,1,0.03
+552,a degree of manual post-editing,degree,Abstract quantity,1,0.03
+553,a degree of moral ambivalence,degree,Abstract quantity,1,0.03
+554,a degree of moral superiority,degree,Abstract quantity,1,0.03
+555,a degree of multifunctional use,degree,Abstract quantity,1,0.03
+556,a degree of mystical malevolence,degree,Abstract quantity,1,0.03
+557,a degree of nervous exhaustion,degree,Abstract quantity,1,0.03
+558,a degree of non-anomalous unusualness,degree,Abstract quantity,1,0.03
+559,a degree of official support,degree,Abstract quantity,1,0.03
+560,a degree of operational autonomy,degree,Abstract quantity,1,0.03
+561,a degree of parental co-operation,degree,Abstract quantity,1,0.03
+562,a degree of permanent damage,degree,Abstract quantity,1,0.03
+563,a degree of personal disruption,degree,Abstract quantity,1,0.03
+564,a degree of personal experience,degree,Abstract quantity,1,0.03
+565,a degree of personal involvement,degree,Abstract quantity,1,0.03
+566,a degree of personal power,degree,Abstract quantity,1,0.03
+567,a degree of personal protection,degree,Abstract quantity,1,0.03
+568,a degree of physical attractiveness,degree,Abstract quantity,1,0.03
+569,a degree of planetary turmoil,degree,Abstract quantity,1,0.03
+570,a degree of political activism,degree,Abstract quantity,1,0.03
+571,a degree of political consensus,degree,Abstract quantity,1,0.03
+572,a degree of political education,degree,Abstract quantity,1,0.03
+573,A degree of political liberalization,degree,Abstract quantity,1,0.03
+574,a degree of political neutrality,degree,Abstract quantity,1,0.03
+575,a degree of political reality,degree,Abstract quantity,1,0.03
+576,a degree of political science,degree,Abstract quantity,1,0.03
+577,A degree of political sensitivity,degree,Abstract quantity,1,0.03
+578,a degree of political skill,degree,Abstract quantity,1,0.03
+579,a degree of positive elasticity,degree,Abstract quantity,1,0.03
+580,a degree of post-infarct fitness,degree,Abstract quantity,1,0.03
+581,a degree of practical knowledge,degree,Abstract quantity,1,0.03
+582,a degree of practical skill,degree,Abstract quantity,1,0.03
+583,a degree of pragmatic compromise,degree,Abstract quantity,1,0.03
+584,a degree of presidential dignity,degree,Abstract quantity,1,0.03
+585,a degree of primary prevention,degree,Abstract quantity,1,0.03
+586,a degree of public explicitness,degree,Abstract quantity,1,0.03
+587,a degree of public funding,degree,Abstract quantity,1,0.03
+588,a degree of public participation,degree,Abstract quantity,1,0.03
+589,a degree of public protection,degree,Abstract quantity,1,0.03
+590,a degree of quasi-legal authority,degree,Abstract quantity,1,0.03
+591,a degree of rural depression,degree,Abstract quantity,1,0.03
+592,a degree of sexual freedom,degree,Abstract quantity,1,0.03
+593,a degree of shared interest,degree,Abstract quantity,1,0.03
+594,a degree of social anonymity,degree,Abstract quantity,1,0.03
+595,a degree of social contentment,degree,Abstract quantity,1,0.03
+596,a degree of social disengagement,degree,Abstract quantity,1,0.03
+597,a degree of social disorganization,degree,Abstract quantity,1,0.03
+598,a degree of social organization,degree,Abstract quantity,1,0.03
+599,a degree of social prestige,degree,Abstract quantity,1,0.03
+600,a degree of social rapport,degree,Abstract quantity,1,0.03
+601,a degree of social responsibility,degree,Abstract quantity,1,0.03
+602,a degree of social service,degree,Abstract quantity,1,0.03
+603,a degree of social stability,degree,Abstract quantity,1,0.03
+604,a degree of social standing,degree,Abstract quantity,1,0.03
+605,a degree of Soviet respect,degree,Abstract quantity,1,0.03
+606,a degree of spastic paralysis,degree,Abstract quantity,1,0.03
+607,A degree of statutory definition,degree,Abstract quantity,1,0.03
+608,a degree of strategic competition,degree,Abstract quantity,1,0.03
+609,a degree of tacit legitimacy,degree,Abstract quantity,1,0.03
+610,a degree of taxonomic doubt,degree,Abstract quantity,1,0.03
+611,a degree of technological prowess,degree,Abstract quantity,1,0.03
+612,a degree of tubal involvement,degree,Abstract quantity,1,0.03
+613,a degree of understandable tedium,degree,Abstract quantity,1,0.03
+614,a degree of undisturbed continuity,degree,Abstract quantity,1,0.03
+615,a degree of vaginal discharge,degree,Abstract quantity,1,0.03
+616,a degree of veterinary skill,degree,Abstract quantity,1,0.03
+617,a degree of wishful thinking,degree,Abstract quantity,1,0.03
+618,a degree of womanly shifting,degree,Abstract quantity,1,0.03
+619,a drop of distilled water,drop,Small / discrete,1,0.03
+620,a drop of dusty water,drop,Small / discrete,1,0.03
+621,a drop of fresh air,drop,Small / discrete,1,0.03
+622,a drop of good stuff,drop,Small / discrete,1,0.03
+623,a drop of hydrochloric acid,drop,Small / discrete,1,0.03
+624,a drop of Indian blood,drop,Small / discrete,1,0.03
+625,a drop of intoxicating liquor,drop,Small / discrete,1,0.03
+626,a drop of Irish blood,drop,Small / discrete,1,0.03
+627,a drop of methylated spirit,drop,Small / discrete,1,0.03
+628,a drop of oleic acid,drop,Small / discrete,1,0.03
+629,a drop of olive oil,drop,Small / discrete,1,0.03
+630,a drop of real hatred,drop,Small / discrete,1,0.03
+631,a drop of scented extract,drop,Small / discrete,1,0.03
+632,a drop of Scottish blood,drop,Small / discrete,1,0.03
+633,a drop of soluble dye,drop,Small / discrete,1,0.03
+634,a drop of spilled milk,drop,Small / discrete,1,0.03
+635,a drop of unofficial &#x163;uica,drop,Small / discrete,1,0.03
+636,a gallon of disgusting adhesive,gallon,Volume,1,0.03
+637,a gallon of fresh seawater,gallon,Volume,1,0.03
+638,a gallon of mature water,gallon,Volume,1,0.03
+639,a gallon of potable water,gallon,Volume,1,0.03
+640,a gallon of unleaded Company,gallon,Volume,1,0.03
+641,a glass of chilled fino,glass,Container,1,0.03
+642,a glass of clear water,glass,Container,1,0.03
+643,a glass of dark liquid,glass,Container,1,0.03
+644,a glass of dark-brown liquid,glass,Container,1,0.03
+645,a glass of dirty water,glass,Container,1,0.03
+646,a glass of effervescent Vitamin,glass,Container,1,0.03
+647,a glass of Ephractian feather-wine,glass,Container,1,0.03
+648,a glass of fresh lime,glass,Container,1,0.03
+649,a glass of fresh orangeade,glass,Container,1,0.03
+650,a glass of frosted lime,glass,Container,1,0.03
+651,a glass of ginger ale,glass,Container,1,0.03
+652,a glass of ginger beer,glass,Container,1,0.03
+653,a glass of ginger wine,glass,Container,1,0.03
+654,a glass of good wine,glass,Container,1,0.03
+655,a glass of home-brewed beer,glass,Container,1,0.03
+656,a glass of homemade raisin,glass,Container,1,0.03
+657,a glass of hot lemon,glass,Container,1,0.03
+658,a glass of hot Vimto,glass,Container,1,0.03
+659,A GLASS of hot water,glass,Container,1,0.03
+660,a glass of hot whisky,glass,Container,1,0.03
+661,A glass of iced cognac,glass,Container,1,0.03
+662,A glass of imported Wine,glass,Container,1,0.03
+663,a glass of Italian wine,glass,Container,1,0.03
+664,A glass of light wine,glass,Container,1,0.03
+665,a glass of local brandy,glass,Container,1,0.03
+666,a glass of melatonin-rich urine,glass,Container,1,0.03
+667,a glass of muddy water,glass,Container,1,0.03
+668,a glass of neat malt,glass,Container,1,0.03
+669,a glass of neat Scotch,glass,Container,1,0.03
+670,a glass of nice wine,glass,Container,1,0.03
+671,a glass of privatised water,glass,Container,1,0.03
+672,a glass of pure water,glass,Container,1,0.03
+673,a glass of Russian vodka,glass,Container,1,0.03
+674,a glass of salted water,glass,Container,1,0.03
+675,a glass of small beer,glass,Container,1,0.03
+676,a glass of Southern Comfort,glass,Container,1,0.03
+677,a glass of Sticky Green,glass,Container,1,0.03
+678,a glass of straw-coloured wine,glass,Container,1,0.03
+679,a glass of sweet dessert,glass,Container,1,0.03
+680,a glass of tepid water,glass,Container,1,0.03
+681,A glass of untasted wine,glass,Container,1,0.03
+682,a glass of Volvic mineral,glass,Container,1,0.03
+683,a glass of watered wine,glass,Container,1,0.03
+684,a grain of good wheat,grain,Small / discrete,1,0.03
+685,a grain of professional jealousy,grain,Small / discrete,1,0.03
+686,a grain of spiritual content,grain,Small / discrete,1,0.03
+687,a grain of whiskered barley,grain,Small / discrete,1,0.03
+688,a group of Abstract Expressionist,group,Numerical / counting,1,0.03
+689,A group of American businessman,group,Numerical / counting,1,0.03
+690,a group of American Legion,group,Numerical / counting,1,0.03
+691,a group of American mining,group,Numerical / counting,1,0.03
+692,A group of American venture,group,Numerical / counting,1,0.03
+693,a group of archaeological material,group,Numerical / counting,1,0.03
+694,a group of British Steel,group,Numerical / counting,1,0.03
+695,a group of British tennis,group,Numerical / counting,1,0.03
+696,a group of Central School,group,Numerical / counting,1,0.03
+697,a group of Chinese fisherman,group,Numerical / counting,1,0.03
+698,a group of dedicated train,group,Numerical / counting,1,0.03
+699,a group of direct life-cycle,group,Numerical / counting,1,0.03
+700,a group of electronic distribution,group,Numerical / counting,1,0.03
+701,a group of empty ale,group,Numerical / counting,1,0.03
+702,a group of English aviation,group,Numerical / counting,1,0.03
+703,A group of evangelical youth,group,Numerical / counting,1,0.03
+704,a group of fine wall,group,Numerical / counting,1,0.03
+705,a group of foreign language,group,Numerical / counting,1,0.03
+706,A group of full time,group,Numerical / counting,1,0.03
+707,a group of German bank,group,Numerical / counting,1,0.03
+708,a group of hereditary State,group,Numerical / counting,1,0.03
+709,a group of high dollar,group,Numerical / counting,1,0.03
+710,a group of independent energy,group,Numerical / counting,1,0.03
+711,a group of independent software,group,Numerical / counting,1,0.03
+712,a group of intermediate signal,group,Numerical / counting,1,0.03
+713,A group of Italian fighter,group,Numerical / counting,1,0.03
+714,a group of Jordanian security,group,Numerical / counting,1,0.03
+715,a group of junior school,group,Numerical / counting,1,0.03
+716,a group of known child,group,Numerical / counting,1,0.03
+717,A group of leading opposition,group,Numerical / counting,1,0.03
+718,a group of Liberal cabinet,group,Numerical / counting,1,0.03
+719,a group of like-minded radio,group,Numerical / counting,1,0.03
+720,a group of local community,group,Numerical / counting,1,0.03
+721,a group of local railway,group,Numerical / counting,1,0.03
+722,A group of low cost,group,Numerical / counting,1,0.03
+723,a group of matched control,group,Numerical / counting,1,0.03
+724,a group of mental health,group,Numerical / counting,1,0.03
+725,a group of modern realist,group,Numerical / counting,1,0.03
+726,a group of National Certificate,group,Numerical / counting,1,0.03
+727,a group of National Front,group,Numerical / counting,1,0.03
+728,a group of native hawthorn,group,Numerical / counting,1,0.03
+729,a group of native Inuit,group,Numerical / counting,1,0.03
+730,A group of New Age,group,Numerical / counting,1,0.03
+731,a group of Northern business,group,Numerical / counting,1,0.03
+732,a group of offshore oil,group,Numerical / counting,1,0.03
+733,a group of oleochemical processing,group,Numerical / counting,1,0.03
+734,a group of professional craftspeople,group,Numerical / counting,1,0.03
+735,a group of public school,group,Numerical / counting,1,0.03
+736,a group of rare School,group,Numerical / counting,1,0.03
+737,a group of related policy,group,Numerical / counting,1,0.03
+738,a group of Royal Air,group,Numerical / counting,1,0.03
+739,A GROUP of Royal Bank,group,Numerical / counting,1,0.03
+740,a group of scented leaf,group,Numerical / counting,1,0.03
+741,a group of scraggy pine,group,Numerical / counting,1,0.03
+742,a group of senior air,group,Numerical / counting,1,0.03
+743,a group of senior party,group,Numerical / counting,1,0.03
+744,A group of silver-mounted back,group,Numerical / counting,1,0.03
+745,A group of small copper,group,Numerical / counting,1,0.03
+746,a group of talented �migr�,group,Numerical / counting,1,0.03
+747,a group of traditional waterside,group,Numerical / counting,1,0.03
+748,a group of trusted household,group,Numerical / counting,1,0.03
+749,a group of unlikely student,group,Numerical / counting,1,0.03
+750,a group of unpublished sculpture,group,Numerical / counting,1,0.03
+751,a group of unsuspecting seal,group,Numerical / counting,1,0.03
+752,A group of veteran kite,group,Numerical / counting,1,0.03
+753,a group of well-intentioned N'pani,group,Numerical / counting,1,0.03
+754,a group of young Army,group,Numerical / counting,1,0.03
+755,a group of young trainee,group,Numerical / counting,1,0.03
+756,a handful of brown rice,handful,Portion,1,0.03
+757,a handful of clapped-out truck,handful,Portion,1,0.03
+758,a handful of coarse bonemeal,handful,Portion,1,0.03
+759,a handful of cold cream,handful,Portion,1,0.03
+760,a handful of crucial decider,handful,Portion,1,0.03
+761,a handful of demagogic trade,handful,Portion,1,0.03
+762,a handful of diehard music,handful,Portion,1,0.03
+763,a handful of dirty cotton-waste,handful,Portion,1,0.03
+764,a handful of dirty snow,handful,Portion,1,0.03
+765,a handful of early injury,handful,Portion,1,0.03
+766,a handful of flour-like snow,handful,Portion,1,0.03
+767,a handful of icy flour,handful,Portion,1,0.03
+768,a handful of idealistic youth,handful,Portion,1,0.03
+769,a handful of inedible salt,handful,Portion,1,0.03
+770,a handful of key motor,handful,Portion,1,0.03
+771,a handful of lilac skirt,handful,Portion,1,0.03
+772,a handful of long-term drug,handful,Portion,1,0.03
+773,a handful of major weaving,handful,Portion,1,0.03
+774,a handful of multi-dimensional spreadsheet,handful,Portion,1,0.03
+775,a handful of national store,handful,Portion,1,0.03
+776,a handful of needle-thin stuff,handful,Portion,1,0.03
+777,a handful of notorious star,handful,Portion,1,0.03
+778,a handful of ordinary package,handful,Portion,1,0.03
+779,a handful of organic fertiliser,handful,Portion,1,0.03
+780,a handful of other Army,handful,Portion,1,0.03
+781,a handful of other minority,handful,Portion,1,0.03
+782,a handful of pink candyfloss,handful,Portion,1,0.03
+783,a handful of rare breed,handful,Portion,1,0.03
+784,a handful of sexual difference,handful,Portion,1,0.03
+785,a handful of small silver,handful,Portion,1,0.03
+786,a handful of sodden detritus,handful,Portion,1,0.03
+787,a handful of tiny fishing,handful,Portion,1,0.03
+788,A herd of Asian elephant,herd,Animal group,1,0.03
+789,a hour of simpering sycophancy,hour,Temporal,1,0.03
+790,a kilogram of lethal dioxin,kilogram,Weight,1,0.03
+791,a length of ash-blonde hair,length,Spatial,1,0.03
+792,a length of binding twine,length,Spatial,1,0.03
+793,a length of black velvet,length,Spatial,1,0.03
+794,a length of blue glass,length,Spatial,1,0.03
+795,a length of braided terylene,length,Spatial,1,0.03
+796,a length of cold sausage,length,Spatial,1,0.03
+797,a length of dental floss,length,Spatial,1,0.03
+798,a length of dressing-gown cord,length,Spatial,1,0.03
+799,a length of electric cable,length,Spatial,1,0.03
+800,a length of flexible tubing,length,Spatial,1,0.03
+801,a length of grubby cord,length,Spatial,1,0.03
+802,a length of hairy string,length,Spatial,1,0.03
+803,a length of knotted rope,length,Spatial,1,0.03
+804,a length of narrow stretch-lace,length,Spatial,1,0.03
+805,a length of net curtain,length,Spatial,1,0.03
+806,a length of nucleic acid,length,Spatial,1,0.03
+807,a length of old electricity,length,Spatial,1,0.03
+808,a length of old rope,length,Spatial,1,0.03
+809,a length of optical fibre,length,Spatial,1,0.03
+810,a length of plated chain,length,Spatial,1,0.03
+811,a length of rubber piping,length,Spatial,1,0.03
+812,a length of scarlet nylon,length,Spatial,1,0.03
+813,a length of self-healing cable,length,Spatial,1,0.03
+814,a length of split foam,length,Spatial,1,0.03
+815,a length of stiff wire,length,Spatial,1,0.03
+816,a length of thin chain,length,Spatial,1,0.03
+817,A length of twisted copper,length,Spatial,1,0.03
+818,a length of white chiffon,length,Spatial,1,0.03
+819,a length of white cotton,length,Spatial,1,0.03
+820,a level of abstract letter,level,Abstract quantity,1,0.03
+821,a level of agricultural production,level,Abstract quantity,1,0.03
+822,a level of anticipatory responsibility,level,Abstract quantity,1,0.03
+823,a level of artificial instrumentation,level,Abstract quantity,1,0.03
+824,a level of bare subsistence,level,Abstract quantity,1,0.03
+825,a level of basic fitness,level,Abstract quantity,1,0.03
+826,a level of Christian effectiveness,level,Abstract quantity,1,0.03
+827,a level of close supervision,level,Abstract quantity,1,0.03
+828,a level of cognitive development,level,Abstract quantity,1,0.03
+829,a level of collective consciousness,level,Abstract quantity,1,0.03
+830,a level of continued mutuality,level,Abstract quantity,1,0.03
+831,a level of deep calm,level,Abstract quantity,1,0.03
+832,a level of detailed documentation,level,Abstract quantity,1,0.03
+833,a level of devolved responsibility,level,Abstract quantity,1,0.03
+834,a level of economic decency,level,Abstract quantity,1,0.03
+835,a level of economic health,level,Abstract quantity,1,0.03
+836,a level of good practice,level,Abstract quantity,1,0.03
+837,a level of high command,level,Abstract quantity,1,0.03
+838,a level of impersonal knowledge,level,Abstract quantity,1,0.03
+839,a level of intellectual independence,level,Abstract quantity,1,0.03
+840,a level of linguistic ability,level,Abstract quantity,1,0.03
+841,a level of local administration,level,Abstract quantity,1,0.03
+842,a level of logical rigour,level,Abstract quantity,1,0.03
+843,a level of long-term unemployment,level,Abstract quantity,1,0.03
+844,a level of mutual aggression,level,Abstract quantity,1,0.03
+845,a level of narrative structure,level,Abstract quantity,1,0.03
+846,a level of national self-respect,level,Abstract quantity,1,0.03
+847,a level of national significance,level,Abstract quantity,1,0.03
+848,a level of national vulgarity,level,Abstract quantity,1,0.03
+849,a level of non-taxable income,level,Abstract quantity,1,0.03
+850,a level of personal responsibility,level,Abstract quantity,1,0.03
+851,a level of physical intimacy,level,Abstract quantity,1,0.03
+852,a level of popular appeal,level,Abstract quantity,1,0.03
+853,a level of popular approval,level,Abstract quantity,1,0.03
+854,a level of professional job,level,Abstract quantity,1,0.03
+855,a level of public demonstration,level,Abstract quantity,1,0.03
+856,a level of public transport,level,Abstract quantity,1,0.03
+857,a level of regional government,level,Abstract quantity,1,0.03
+858,a level of religious interest,level,Abstract quantity,1,0.03
+859,a level of social differentiation,level,Abstract quantity,1,0.03
+860,a level of strategic thinking,level,Abstract quantity,1,0.03
+861,a level of technical expertise,level,Abstract quantity,1,0.03
+862,a level of technical exposition,level,Abstract quantity,1,0.03
+863,a level of theoretical understanding,level,Abstract quantity,1,0.03
+864,a level of unearned income,level,Abstract quantity,1,0.03
+865,a level of verbal choice,level,Abstract quantity,1,0.03
+866,a litre of fresh water,litre,Volume,1,0.03
+867,a litre of near-boiling water,litre,Volume,1,0.03
+868,a litre of pure water,litre,Volume,1,0.03
+869,a litre of two-year-old diesel,litre,Volume,1,0.03
+870,a load of bloody bunkum,load,Portion / quantity,1,0.03
+871,A load of bloody cherry,load,Portion / quantity,1,0.03
+872,a load of bloody shit,load,Portion / quantity,1,0.03
+873,a load of bulky junk,load,Portion / quantity,1,0.03
+874,a load of chromium-polluted effluent,load,Portion / quantity,1,0.03
+875,a load of contraband liquor,load,Portion / quantity,1,0.03
+876,A load of different hair,load,Portion / quantity,1,0.03
+877,a load of fucking crap,load,Portion / quantity,1,0.03
+878,a load of genealogical history,load,Portion / quantity,1,0.03
+879,a load of good grub,load,Portion / quantity,1,0.03
+880,a load of good stuff,load,Portion / quantity,1,0.03
+881,a load of live ammunition,load,Portion / quantity,1,0.03
+882,a load of modern usage,load,Portion / quantity,1,0.03
+883,a load of neat amino,load,Portion / quantity,1,0.03
+884,a load of noisy engine,load,Portion / quantity,1,0.03
+885,a load of old Boss,load,Portion / quantity,1,0.03
+886,a load of old cosh,load,Portion / quantity,1,0.03
+887,a load of old flannel,load,Portion / quantity,1,0.03
+888,a load of old pine,load,Portion / quantity,1,0.03
+889,a load of old rubbish,load,Portion / quantity,1,0.03
+890,a load of old tosh,load,Portion / quantity,1,0.03
+891,A LOAD OF OLD verdict,load,Portion / quantity,1,0.03
+892,a load of pompous twaddle,load,Portion / quantity,1,0.03
+893,a load of premature responsibility,load,Portion / quantity,1,0.03
+894,a load of ready mix,load,Portion / quantity,1,0.03
+895,a load of sloppy butter,load,Portion / quantity,1,0.03
+896,a load of Sorry microphone,load,Portion / quantity,1,0.03
+897,a load of superannuated computing,load,Portion / quantity,1,0.03
+898,a load of Unique make-up,load,Portion / quantity,1,0.03
+899,a load of unwanted sawdust,load,Portion / quantity,1,0.03
+900,A load of verbal abuse,load,Portion / quantity,1,0.03
+901,a loaf of black bread,loaf,Portion,1,0.03
+902,a loaf of fresh bread,loaf,Portion,1,0.03
+903,a loaf of new bread,loaf,Portion,1,0.03
+904,a loaf of white bread,loaf,Portion,1,0.03
+905,a loaf of wholemeal bread,loaf,Portion,1,0.03
+906,a metre of glutinous snow,metre,Length,1,0.03
+907,a month of civil war,month,Temporal,1,0.03
+908,a month of continued competition,month,Temporal,1,0.03
+909,a month of domestic bliss,month,Temporal,1,0.03
+910,a month of factional discord,month,Temporal,1,0.03
+911,a month of intense fighting,month,Temporal,1,0.03
+912,a month of little daylight,month,Temporal,1,0.03
+913,a month of near despair,month,Temporal,1,0.03
+914,a month of political stalemate,month,Temporal,1,0.03
+915,A month of political unrest,month,Temporal,1,0.03
+916,a month of relative peace,month,Temporal,1,0.03
+917,A month of unslaked lust,month,Temporal,1,0.03
+918,a month of untold agony,month,Temporal,1,0.03
+919,a month of welcome holiday,month,Temporal,1,0.03
+920,a pack of African Hunting,pack,Container,1,0.03
+921,a pack of cute puppy,pack,Container,1,0.03
+922,a pack of ground beef,pack,Container,1,0.03
+923,a pack of relevant information,pack,Container,1,0.03
+924,a pair of 20-foot birdie,pair,Numerical / counting,1,0.03
+925,a pair of active Bartolinis,pair,Numerical / counting,1,0.03
+926,a pair of alright rugby,pair,Numerical / counting,1,0.03
+927,a pair of antique silver,pair,Numerical / counting,1,0.03
+928,a pair of astonishing bronze,pair,Numerical / counting,1,0.03
+929,a pair of ball-bearing roller,pair,Numerical / counting,1,0.03
+930,a pair of battered leather,pair,Numerical / counting,1,0.03
+931,a pair of black cotton,pair,Numerical / counting,1,0.03
+932,a pair of black suede,pair,Numerical / counting,1,0.03
+933,a pair of Black Tab,pair,Numerical / counting,1,0.03
+934,a pair of black worsted,pair,Numerical / counting,1,0.03
+935,A pair of black-tailed god,pair,Numerical / counting,1,0.03
+936,a pair of brown leather,pair,Numerical / counting,1,0.03
+937,a pair of brown suede,pair,Numerical / counting,1,0.03
+938,a pair of calf-length fashion,pair,Numerical / counting,1,0.03
+939,a pair of carved lotus,pair,Numerical / counting,1,0.03
+940,a pair of chemomorphological dispersal,pair,Numerical / counting,1,0.03
+941,a pair of coddled veal,pair,Numerical / counting,1,0.03
+942,a pair of consecutive store,pair,Numerical / counting,1,0.03
+943,a pair of contra-rotating balancer,pair,Numerical / counting,1,0.03
+944,a pair of crumpled pyjama,pair,Numerical / counting,1,0.03
+945,a pair of dark boxer,pair,Numerical / counting,1,0.03
+946,a pair of decorated bronze,pair,Numerical / counting,1,0.03
+947,a pair of diehard Hitman,pair,Numerical / counting,1,0.03
+948,a pair of double-beam blast-furnace,pair,Numerical / counting,1,0.03
+949,a pair of dual cone,pair,Numerical / counting,1,0.03
+950,a pair of eccentric bedroom,pair,Numerical / counting,1,0.03
+951,a pair of Edwardian breakfront,pair,Numerical / counting,1,0.03
+952,a pair of elastic-sided City,pair,Numerical / counting,1,0.03
+953,a pair of enhanced mode,pair,Numerical / counting,1,0.03
+954,a pair of European eagle,pair,Numerical / counting,1,0.03
+955,a pair of exquisite bone,pair,Numerical / counting,1,0.03
+956,A pair of fake fur,pair,Numerical / counting,1,0.03
+957,a pair of fancy stockin,pair,Numerical / counting,1,0.03
+958,a pair of floral dancing,pair,Numerical / counting,1,0.03
+959,a pair of free air,pair,Numerical / counting,1,0.03
+960,a pair of French workman,pair,Numerical / counting,1,0.03
+961,a pair of fucking deck,pair,Numerical / counting,1,0.03
+962,a pair of fur-lined cowboy,pair,Numerical / counting,1,0.03
+963,A pair of golden eye,pair,Numerical / counting,1,0.03
+964,a pair of golden plover,pair,Numerical / counting,1,0.03
+965,A pair of good cotton,pair,Numerical / counting,1,0.03
+966,a pair of good walking,pair,Numerical / counting,1,0.03
+967,a pair of good wingback,pair,Numerical / counting,1,0.03
+968,A pair of Gothic type,pair,Numerical / counting,1,0.03
+969,a pair of grand steel,pair,Numerical / counting,1,0.03
+970,a pair of greasy Government,pair,Numerical / counting,1,0.03
+971,a pair of great fabric,pair,Numerical / counting,1,0.03
+972,a pair of great Line,pair,Numerical / counting,1,0.03
+973,a pair of green bronze,pair,Numerical / counting,1,0.03
+974,a pair of green plastic,pair,Numerical / counting,1,0.03
+975,a pair of grey corduroy,pair,Numerical / counting,1,0.03
+976,a pair of half-derelict mountain,pair,Numerical / counting,1,0.03
+977,a pair of heart-shaped sapphire,pair,Numerical / counting,1,0.03
+978,a pair of heavy duty,pair,Numerical / counting,1,0.03
+979,a pair of heavy wool,pair,Numerical / counting,1,0.03
+980,a pair of hydraulic snow,pair,Numerical / counting,1,0.03
+981,a pair of Indian army,pair,Numerical / counting,1,0.03
+982,a pair of infrared night,pair,Numerical / counting,1,0.03
+983,a pair of iron-pointed walking,pair,Numerical / counting,1,0.03
+984,a pair of Jacobean garden,pair,Numerical / counting,1,0.03
+985,A pair of Japanese satsuma,pair,Numerical / counting,1,0.03
+986,a pair of jelly-filled fishing,pair,Numerical / counting,1,0.03
+987,a pair of large aluminium,pair,Numerical / counting,1,0.03
+988,a pair of large bone,pair,Numerical / counting,1,0.03
+989,a pair of large drop,pair,Numerical / counting,1,0.03
+990,a pair of large gilt,pair,Numerical / counting,1,0.03
+991,a pair of large man,pair,Numerical / counting,1,0.03
+992,a pair of light pyjama,pair,Numerical / counting,1,0.03
+993,a pair of light wool,pair,Numerical / counting,1,0.03
+994,a pair of lightweight vinyl,pair,Numerical / counting,1,0.03
+995,a pair of massive bath,pair,Numerical / counting,1,0.03
+996,a pair of modest mid-season,pair,Numerical / counting,1,0.03
+997,a pair of muddy wellington,pair,Numerical / counting,1,0.03
+998,a pair of National Health,pair,Numerical / counting,1,0.03
+999,a pair of new gold,pair,Numerical / counting,1,0.03
+1000,a pair of new timber-boarded,pair,Numerical / counting,1,0.03
+1001,a pair of normal diesel,pair,Numerical / counting,1,0.03
+1002,a pair of old signalling,pair,Numerical / counting,1,0.03
+1003,a pair of old-fashioned curling,pair,Numerical / counting,1,0.03
+1004,a pair of old-type telephone,pair,Numerical / counting,1,0.03
+1005,a pair of open-toed court,pair,Numerical / counting,1,0.03
+1006,a pair of ordinary plastic,pair,Numerical / counting,1,0.03
+1007,a pair of pale kid,pair,Numerical / counting,1,0.03
+1008,A pair of pied wag,pair,Numerical / counting,1,0.03
+1009,a pair of pink marble,pair,Numerical / counting,1,0.03
+1010,a pair of plain glass,pair,Numerical / counting,1,0.03
+1011,a pair of pure silk,pair,Numerical / counting,1,0.03
+1012,A PAIR of quick thinking,pair,Numerical / counting,1,0.03
+1013,a pair of ragged denim,pair,Numerical / counting,1,0.03
+1014,a pair of red brick,pair,Numerical / counting,1,0.03
+1015,a pair of red leather,pair,Numerical / counting,1,0.03
+1016,a pair of roiled-up rugby,pair,Numerical / counting,1,0.03
+1017,a pair of Royal Bank,pair,Numerical / counting,1,0.03
+1018,a pair of rubber-soled navy,pair,Numerical / counting,1,0.03
+1019,a pair of salt-stained gym,pair,Numerical / counting,1,0.03
+1020,a pair of shaped top,pair,Numerical / counting,1,0.03
+1021,a pair of short sailing,pair,Numerical / counting,1,0.03
+1022,A pair of Siamese Fighting,pair,Numerical / counting,1,0.03
+1023,a pair of silver-gilt candelabra,pair,Numerical / counting,1,0.03
+1024,a pair of slim navy,pair,Numerical / counting,1,0.03
+1025,a pair of small topaz,pair,Numerical / counting,1,0.03
+1026,a pair of small tortoiseshell,pair,Numerical / counting,1,0.03
+1027,a pair of smart leather,pair,Numerical / counting,1,0.03
+1028,a pair of soft contact,pair,Numerical / counting,1,0.03
+1029,a pair of somatic cell,pair,Numerical / counting,1,0.03
+1030,a pair of spare drum,pair,Numerical / counting,1,0.03
+1031,a pair of speckled wood,pair,Numerical / counting,1,0.03
+1032,a pair of stained work,pair,Numerical / counting,1,0.03
+1033,a pair of stout wellington,pair,Numerical / counting,1,0.03
+1034,a pair of string-backed driving,pair,Numerical / counting,1,0.03
+1035,a pair of superb whooper,pair,Numerical / counting,1,0.03
+1036,a pair of thin gauze,pair,Numerical / counting,1,0.03
+1037,a pair of tiny gold,pair,Numerical / counting,1,0.03
+1038,a pair of vicious piggy,pair,Numerical / counting,1,0.03
+1039,a pair of Victorian ankle,pair,Numerical / counting,1,0.03
+1040,a pair of white bikini,pair,Numerical / counting,1,0.03
+1041,a pair of white calico,pair,Numerical / counting,1,0.03
+1042,a pair of white cotton,pair,Numerical / counting,1,0.03
+1043,a pair of white football,pair,Numerical / counting,1,0.03
+1044,a pair of white jogging,pair,Numerical / counting,1,0.03
+1045,a pair of white satin,pair,Numerical / counting,1,0.03
+1046,a pair of white worsted,pair,Numerical / counting,1,0.03
+1047,a pair of wild barn,pair,Numerical / counting,1,0.03
+1048,a pair of wind-powered telephone,pair,Numerical / counting,1,0.03
+1049,a period of absolute decline,period,Temporal,1,0.03
+1050,a period of active community,period,Temporal,1,0.03
+1051,a period of active mailing,period,Temporal,1,0.03
+1052,a period of acute difficulty,period,Temporal,1,0.03
+1053,a period of acute hypoxia,period,Temporal,1,0.03
+1054,a period of acute stagnation,period,Temporal,1,0.03
+1055,a period of anti-Dutch feeling,period,Temporal,1,0.03
+1056,a period of anxious entrail-gazing,period,Temporal,1,0.03
+1057,a period of architectural optimism,period,Temporal,1,0.03
+1058,a period of artificial power,period,Temporal,1,0.03
+1059,a period of artistic training,period,Temporal,1,0.03
+1060,a period of astonishing transformation,period,Temporal,1,0.03
+1061,a period of attempted stabilisation,period,Temporal,1,0.03
+1062,a period of baronial bargaining,period,Temporal,1,0.03
+1063,A period of big expansion,period,Temporal,1,0.03
+1064,a period of blessed innocence,period,Temporal,1,0.03
+1065,a period of blurred dark,period,Temporal,1,0.03
+1066,a period of brief interruption,period,Temporal,1,0.03
+1067,a period of British politics,period,Temporal,1,0.03
+1068,a period of budgetary growth,period,Temporal,1,0.03
+1069,a period of calm reflection,period,Temporal,1,0.03
+1070,a period of careful observation,period,Temporal,1,0.03
+1071,a period of cataclysmic turmoil,period,Temporal,1,0.03
+1072,a period of climatic deterioration,period,Temporal,1,0.03
+1073,a period of close co-operation,period,Temporal,1,0.03
+1074,a period of cold weather,period,Temporal,1,0.03
+1075,a period of comparative ease,period,Temporal,1,0.03
+1076,a period of comparative peace,period,Temporal,1,0.03
+1077,a period of compulsory leisure,period,Temporal,1,0.03
+1078,a period of considerable difficulty,period,Temporal,1,0.03
+1079,a period of considerable discomfort,period,Temporal,1,0.03
+1080,a period of considerable exposure,period,Temporal,1,0.03
+1081,a period of considerable growth,period,Temporal,1,0.03
+1082,a period of considerable instability,period,Temporal,1,0.03
+1083,a period of considerable optimism,period,Temporal,1,0.03
+1084,a period of considerable pressure,period,Temporal,1,0.03
+1085,a period of considerable self-doubt,period,Temporal,1,0.03
+1086,a period of considerable turbulence,period,Temporal,1,0.03
+1087,a period of considerable uncertainty,period,Temporal,1,0.03
+1088,a period of considerable world,period,Temporal,1,0.03
+1089,a period of consistent decrease,period,Temporal,1,0.03
+1090,a period of constant application,period,Temporal,1,0.03
+1091,a period of continued observation,period,Temporal,1,0.03
+1092,a period of continuing uncertainty,period,Temporal,1,0.03
+1093,A period of continuous study,period,Temporal,1,0.03
+1094,a period of cultural stability,period,Temporal,1,0.03
+1095,A period of day-hospital care,period,Temporal,1,0.03
+1096,a period of declining career,period,Temporal,1,0.03
+1097,a period of declining income,period,Temporal,1,0.03
+1098,a period of declining world,period,Temporal,1,0.03
+1099,a period of deep contentment,period,Temporal,1,0.03
+1100,a period of deep depression,period,Temporal,1,0.03
+1101,a period of deep meditation,period,Temporal,1,0.03
+1102,a period of desperate warfare,period,Temporal,1,0.03
+1103,a period of devotional Bible,period,Temporal,1,0.03
+1104,a period of dignified leisure,period,Temporal,1,0.03
+1105,a period of diplomatic silence,period,Temporal,1,0.03
+1106,a period of distinguished service,period,Temporal,1,0.03
+1107,a period of dynamic growth,period,Temporal,1,0.03
+1108,a period of easy money,period,Temporal,1,0.03
+1109,a period of economic crisis,period,Temporal,1,0.03
+1110,a period of economic depression,period,Temporal,1,0.03
+1111,a period of economic dislocation,period,Temporal,1,0.03
+1112,a period of economic downturn,period,Temporal,1,0.03
+1113,a period of economic history,period,Temporal,1,0.03
+1114,a period of economic pressure,period,Temporal,1,0.03
+1115,a period of economic standstill,period,Temporal,1,0.03
+1116,a period of emotional stress,period,Temporal,1,0.03
+1117,a period of enforced absence,period,Temporal,1,0.03
+1118,a period of enforced introspection,period,Temporal,1,0.03
+1119,a period of enforced rest,period,Temporal,1,0.03
+1120,A period of English cricket,period,Temporal,1,0.03
+1121,a period of European conflict,period,Temporal,1,0.03
+1122,a period of extended credit,period,Temporal,1,0.03
+1123,a period of extensive change,period,Temporal,1,0.03
+1124,a period of extensive engineering,period,Temporal,1,0.03
+1125,a period of extraordinary cross-fertilization,period,Temporal,1,0.03
+1126,a period of extreme coolness,period,Temporal,1,0.03
+1127,a period of extreme softness,period,Temporal,1,0.03
+1128,a period of feverish growth,period,Temporal,1,0.03
+1129,a period of financial difficulty,period,Temporal,1,0.03
+1130,a period of frantic bargaining,period,Temporal,1,0.03
+1131,a period of free association,period,Temporal,1,0.03
+1132,a period of free movement,period,Temporal,1,0.03
+1133,a period of full time,period,Temporal,1,0.03
+1134,a period of full-time child-care,period,Temporal,1,0.03
+1135,a period of full-time study,period,Temporal,1,0.03
+1136,a period of general ineffectuality,period,Temporal,1,0.03
+1137,a period of geographical isolation,period,Temporal,1,0.03
+1138,a period of German Hellenism,period,Temporal,1,0.03
+1139,a period of glorious dependability,period,Temporal,1,0.03
+1140,a period of good behaviour,period,Temporal,1,0.03
+1141,a period of gradual progress,period,Temporal,1,0.03
+1142,a period of great affluence,period,Temporal,1,0.03
+1143,a period of great confusion,period,Temporal,1,0.03
+1144,a period of great disorder,period,Temporal,1,0.03
+1145,a period of great uncertainty,period,Temporal,1,0.03
+1146,a period of great upheaval,period,Temporal,1,0.03
+1147,a period of great volatility,period,Temporal,1,0.03
+1148,a period of growing disorientation,period,Temporal,1,0.03
+1149,a period of growing protectionism,period,Temporal,1,0.03
+1150,a period of growing self-criticism,period,Temporal,1,0.03
+1151,a period of heavy development,period,Temporal,1,0.03
+1152,a period of heavy unemployment,period,Temporal,1,0.03
+1153,a period of high demand,period,Temporal,1,0.03
+1154,a period of high labour,period,Temporal,1,0.03
+1155,a period of high mortality,period,Temporal,1,0.03
+1156,a period of high pressure,period,Temporal,1,0.03
+1157,a period of important change,period,Temporal,1,0.03
+1158,a period of in-service training,period,Temporal,1,0.03
+1159,a period of increased price,period,Temporal,1,0.03
+1160,a period of increasing demand,period,Temporal,1,0.03
+1161,a period of increasing dependency,period,Temporal,1,0.03
+1162,a period of increasing devotion,period,Temporal,1,0.03
+1163,a period of increasing risk,period,Temporal,1,0.03
+1164,a period of increasing success,period,Temporal,1,0.03
+1165,a period of industrial militancy,period,Temporal,1,0.03
+1166,a period of initial practice,period,Temporal,1,0.03
+1167,a period of intense concentration,period,Temporal,1,0.03
+1168,a period of intense debate,period,Temporal,1,0.03
+1169,a period of intense fighting,period,Temporal,1,0.03
+1170,a period of intense growth,period,Temporal,1,0.03
+1171,a period of intense isolation,period,Temporal,1,0.03
+1172,a period of intense learning,period,Temporal,1,0.03
+1173,a period of intense lobbying,period,Temporal,1,0.03
+1174,a period of intense pressure,period,Temporal,1,0.03
+1175,a period of intense reaction,period,Temporal,1,0.03
+1176,a period of intense speculation,period,Temporal,1,0.03
+1177,a period of intensive family,period,Temporal,1,0.03
+1178,a period of intensive participant,period,Temporal,1,0.03
+1179,a period of intensive propaganda,period,Temporal,1,0.03
+1180,a period of intensive self-examination,period,Temporal,1,0.03
+1181,a period of intermittent need,period,Temporal,1,0.03
+1182,a period of internal crisis,period,Temporal,1,0.03
+1183,a period of internal instability,period,Temporal,1,0.03
+1184,a period of jobless growth,period,Temporal,1,0.03
+1185,a period of judicial restraint,period,Temporal,1,0.03
+1186,A period of Labour government,period,Temporal,1,0.03
+1187,a period of lacklustre performance,period,Temporal,1,0.03
+1188,a period of left-wing licence-to-bore,period,Temporal,1,0.03
+1189,a period of low morale,period,Temporal,1,0.03
+1190,a period of major transformation,period,Temporal,1,0.03
+1191,a period of mass migration,period,Temporal,1,0.03
+1192,a period of mass unemployment,period,Temporal,1,0.03
+1193,a period of mental collapse,period,Temporal,1,0.03
+1194,A period of mental relaxation,period,Temporal,1,0.03
+1195,a period of military service,period,Temporal,1,0.03
+1196,a period of modest growth,period,Temporal,1,0.03
+1197,a period of momentous change,period,Temporal,1,0.03
+1198,a period of mutual co-existence,period,Temporal,1,0.03
+1199,a period of nationwide discussion,period,Temporal,1,0.03
+1200,A period of nationwide mourning,period,Temporal,1,0.03
+1201,a period of near prosperity,period,Temporal,1,0.03
+1202,a period of new morality,period,Temporal,1,0.03
+1203,a period of nomadic existence,period,Temporal,1,0.03
+1204,a period of non-inflationary growth,period,Temporal,1,0.03
+1205,a period of nonconformist growth,period,Temporal,1,0.03
+1206,a period of normal conversation,period,Temporal,1,0.03
+1207,a period of notable inflation,period,Temporal,1,0.03
+1208,a period of nutritional treatment,period,Temporal,1,0.03
+1209,a period of one-way dependence,period,Temporal,1,0.03
+1210,a period of optimistic progress,period,Temporal,1,0.03
+1211,a period of oral dependency,period,Temporal,1,0.03
+1212,a period of overall stagnation,period,Temporal,1,0.03
+1213,a period of Palestinian self-government,period,Temporal,1,0.03
+1214,a period of part-time study,period,Temporal,1,0.03
+1215,a period of partial remission,period,Temporal,1,0.03
+1216,a period of particular dependence,period,Temporal,1,0.03
+1217,a period of peaceful coexistence,period,Temporal,1,0.03
+1218,A period of personal retreat,period,Temporal,1,0.03
+1219,a period of personal rule,period,Temporal,1,0.03
+1220,a period of personal success,period,Temporal,1,0.03
+1221,a period of physical disability,period,Temporal,1,0.03
+1222,a period of pioneering work,period,Temporal,1,0.03
+1223,a period of pitiful loneliness,period,Temporal,1,0.03
+1224,a period of political disintegration,period,Temporal,1,0.03
+1225,a period of political disruption,period,Temporal,1,0.03
+1226,a period of political paralysis,period,Temporal,1,0.03
+1227,a period of political upheaval,period,Temporal,1,0.03
+1228,a period of popular unrest,period,Temporal,1,0.03
+1229,a period of post-employment leisure,period,Temporal,1,0.03
+1230,a period of professional consolidation,period,Temporal,1,0.03
+1231,a period of progressive transition,period,Temporal,1,0.03
+1232,a period of prolonged crisis,period,Temporal,1,0.03
+1233,a period of prolonged difficulty,period,Temporal,1,0.03
+1234,a period of prolonged rain,period,Temporal,1,0.03
+1235,a period of Protestant fundamentalism,period,Temporal,1,0.03
+1236,A period of protracted negotiation,period,Temporal,1,0.03
+1237,a period of psychological strain,period,Temporal,1,0.03
+1238,a period of racial turmoil,period,Temporal,1,0.03
+1239,a period of radical change,period,Temporal,1,0.03
+1240,a period of radical reassessment,period,Temporal,1,0.03
+1241,a period of rapid decline,period,Temporal,1,0.03
+1242,a period of rapid industrialisation,period,Temporal,1,0.03
+1243,a period of rapid industrialization,period,Temporal,1,0.03
+1244,a period of rapid inflation,period,Temporal,1,0.03
+1245,a period of rapid learning,period,Temporal,1,0.03
+1246,a period of rapid restructuring,period,Temporal,1,0.03
+1247,a period of real prosperity,period,Temporal,1,0.03
+1248,a period of recent history,period,Temporal,1,0.03
+1249,a period of reduced consciousness,period,Temporal,1,0.03
+1250,a period of relative calm,period,Temporal,1,0.03
+1251,a period of relative gloom,period,Temporal,1,0.03
+1252,a period of relative neglect,period,Temporal,1,0.03
+1253,a period of relative quiescence,period,Temporal,1,0.03
+1254,a period of remarkable creativity,period,Temporal,1,0.03
+1255,a period of renewed growth,period,Temporal,1,0.03
+1256,a period of renewed study,period,Temporal,1,0.03
+1257,a period of restricted production,period,Temporal,1,0.03
+1258,a period of romantic pluralism,period,Temporal,1,0.03
+1259,a period of ruthless competition,period,Temporal,1,0.03
+1260,a period of self-imposed reinvention,period,Temporal,1,0.03
+1261,a period of serious anglomania,period,Temporal,1,0.03
+1262,a period of serious reflection,period,Temporal,1,0.03
+1263,a period of severe adjustment,period,Temporal,1,0.03
+1264,a period of severe disease,period,Temporal,1,0.03
+1265,a period of severe food,period,Temporal,1,0.03
+1266,a period of severe labour,period,Temporal,1,0.03
+1267,a period of severe retrenchment,period,Temporal,1,0.03
+1268,a period of sexual apprenticeship,period,Temporal,1,0.03
+1269,a period of sexual life,period,Temporal,1,0.03
+1270,a period of sharp recession,period,Temporal,1,0.03
+1271,a period of sharp retrenchment,period,Temporal,1,0.03
+1272,a period of sheer copying,period,Temporal,1,0.03
+1273,a period of sick leave,period,Temporal,1,0.03
+1274,a period of significant delocalization,period,Temporal,1,0.03
+1275,a period of significant transition,period,Temporal,1,0.03
+1276,a period of slow evolution,period,Temporal,1,0.03
+1277,a period of slow growth,period,Temporal,1,0.03
+1278,a period of small government,period,Temporal,1,0.03
+1279,a period of so-called incubation,period,Temporal,1,0.03
+1280,a period of social revolution,period,Temporal,1,0.03
+1281,a period of social unrest,period,Temporal,1,0.03
+1282,a period of steady demand,period,Temporal,1,0.03
+1283,a period of steady law-making,period,Temporal,1,0.03
+1284,a period of stepped-up hatred,period,Temporal,1,0.03
+1285,a period of strange readjustment,period,Temporal,1,0.03
+1286,a period of strong Protestant,period,Temporal,1,0.03
+1287,a period of subliminal absorption,period,Temporal,1,0.03
+1288,a period of supported mourning,period,Temporal,1,0.03
+1289,a period of sustained creativity,period,Temporal,1,0.03
+1290,a period of sustained expansion,period,Temporal,1,0.03
+1291,a period of sustained inflation,period,Temporal,1,0.03
+1292,a period of sustained weakness,period,Temporal,1,0.03
+1293,a period of technological change,period,Temporal,1,0.03
+1294,a period of temporary estrangement,period,Temporal,1,0.03
+1295,a period of tense rivalry,period,Temporal,1,0.03
+1296,a period of terrible weather,period,Temporal,1,0.03
+1297,a period of theoretical study,period,Temporal,1,0.03
+1298,a period of tolerable life,period,Temporal,1,0.03
+1299,a period of tremendous activity,period,Temporal,1,0.03
+1300,a period of tremendous growth,period,Temporal,1,0.03
+1301,a period of tremendous upheaval,period,Temporal,1,0.03
+1302,a period of unaccustomed silence,period,Temporal,1,0.03
+1303,a period of uncertain length,period,Temporal,1,0.03
+1304,a period of unparalleled excitement,period,Temporal,1,0.03
+1305,a period of unparalleled expansion,period,Temporal,1,0.03
+1306,a period of unparalleled hardship,period,Temporal,1,0.03
+1307,a period of unparalleled success,period,Temporal,1,0.03
+1308,a period of unprecedented activity,period,Temporal,1,0.03
+1309,a period of unprecedented diversity,period,Temporal,1,0.03
+1310,a period of unprecedented expansion,period,Temporal,1,0.03
+1311,a period of unprecedented growth,period,Temporal,1,0.03
+1312,a period of unprecedented interest,period,Temporal,1,0.03
+1313,a period of unseasonable weather,period,Temporal,1,0.03
+1314,a period of unsettled weather,period,Temporal,1,0.03
+1315,a period of upright folding,period,Temporal,1,0.03
+1316,a period of vigorous debate,period,Temporal,1,0.03
+1317,a period of voluntary departure,period,Temporal,1,0.03
+1318,a period of welcome leisure,period,Temporal,1,0.03
+1319,a period of working-class militancy,period,Temporal,1,0.03
+1320,a period of wound-licking inactivity,period,Temporal,1,0.03
+1321,a piece of Above technology,piece,Portion,1,0.03
+1322,a piece of adaptive behaviour,piece,Portion,1,0.03
+1323,a piece of adhesive tape,piece,Portion,1,0.03
+1324,a piece of anecdotal evidence,piece,Portion,1,0.03
+1325,a piece of architectural magic,piece,Portion,1,0.03
+1326,a piece of arrable ground,piece,Portion,1,0.03
+1327,a piece of baked earth,piece,Portion,1,0.03
+1328,a piece of bare wire,piece,Portion,1,0.03
+1329,a piece of basic equipment,piece,Portion,1,0.03
+1330,a piece of basic material,piece,Portion,1,0.03
+1331,a piece of bent wire,piece,Portion,1,0.03
+1332,a piece of black chain,piece,Portion,1,0.03
+1333,a piece of black charcoal,piece,Portion,1,0.03
+1334,A piece of black gaffer,piece,Portion,1,0.03
+1335,a piece of black plastic,piece,Portion,1,0.03
+1336,a piece of black velvet,piece,Portion,1,0.03
+1337,a piece of blank paper,piece,Portion,1,0.03
+1338,a piece of blank space,piece,Portion,1,0.03
+1339,a piece of bloodstained clothing,piece,Portion,1,0.03
+1340,a piece of blue baize,piece,Portion,1,0.03
+1341,a piece of blue card,piece,Portion,1,0.03
+1342,a piece of blue glass,piece,Portion,1,0.03
+1343,a piece of blue loo,piece,Portion,1,0.03
+1344,a piece of blue-grey silk,piece,Portion,1,0.03
+1345,a piece of blue-mottled soap,piece,Portion,1,0.03
+1346,a piece of Bohemian crystal,piece,Portion,1,0.03
+1347,a piece of boredom-relieving kidology,piece,Portion,1,0.03
+1348,a piece of breath-taking audacity,piece,Portion,1,0.03
+1349,a piece of bureaucratic window-dressing,piece,Portion,1,0.03
+1350,a piece of burnt toast,piece,Portion,1,0.03
+1351,a piece of classical relief,piece,Portion,1,0.03
+1352,a piece of clean paper,piece,Portion,1,0.03
+1353,a piece of clever opportunism,piece,Portion,1,0.03
+1354,a piece of cold apple-pie,piece,Portion,1,0.03
+1355,a piece of cold bacon,piece,Portion,1,0.03
+1356,a piece of coloured wool,piece,Portion,1,0.03
+1357,a piece of comic crime,piece,Portion,1,0.03
+1358,a piece of common sense,piece,Portion,1,0.03
+1359,a piece of complicated electronics,piece,Portion,1,0.03
+1360,a piece of corroded piping,piece,Portion,1,0.03
+1361,a piece of corrugated cardboard,piece,Portion,1,0.03
+1362,a piece of corrugated duralinium,piece,Portion,1,0.03
+1363,a piece of costly silk,piece,Portion,1,0.03
+1364,a piece of courageous rhetoric,piece,Portion,1,0.03
+1365,a piece of cross-stitch tapestry,piece,Portion,1,0.03
+1366,a piece of crude arithmetic,piece,Portion,1,0.03
+1367,a piece of crumpled linen,piece,Portion,1,0.03
+1368,a piece of cylindrical material,piece,Portion,1,0.03
+1369,a piece of dark matter,piece,Portion,1,0.03
+1370,a piece of dark paper,piece,Portion,1,0.03
+1371,a piece of dead coral,piece,Portion,1,0.03
+1372,a piece of dead metal,piece,Portion,1,0.03
+1373,a piece of dead wood,piece,Portion,1,0.03
+1374,a piece of descriptive writing,piece,Portion,1,0.03
+1375,a piece of direct address,piece,Portion,1,0.03
+1376,a piece of dirty paper,piece,Portion,1,0.03
+1377,a piece of disposable property',piece,Portion,1,0.03
+1378,a piece of disused land,piece,Portion,1,0.03
+1379,a piece of domestic art,piece,Portion,1,0.03
+1380,a piece of dried seaweed,piece,Portion,1,0.03
+1381,a piece of dry toast,piece,Portion,1,0.03
+1382,a piece of early psychology,piece,Portion,1,0.03
+1383,A piece of ecological history,piece,Portion,1,0.03
+1384,a piece of electrical apparatus,piece,Portion,1,0.03
+1385,a piece of eleventh-hour magic,piece,Portion,1,0.03
+1386,a piece of emotional exhibitionism,piece,Portion,1,0.03
+1387,a piece of English lavender,piece,Portion,1,0.03
+1388,a piece of English walnut,piece,Portion,1,0.03
+1389,a piece of environmentally-friendly aluminium,piece,Portion,1,0.03
+1390,a piece of existing discourse,piece,Portion,1,0.03
+1391,a piece of exposed ground,piece,Portion,1,0.03
+1392,a piece of expository prose,piece,Portion,1,0.03
+1393,a piece of extended work,piece,Portion,1,0.03
+1394,a piece of exuberant fun,piece,Portion,1,0.03
+1395,a piece of familiar bedding,piece,Portion,1,0.03
+1396,a piece of fancy footwork,piece,Portion,1,0.03
+1397,a piece of fat bacon,piece,Portion,1,0.03
+1398,a piece of fatty meat,piece,Portion,1,0.03
+1399,a piece of fine wire,piece,Portion,1,0.03
+1400,a piece of flat ground,piece,Portion,1,0.03
+1401,a piece of folded newspaper,piece,Portion,1,0.03
+1402,a piece of folded paper,piece,Portion,1,0.03
+1403,a piece of frayed flex,piece,Portion,1,0.03
+1404,a piece of French furniture,piece,Portion,1,0.03
+1405,a piece of fresh belly,piece,Portion,1,0.03
+1406,a piece of fresh bread,piece,Portion,1,0.03
+1407,a piece of fresh grass,piece,Portion,1,0.03
+1408,a piece of fresh mint,piece,Portion,1,0.03
+1409,a piece of Freudian jargon,piece,Portion,1,0.03
+1410,a piece of fried bread,piece,Portion,1,0.03
+1411,a piece of frozen mammoth,piece,Portion,1,0.03
+1412,A piece of fundamental fieldwork,piece,Portion,1,0.03
+1413,a piece of fundamental optimism,piece,Portion,1,0.03
+1414,a piece of gazelle-inhabited ground,piece,Portion,1,0.03
+1415,a piece of genetic material,piece,Portion,1,0.03
+1416,a piece of ginger cake,piece,Portion,1,0.03
+1417,a piece of gladiatorial entertainment,piece,Portion,1,0.03
+1418,a piece of grey material,piece,Portion,1,0.03
+1419,a piece of grey towel,piece,Portion,1,0.03
+1420,a piece of guillotined paper,piece,Portion,1,0.03
+1421,a piece of gummed paper,piece,Portion,1,0.03
+1422,a piece of half-inch iron,piece,Portion,1,0.03
+1423,a piece of high-tome sculpture,piece,Portion,1,0.03
+1424,a piece of historical perception,piece,Portion,1,0.03
+1425,a piece of hot bacon,piece,Portion,1,0.03
+1426,A piece of hot news,piece,Portion,1,0.03
+1427,a piece of inappropriate sentimentality,piece,Portion,1,0.03
+1428,a piece of incised sculpture,piece,Portion,1,0.03
+1429,a piece of independent evidence,piece,Portion,1,0.03
+1430,a piece of independent research,piece,Portion,1,0.03
+1431,a piece of individual brilliance,piece,Portion,1,0.03
+1432,a piece of individual research,piece,Portion,1,0.03
+1433,a piece of interesting technology,piece,Portion,1,0.03
+1434,a piece of interpretative sociology,piece,Portion,1,0.03
+1435,a piece of interpretive art,piece,Portion,1,0.03
+1436,a piece of Italian furniture,piece,Portion,1,0.03
+1437,a piece of Japanese competition,piece,Portion,1,0.03
+1438,a piece of justified self-advertisement,piece,Portion,1,0.03
+1439,a piece of kinetic architecture,piece,Portion,1,0.03
+1440,a piece of landed property,piece,Portion,1,0.03
+1441,a piece of legal documentation,piece,Portion,1,0.03
+1442,a piece of liberal kitsch,piece,Portion,1,0.03
+1443,a piece of light-sensitive selenium,piece,Portion,1,0.03
+1444,a piece of lighted paper,piece,Portion,1,0.03
+1445,a piece of limp string,piece,Portion,1,0.03
+1446,a piece of little metal,piece,Portion,1,0.03
+1447,a piece of local history,piece,Portion,1,0.03
+1448,a piece of Lotharian history,piece,Portion,1,0.03
+1449,a piece of magnetic tape,piece,Portion,1,0.03
+1450,a piece of medieval nonsense,piece,Portion,1,0.03
+1451,a piece of medieval script,piece,Portion,1,0.03
+1452,a piece of mild exploitation,piece,Portion,1,0.03
+1453,a piece of military history,piece,Portion,1,0.03
+1454,a piece of Mint Crisp,piece,Portion,1,0.03
+1455,a piece of mobile plant,piece,Portion,1,0.03
+1456,a piece of modern architecture,piece,Portion,1,0.03
+1457,a piece of modern art,piece,Portion,1,0.03
+1458,a piece of moist bread,piece,Portion,1,0.03
+1459,a piece of molten metal,piece,Portion,1,0.03
+1460,a piece of monumental understatement,piece,Portion,1,0.03
+1461,a piece of moulded plastic,piece,Portion,1,0.03
+1462,a piece of mouth-blown glass,piece,Portion,1,0.03
+1463,a piece of mud-coloured rag,piece,Portion,1,0.03
+1464,a piece of muddy potato,piece,Portion,1,0.03
+1465,a piece of musical equipment,piece,Portion,1,0.03
+1466,a piece of natural grassland,piece,Portion,1,0.03
+1467,a piece of new information,piece,Portion,1,0.03
+1468,a piece of new legislation,piece,Portion,1,0.03
+1469,a piece of new paper,piece,Portion,1,0.03
+1470,a piece of nut-milk chocolate,piece,Portion,1,0.03
+1471,a piece of observable evidence,piece,Portion,1,0.03
+1472,a piece of official hypocrisy,piece,Portion,1,0.03
+1473,a piece of official terminology,piece,Portion,1,0.03
+1474,a piece of oiled foil,piece,Portion,1,0.03
+1475,a piece of old blanket,piece,Portion,1,0.03
+1476,a piece of old bread,piece,Portion,1,0.03
+1477,a piece of old carpet,piece,Portion,1,0.03
+1478,a piece of old cotton,piece,Portion,1,0.03
+1479,a piece of old glass,piece,Portion,1,0.03
+1480,a piece of old iron,piece,Portion,1,0.03
+1481,a piece of old limestone,piece,Portion,1,0.03
+1482,a piece of old lino,piece,Portion,1,0.03
+1483,a piece of old-fashioned campaigning,piece,Portion,1,0.03
+1484,a piece of opportunist propaganda,piece,Portion,1,0.03
+1485,A piece of oral history,piece,Portion,1,0.03
+1486,a piece of orange card,piece,Portion,1,0.03
+1487,a piece of orange rope,piece,Portion,1,0.03
+1488,a piece of ordinary glass,piece,Portion,1,0.03
+1489,a piece of original research,piece,Portion,1,0.03
+1490,a piece of outboard gear,piece,Portion,1,0.03
+1491,a piece of outdoor clothing,piece,Portion,1,0.03
+1492,a piece of outstanding arrogance,piece,Portion,1,0.03
+1493,a piece of painted wood,piece,Portion,1,0.03
+1494,a piece of personal folly,piece,Portion,1,0.03
+1495,a piece of personal reminiscence,piece,Portion,1,0.03
+1496,a piece of pink paper,piece,Portion,1,0.03
+1497,a piece of pink ribbon,piece,Portion,1,0.03
+1498,a piece of plain colour,piece,Portion,1,0.03
+1499,a piece of planed wood,piece,Portion,1,0.03
+1500,a piece of pleasant antiquarianism,piece,Portion,1,0.03
+1501,a piece of political theatre,piece,Portion,1,0.03
+1502,a piece of post-war testimony,piece,Portion,1,0.03
+1503,a piece of practical drama,piece,Portion,1,0.03
+1504,a piece of primitive jewellery,piece,Portion,1,0.03
+1505,a piece of printed paper,piece,Portion,1,0.03
+1506,a piece of printed text,piece,Portion,1,0.03
+1507,a piece of private enterprise,piece,Portion,1,0.03
+1508,a piece of pure guesswork,piece,Portion,1,0.03
+1509,a piece of pure mathematics,piece,Portion,1,0.03
+1510,a piece of pure speculation,piece,Portion,1,0.03
+1511,a piece of quarter-sawn oak,piece,Portion,1,0.03
+1512,a piece of raised planking,piece,Portion,1,0.03
+1513,a piece of rare excitement,piece,Portion,1,0.03
+1514,a piece of real journalism,piece,Portion,1,0.03
+1515,a piece of real owd,piece,Portion,1,0.03
+1516,A piece of real science,piece,Portion,1,0.03
+1517,a piece of real sight,piece,Portion,1,0.03
+1518,a piece of real spacetime,piece,Portion,1,0.03
+1519,a piece of red damask,piece,Portion,1,0.03
+1520,a piece of red flannel,piece,Portion,1,0.03
+1521,a piece of red paper,piece,Portion,1,0.03
+1522,A piece of ridged plastic,piece,Portion,1,0.03
+1523,a piece of riveted china,piece,Portion,1,0.03
+1524,a piece of rocky coastline,piece,Portion,1,0.03
+1525,a piece of Romano-Christian propaganda,piece,Portion,1,0.03
+1526,a piece of romantic escapism,piece,Portion,1,0.03
+1527,a piece of rotten calico,piece,Portion,1,0.03
+1528,a piece of rough linen,piece,Portion,1,0.03
+1529,a piece of round rod,piece,Portion,1,0.03
+1530,a piece of round stock,piece,Portion,1,0.03
+1531,a piece of rubber cheese,piece,Portion,1,0.03
+1532,a piece of scarlet ribbon,piece,Portion,1,0.03
+1533,a piece of scientific knowledge,piece,Portion,1,0.03
+1534,a piece of scrumptious gateau,piece,Portion,1,0.03
+1535,a piece of self-imposed apprenticeship,piece,Portion,1,0.03
+1536,a piece of semi conductor,piece,Portion,1,0.03
+1537,a piece of shabby pewter,piece,Portion,1,0.03
+1538,a piece of shared woodland,piece,Portion,1,0.03
+1539,a piece of sharp straw,piece,Portion,1,0.03
+1540,a piece of shredded lorry,piece,Portion,1,0.03
+1541,a piece of silken crochet,piece,Portion,1,0.03
+1542,a piece of silver-polishing rag,piece,Portion,1,0.03
+1543,a piece of simple advice,piece,Portion,1,0.03
+1544,A piece of smokeless fuel,piece,Portion,1,0.03
+1545,a piece of smooth parchment,piece,Portion,1,0.03
+1546,a piece of smooth wall,piece,Portion,1,0.03
+1547,a piece of sober analysis,piece,Portion,1,0.03
+1548,a piece of social engineering,piece,Portion,1,0.03
+1549,a piece of social intercourse,piece,Portion,1,0.03
+1550,a piece of social legislation,piece,Portion,1,0.03
+1551,a piece of soft meat,piece,Portion,1,0.03
+1552,a piece of soiled paper,piece,Portion,1,0.03
+1553,a piece of solid electrolyte,piece,Portion,1,0.03
+1554,a piece of specific equipment,piece,Portion,1,0.03
+1555,a piece of spent shell,piece,Portion,1,0.03
+1556,a piece of spontaneous discourse,piece,Portion,1,0.03
+1557,a piece of springy willow,piece,Portion,1,0.03
+1558,a piece of stale bread,piece,Portion,1,0.03
+1559,a piece of stale matzo,piece,Portion,1,0.03
+1560,a piece of stout board,piece,Portion,1,0.03
+1561,a piece of stout card,piece,Portion,1,0.03
+1562,a piece of stout hardboard,piece,Portion,1,0.03
+1563,a piece of strong rope,piece,Portion,1,0.03
+1564,a piece of strong wrapping,piece,Portion,1,0.03
+1565,a piece of sturdy tat,piece,Portion,1,0.03
+1566,a piece of sufficient merit,piece,Portion,1,0.03
+1567,a piece of suitable wood,piece,Portion,1,0.03
+1568,a piece of superficial representation,piece,Portion,1,0.03
+1569,a piece of technical wizardry,piece,Portion,1,0.03
+1570,a piece of tessellated pavement,piece,Portion,1,0.03
+1571,a piece of theatrical nonsense,piece,Portion,1,0.03
+1572,a piece of theatrical violence,piece,Portion,1,0.03
+1573,a piece of theological reasoning,piece,Portion,1,0.03
+1574,a piece of thick card,piece,Portion,1,0.03
+1575,a piece of thick string,piece,Portion,1,0.03
+1576,a piece of thin card,piece,Portion,1,0.03
+1577,a piece of thin cord,piece,Portion,1,0.03
+1578,a piece of thin plywood,piece,Portion,1,0.03
+1579,a piece of thoroughgoing regalism,piece,Portion,1,0.03
+1580,a piece of torn sheet,piece,Portion,1,0.03
+1581,a piece of traditional river,piece,Portion,1,0.03
+1582,a piece of triumphant relevance,piece,Portion,1,0.03
+1583,a piece of trivial nonsense,piece,Portion,1,0.03
+1584,a piece of unadmitted defensiveness,piece,Portion,1,0.03
+1585,a piece of undated timber,piece,Portion,1,0.03
+1586,a piece of universal paper,piece,Portion,1,0.03
+1587,a piece of unlit jharo,piece,Portion,1,0.03
+1588,a piece of unnecessary criticism,piece,Portion,1,0.03
+1589,a piece of unused land,piece,Portion,1,0.03
+1590,a piece of unworked tusk,piece,Portion,1,0.03
+1591,A piece of upholstered furniture,piece,Portion,1,0.03
+1592,a piece of Victorian eccentricity,piece,Portion,1,0.03
+1593,a piece of vital history,piece,Portion,1,0.03
+1594,a piece of vital research,piece,Portion,1,0.03
+1595,a piece of volcanic rock,piece,Portion,1,0.03
+1596,a piece of weighted string,piece,Portion,1,0.03
+1597,a piece of wet leather,piece,Portion,1,0.03
+1598,a piece of white cloth,piece,Portion,1,0.03
+1599,a piece of wild lavender,piece,Portion,1,0.03
+1600,a piece of wooded land,piece,Portion,1,0.03
+1601,a piece of worthless rubbish,piece,Portion,1,0.03
+1602,a piece of written work,piece,Portion,1,0.03
+1603,a pile of carved stone,pile,Portion / quantity,1,0.03
+1604,a pile of clean muslin,pile,Portion / quantity,1,0.03
+1605,a pile of contraband cash,pile,Portion / quantity,1,0.03
+1606,a pile of costly turkey,pile,Portion / quantity,1,0.03
+1607,A pile of dark plastic,pile,Portion / quantity,1,0.03
+1608,a pile of dirty straw,pile,Portion / quantity,1,0.03
+1609,a pile of dry autumn,pile,Portion / quantity,1,0.03
+1610,a pile of dry wood,pile,Portion / quantity,1,0.03
+1611,a pile of fine linen,pile,Portion / quantity,1,0.03
+1612,a pile of fragrant mulch,pile,Portion / quantity,1,0.03
+1613,a pile of grey videotape,pile,Portion / quantity,1,0.03
+1614,a pile of hard currency,pile,Portion / quantity,1,0.03
+1615,a pile of headed notepaper,pile,Portion / quantity,1,0.03
+1616,a pile of international luggage,pile,Portion / quantity,1,0.03
+1617,a pile of little plastic,pile,Portion / quantity,1,0.03
+1618,a pile of loose change,pile,Portion / quantity,1,0.03
+1619,a pile of luscious silverside,pile,Portion / quantity,1,0.03
+1620,a pile of meaningless shit,pile,Portion / quantity,1,0.03
+1621,a pile of modern building,pile,Portion / quantity,1,0.03
+1622,a pile of old beer,pile,Portion / quantity,1,0.03
+1623,a pile of old cheese,pile,Portion / quantity,1,0.03
+1624,a pile of old furniture,pile,Portion / quantity,1,0.03
+1625,a pile of old sheet,pile,Portion / quantity,1,0.03
+1626,a pile of scattered silk,pile,Portion / quantity,1,0.03
+1627,a pile of soiled linen,pile,Portion / quantity,1,0.03
+1628,a pile of stale cat,pile,Portion / quantity,1,0.03
+1629,a pile of tattered pulp,pile,Portion / quantity,1,0.03
+1630,a pile of thick ham,pile,Portion / quantity,1,0.03
+1631,a pile of thin plastic,pile,Portion / quantity,1,0.03
+1632,a pile of unwanted stock,pile,Portion / quantity,1,0.03
+1633,a pile of unwashed crockery,pile,Portion / quantity,1,0.03
+1634,a pile of volcanic material,pile,Portion / quantity,1,0.03
+1635,a pile of washed linen,pile,Portion / quantity,1,0.03
+1636,a pile of wet ash,pile,Portion / quantity,1,0.03
+1637,a portion of corned beef,portion,Portion / quantity,1,0.03
+1638,a portion of heavy-curtained solitude,portion,Portion / quantity,1,0.03
+1639,a portion of hot food,portion,Portion / quantity,1,0.03
+1640,a portion of human cDNA,portion,Portion / quantity,1,0.03
+1641,A portion of instant potato,portion,Portion / quantity,1,0.03
+1642,a portion of intellectual space,portion,Portion / quantity,1,0.03
+1643,a pound of double-refined sugar,pound,Weight,1,0.03
+1644,a pound of fine Sugar,pound,Weight,1,0.03
+1645,a pound of Indian brew,pound,Weight,1,0.03
+1646,a pound of mouldy grass,pound,Weight,1,0.03
+1647,a pound of raw liver,pound,Weight,1,0.03
+1648,a pound of white sugar,pound,Weight,1,0.03
+1649,a quantity of Combined Intelligence,quantity,Abstract quantity,1,0.03
+1650,a quantity of heavy duty,quantity,Abstract quantity,1,0.03
+1651,a quantity of high quality,quantity,Abstract quantity,1,0.03
+1652,a quantity of hydrochloric acid,quantity,Abstract quantity,1,0.03
+1653,a quantity of natural ability,quantity,Abstract quantity,1,0.03
+1654,a quantity of out-dated equipment,quantity,Abstract quantity,1,0.03
+1655,a quantity of outdated equipment,quantity,Abstract quantity,1,0.03
+1656,a quantity of poor buffoonery,quantity,Abstract quantity,1,0.03
+1657,a quantity of seditious material,quantity,Abstract quantity,1,0.03
+1658,a quantity of spent ammunition,quantity,Abstract quantity,1,0.03
+1659,a quantity of useless crap,quantity,Abstract quantity,1,0.03
+1660,a quantity of yellow soil,quantity,Abstract quantity,1,0.03
+1661,a school of acknowledged research,school,Animal group,1,0.03
+1662,a school of industrial design,school,Animal group,1,0.03
+1663,a school of physical culture,school,Animal group,1,0.03
+1664,A set of 3-D viewing,set,Numerical / counting,1,0.03
+1665,a set of American software,set,Numerical / counting,1,0.03
+1666,a set of auditory word,set,Numerical / counting,1,0.03
+1667,a set of basic language,set,Numerical / counting,1,0.03
+1668,a set of basic verification,set,Numerical / counting,1,0.03
+1669,a set of black granite,set,Numerical / counting,1,0.03
+1670,a set of Bohemian cut,set,Numerical / counting,1,0.03
+1671,a set of Chinese temple,set,Numerical / counting,1,0.03
+1672,a set of classic china,set,Numerical / counting,1,0.03
+1673,a set of classical guitar,set,Numerical / counting,1,0.03
+1674,a set of classificatory schema,set,Numerical / counting,1,0.03
+1675,a set of conditional jump,set,Numerical / counting,1,0.03
+1676,a set of consecutive integer,set,Numerical / counting,1,0.03
+1677,a set of corrected arrival,set,Numerical / counting,1,0.03
+1678,a set of current labour,set,Numerical / counting,1,0.03
+1679,A set of degenerate oligonucleotide,set,Numerical / counting,1,0.03
+1680,a set of different word,set,Numerical / counting,1,0.03
+1681,a set of double glazing,set,Numerical / counting,1,0.03
+1682,a set of educational building,set,Numerical / counting,1,0.03
+1683,a set of electric guitar,set,Numerical / counting,1,0.03
+1684,a set of Emersonian reflection,set,Numerical / counting,1,0.03
+1685,a set of equal length,set,Numerical / counting,1,0.03
+1686,a set of equivalent bond,set,Numerical / counting,1,0.03
+1687,A set of fine carving,set,Numerical / counting,1,0.03
+1688,a set of free wine,set,Numerical / counting,1,0.03
+1689,a set of full colour,set,Numerical / counting,1,0.03
+1690,a set of hard plastic,set,Numerical / counting,1,0.03
+1691,a set of heavy draft,set,Numerical / counting,1,0.03
+1692,a set of high quality,set,Numerical / counting,1,0.03
+1693,A set of illustrative farm,set,Numerical / counting,1,0.03
+1694,a set of internal user,set,Numerical / counting,1,0.03
+1695,a set of isolated jigsaw,set,Numerical / counting,1,0.03
+1696,a set of juxtaposed home,set,Numerical / counting,1,0.03
+1697,A set of key service,set,Numerical / counting,1,0.03
+1698,a set of linked industry,set,Numerical / counting,1,0.03
+1699,a set of magnetic track,set,Numerical / counting,1,0.03
+1700,a set of National Forest,set,Numerical / counting,1,0.03
+1701,a set of nineteenth-century silver,set,Numerical / counting,1,0.03
+1702,a set of one-storey retirement,set,Numerical / counting,1,0.03
+1703,a set of open client/server,set,Numerical / counting,1,0.03
+1704,a set of Open Management,set,Numerical / counting,1,0.03
+1705,A set of phonological reduction,set,Numerical / counting,1,0.03
+1706,a set of possible character,set,Numerical / counting,1,0.03
+1707,A set of possible parse,set,Numerical / counting,1,0.03
+1708,a set of potential gene,set,Numerical / counting,1,0.03
+1709,a set of potential word,set,Numerical / counting,1,0.03
+1710,a set of pressing confessional,set,Numerical / counting,1,0.03
+1711,a set of professional modelling,set,Numerical / counting,1,0.03
+1712,a set of quaint country,set,Numerical / counting,1,0.03
+1713,a set of randomly-generated stream,set,Numerical / counting,1,0.03
+1714,a set of real time,set,Numerical / counting,1,0.03
+1715,a set of rectangular grid,set,Numerical / counting,1,0.03
+1716,a set of remastered/repackaged CD,set,Numerical / counting,1,0.03
+1717,a set of remote procedure,set,Numerical / counting,1,0.03
+1718,a set of rigorous approval,set,Numerical / counting,1,0.03
+1719,a set of short response,set,Numerical / counting,1,0.03
+1720,a set of specialised cheek,set,Numerical / counting,1,0.03
+1721,a set of speculative armchair,set,Numerical / counting,1,0.03
+1722,a set of standard benchmark,set,Numerical / counting,1,0.03
+1723,a set of temporary work,set,Numerical / counting,1,0.03
+1724,a set of thermal underwear,set,Numerical / counting,1,0.03
+1725,a set of upturned shark,set,Numerical / counting,1,0.03
+1726,a set of Victorian shopping,set,Numerical / counting,1,0.03
+1727,a set of white-sequined boxing,set,Numerical / counting,1,0.03
+1728,a set of wooden toy,set,Numerical / counting,1,0.03
+1729,A slice of black bread,slice,Portion,1,0.03
+1730,a slice of brown bread,slice,Portion,1,0.03
+1731,a slice of calorie-crammed quiche,slice,Portion,1,0.03
+1732,a slice of crazed abnormality,slice,Portion,1,0.03
+1733,a slice of crusty bread,slice,Portion,1,0.03
+1734,a slice of crusty toast,slice,Portion,1,0.03
+1735,a slice of dry toast,slice,Portion,1,0.03
+1736,a slice of festive cheer,slice,Portion,1,0.03
+1737,a slice of good fortune,slice,Portion,1,0.03
+1738,a slice of greasy bacon,slice,Portion,1,0.03
+1739,a slice of national exposure,slice,Portion,1,0.03
+1740,A slice of raw potato,slice,Portion,1,0.03
+1741,a slice of real life,slice,Portion,1,0.03
+1742,a slice of stale chocolate,slice,Portion,1,0.03
+1743,A slice of Swedish-style luxury,slice,Portion,1,0.03
+1744,a slice of tinned peach,slice,Portion,1,0.03
+1745,a slice of unwanted history,slice,Portion,1,0.03
+1746,a slice of virtual reality,slice,Portion,1,0.03
+1747,a slice of white bread,slice,Portion,1,0.03
+1748,a slice of Zimbabwean sunshine,slice,Portion,1,0.03
+1749,a spoonful of Greek yoghurt,spoonful,Portion,1,0.03
+1750,a spoonful of royal icing,spoonful,Portion,1,0.03
+1751,a spoonful of whipped cream,spoonful,Portion,1,0.03
+1752,A spoonful of yellow mustard,spoonful,Portion,1,0.03
+1753,a stretch of conversational discourse,stretch,Spatial,1,0.03
+1754,a stretch of curved gravel,stretch,Spatial,1,0.03
+1755,a stretch of derelict sand,stretch,Spatial,1,0.03
+1756,a stretch of dirty cloud,stretch,Spatial,1,0.03
+1757,a stretch of disused railway,stretch,Spatial,1,0.03
+1758,a stretch of double track,stretch,Spatial,1,0.03
+1759,a stretch of dual carriageway,stretch,Spatial,1,0.03
+1760,a stretch of embanked canal,stretch,Spatial,1,0.03
+1761,a stretch of English coastline,stretch,Spatial,1,0.03
+1762,a stretch of featureless coastline,stretch,Spatial,1,0.03
+1763,a stretch of open moorland,stretch,Spatial,1,0.03
+1764,a stretch of open sea,stretch,Spatial,1,0.03
+1765,a stretch of patchy grass,stretch,Spatial,1,0.03
+1766,a stretch of proven hell-raising,stretch,Spatial,1,0.03
+1767,a stretch of quoted speech,stretch,Spatial,1,0.03
+1768,a stretch of rough grass,stretch,Spatial,1,0.03
+1769,a stretch of spectacular limestone,stretch,Spatial,1,0.03
+1770,a stretch of unmade road,stretch,Spatial,1,0.03
+1771,a stretch of urban semi-motorway,stretch,Spatial,1,0.03
+1772,a stretch of well-trimmed lawn,stretch,Spatial,1,0.03
+1773,a stretch of white sand,stretch,Spatial,1,0.03
+1774,a stretch of written discourse,stretch,Spatial,1,0.03
+1775,a swarm of red dust,swarm,Animal group,1,0.03
+1776,a week of alternating euphoria,week,Temporal,1,0.03
+1777,a week of American music,week,Temporal,1,0.03
+1778,a week of brilliant creativity,week,Temporal,1,0.03
+1779,a week of civil strife,week,Temporal,1,0.03
+1780,a week of continuous fishing,week,Temporal,1,0.03
+1781,a week of disposable income,week,Temporal,1,0.03
+1782,a week of fevered speculation,week,Temporal,1,0.03
+1783,a week of feverish detective,week,Temporal,1,0.03
+1784,a week of free testing,week,Temporal,1,0.03
+1785,a week of full employment,week,Temporal,1,0.03
+1786,a week of heavy army,week,Temporal,1,0.03
+1787,a week of heavy rain,week,Temporal,1,0.03
+1788,a week of high quality,week,Temporal,1,0.03
+1789,A week of industrial horror,week,Temporal,1,0.03
+1790,a week of intense fighting,week,Temporal,1,0.03
+1791,a week of intensive lobbying,week,Temporal,1,0.03
+1792,a week of intensive treatment,week,Temporal,1,0.03
+1793,A week of national mourning,week,Temporal,1,0.03
+1794,A week of real concentration,week,Temporal,1,0.03
+1795,A week of relative calm,week,Temporal,1,0.03
+1796,a week of repeated apprentice,week,Temporal,1,0.03
+1797,a week of savage fighting,week,Temporal,1,0.03
+1798,a week of savage rioting,week,Temporal,1,0.03
+1799,a week of total failure,week,Temporal,1,0.03
+1800,a week of vigorous exercise,week,Temporal,1,0.03
+1801,a week of violent confrontation,week,Temporal,1,0.03
+1802,a year of acetic anhydride,year,Temporal,1,0.03
+1803,a year of bitter wrangling,year,Temporal,1,0.03
+1804,a year of civil war,year,Temporal,1,0.03
+1805,a year of consolidated growth,year,Temporal,1,0.03
+1806,A year of continuing diversification,year,Temporal,1,0.03
+1807,a year of continuous washing,year,Temporal,1,0.03
+1808,a year of disposable income,year,Temporal,1,0.03
+1809,a year of economic depression,year,Temporal,1,0.03
+1810,a year of economic gloom,year,Temporal,1,0.03
+1811,a year of economic recession,year,Temporal,1,0.03
+1812,a year of exceptional growth,year,Temporal,1,0.03
+1813,a year of extra carbon,year,Temporal,1,0.03
+1814,a year of extra income,year,Temporal,1,0.03
+1815,a year of extreme agony,year,Temporal,1,0.03
+1816,a year of free accommodation,year,Temporal,1,0.03
+1817,a year of full time,year,Temporal,1,0.03
+1818,a year of full-time study,year,Temporal,1,0.03
+1819,a year of good harvest,year,Temporal,1,0.03
+1820,a year of hard work,year,Temporal,1,0.03
+1821,a year of historical significance,year,Temporal,1,0.03
+1822,a year of in-service training,year,Temporal,1,0.03
+1823,a year of increasing peace,year,Temporal,1,0.03
+1824,a year of industrial placement,year,Temporal,1,0.03
+1825,a year of intensive language,year,Temporal,1,0.03
+1826,a year of intensive laying,year,Temporal,1,0.03
+1827,a year of interreligious understanding,year,Temporal,1,0.03
+1828,a year of legal wrangling,year,Temporal,1,0.03
+1829,a year of massive time,year,Temporal,1,0.03
+1830,a year of mean rainfall,year,Temporal,1,0.03
+1831,a year of medical coverage,year,Temporal,1,0.03
+1832,a year of normal weather,year,Temporal,1,0.03
+1833,a year of outstanding achievement,year,Temporal,1,0.03
+1834,a year of painful radiotherapy,year,Temporal,1,0.03
+1835,A year of physical pain,year,Temporal,1,0.03
+1836,a year of political continuity,year,Temporal,1,0.03
+1837,a year of pure magic,year,Temporal,1,0.03
+1838,a year of rigorous cost-cutting,year,Temporal,1,0.03
+1839,a year of severe drought,year,Temporal,1,0.03
+1840,a year of significant progress,year,Temporal,1,0.03
+1841,a year of slow growth,year,Temporal,1,0.03
+1842,a year of slow recovery,year,Temporal,1,0.03
+1843,a year of solid achievement,year,Temporal,1,0.03
+1844,a year of strong growth,year,Temporal,1,0.03
+1845,a year of substantial achievement,year,Temporal,1,0.03
+1846,a year of substantial progress,year,Temporal,1,0.03
+1847,a year of successful treatment,year,Temporal,1,0.03
+1848,A year of unhealthy life,year,Temporal,1,0.03
+1849,a year of unparalleled crisis,year,Temporal,1,0.03
+1850,a year of vocational training,year,Temporal,1,0.03
+1851,a year of wet sewage,year,Temporal,1,0.03
+1852,a year of wet sludge,year,Temporal,1,0.03
+1853,an amount of contemporary music,amount,Abstract quantity,1,0.03
+1854,an amount of continued convergence,amount,Abstract quantity,1,0.03
+1855,an amount of extra charge,amount,Abstract quantity,1,0.03
+1856,an amount of neutral filler,amount,Abstract quantity,1,0.03
+1857,an amount of white space,amount,Abstract quantity,1,0.03
+1858,an area of 150-yard radius,area,Spatial,1,0.03
+1859,an area of actuarial development,area,Spatial,1,0.03
+1860,an area of acute housing,area,Spatial,1,0.03
+1861,an area of ancient woodland,area,Spatial,1,0.03
+1862,an area of Anglo-Argentine co-operation,area,Spatial,1,0.03
+1863,an area of Anglo-Soviet rivalry,area,Spatial,1,0.03
+1864,an area of anomalous volcanism,area,Spatial,1,0.03
+1865,an area of back-arc spreading,area,Spatial,1,0.03
+1866,an area of bare ice,area,Spatial,1,0.03
+1867,an area of bare soil,area,Spatial,1,0.03
+1868,an area of beaten earth,area,Spatial,1,0.03
+1869,an area of civil development,area,Spatial,1,0.03
+1870,An area of cleared moor,area,Spatial,1,0.03
+1871,an area of cliff-top heathland,area,Spatial,1,0.03
+1872,an area of co-operative activity,area,Spatial,1,0.03
+1873,an area of common concern,area,Spatial,1,0.03
+1874,an area of copper-mining activity,area,Spatial,1,0.03
+1875,An area of corporate discretion,area,Spatial,1,0.03
+1876,an area of crazy paving,area,Spatial,1,0.03
+1877,an area of critical importance,area,Spatial,1,0.03
+1878,an area of customary law,area,Spatial,1,0.03
+1879,an area of deciduous woodland,area,Spatial,1,0.03
+1880,an area of derelict land,area,Spatial,1,0.03
+1881,an area of distinct slackness,area,Spatial,1,0.03
+1882,an area of enormous growth,area,Spatial,1,0.03
+1883,an area of enormous significance,area,Spatial,1,0.03
+1884,an area of environmental restraint,area,Spatial,1,0.03
+1885,an area of erratic rainfall,area,Spatial,1,0.03
+1886,an area of established turf,area,Spatial,1,0.03
+1887,an area of expanding interest,area,Spatial,1,0.03
+1888,an area of extensive marsh,area,Spatial,1,0.03
+1889,an area of extensive water,area,Spatial,1,0.03
+1890,an area of fertile farming,area,Spatial,1,0.03
+1891,an area of fitted kitchen,area,Spatial,1,0.03
+1892,an area of flourishing research,area,Spatial,1,0.03
+1893,an area of free space,area,Spatial,1,0.03
+1894,an area of general population,area,Spatial,1,0.03
+1895,an area of genuine indeterminacy,area,Spatial,1,0.03
+1896,an area of geographical averageness,area,Spatial,1,0.03
+1897,an area of German settlement,area,Spatial,1,0.03
+1898,an area of glacial outwash,area,Spatial,1,0.03
+1899,an area of global conflict,area,Spatial,1,0.03
+1900,an area of good chernozem,area,Spatial,1,0.03
+1901,An area of great diversity,area,Spatial,1,0.03
+1902,an area of great need,area,Spatial,1,0.03
+1903,an area of great relevance,area,Spatial,1,0.03
+1904,an area of great value,area,Spatial,1,0.03
+1905,an area of great variety,area,Spatial,1,0.03
+1906,an area of growing importance,area,Spatial,1,0.03
+1907,an area of growing interest,area,Spatial,1,0.03
+1908,an area of heated debate,area,Spatial,1,0.03
+1909,an area of high deprivation,area,Spatial,1,0.03
+1910,an area of high family,area,Spatial,1,0.03
+1911,an area of high home,area,Spatial,1,0.03
+1912,an area of High Intensity,area,Spatial,1,0.03
+1913,an area of high land,area,Spatial,1,0.03
+1914,an area of high malaria,area,Spatial,1,0.03
+1915,an area of historic interest,area,Spatial,1,0.03
+1916,an area of human emotion,area,Spatial,1,0.03
+1917,an area of human experience,area,Spatial,1,0.03
+1918,an area of human life,area,Spatial,1,0.03
+1919,an area of increasing concern,area,Spatial,1,0.03
+1920,an area of incredible beauty,area,Spatial,1,0.03
+1921,an area of individual freedom,area,Spatial,1,0.03
+1922,an area of intense farming,area,Spatial,1,0.03
+1923,an area of intensive agriculture,area,Spatial,1,0.03
+1924,an area of keen debate,area,Spatial,1,0.03
+1925,an area of known icing,area,Spatial,1,0.03
+1926,an area of legal practice,area,Spatial,1,0.03
+1927,an area of less-worn chalk,area,Spatial,1,0.03
+1928,an area of low cost,area,Spatial,1,0.03
+1929,an area of low count,area,Spatial,1,0.03
+1930,an area of low inflation,area,Spatial,1,0.03
+1931,an area of low pay,area,Spatial,1,0.03
+1932,an area of low unemployment,area,Spatial,1,0.03
+1933,an area of lumpy terrain,area,Spatial,1,0.03
+1934,an area of lush greenery,area,Spatial,1,0.03
+1935,an area of major development,area,Spatial,1,0.03
+1936,an area of managerial weakness,area,Spatial,1,0.03
+1937,an area of mass material,area,Spatial,1,0.03
+1938,an area of maximum difficulty,area,Spatial,1,0.03
+1939,an area of mixed day,area,Spatial,1,0.03
+1940,an area of mixed housing,area,Spatial,1,0.03
+1941,an area of mixed nationality,area,Spatial,1,0.03
+1942,an area of mixed woodland,area,Spatial,1,0.03
+1943,an area of moderate heat,area,Spatial,1,0.03
+1944,an area of mountainous scenery,area,Spatial,1,0.03
+1945,an area of nineteenth-century by-law,area,Spatial,1,0.03
+1946,an area of oceanic upwelling,area,Spatial,1,0.03
+1947,an area of old chromite,area,Spatial,1,0.03
+1948,an area of ontological flux,area,Spatial,1,0.03
+1949,an area of open fighting,area,Spatial,1,0.03
+1950,an area of open parkland,area,Spatial,1,0.03
+1951,an area of open seating,area,Spatial,1,0.03
+1952,an area of ordered calm,area,Spatial,1,0.03
+1953,an area of outstanding beauty,area,Spatial,1,0.03
+1954,an area of particular importance,area,Spatial,1,0.03
+1955,An area of particular weakness,area,Spatial,1,0.03
+1956,an area of plain paving,area,Spatial,1,0.03
+1957,an area of ploughed field,area,Spatial,1,0.03
+1958,an area of political stability,area,Spatial,1,0.03
+1959,an area of psychological expertise,area,Spatial,1,0.03
+1960,an area of public concern,area,Spatial,1,0.03
+1961,an area of public policy,area,Spatial,1,0.03
+1962,an area of real concern,area,Spatial,1,0.03
+1963,an area of recent activity,area,Spatial,1,0.03
+1964,an area of reclaimed Crown,area,Spatial,1,0.03
+1965,an area of relative prosperity,area,Spatial,1,0.03
+1966,an area of religious discussion,area,Spatial,1,0.03
+1967,an area of residential stability,area,Spatial,1,0.03
+1968,an area of rich speculation,area,Spatial,1,0.03
+1969,an area of rough ground,area,Spatial,1,0.03
+1970,an area of rubber-rich forest,area,Spatial,1,0.03
+1971,an area of scattered settlement,area,Spatial,1,0.03
+1972,an area of scholarly interest,area,Spatial,1,0.03
+1973,an area of scientific controversy,area,Spatial,1,0.03
+1974,an area of seismic instability,area,Spatial,1,0.03
+1975,an area of short grass,area,Spatial,1,0.03
+1976,an area of similar controversy,area,Spatial,1,0.03
+1977,an area of small dairy,area,Spatial,1,0.03
+1978,an area of soft sand,area,Spatial,1,0.03
+1979,an area of Soviet predominance,area,Spatial,1,0.03
+1980,an area of special concern,area,Spatial,1,0.03
+1981,an area of special control,area,Spatial,1,0.03
+1982,an area of special interest,area,Spatial,1,0.03
+1983,an area of specialised knowledge,area,Spatial,1,0.03
+1984,an area of strategic importance,area,Spatial,1,0.03
+1985,an area of superb walking,area,Spatial,1,0.03
+1986,an area of Swedish airspace,area,Spatial,1,0.03
+1987,an area of thick drift,area,Spatial,1,0.03
+1988,an area of traditional state,area,Spatial,1,0.03
+1989,an area of tropical rainforest,area,Spatial,1,0.03
+1990,an area of unexplored potential,area,Spatial,1,0.03
+1991,an area of unfished water,area,Spatial,1,0.03
+1992,an area of unified language,area,Spatial,1,0.03
+1993,an area of unregulated uncertainty,area,Spatial,1,0.03
+1994,an area of vital security,area,Spatial,1,0.03
+1995,an area of weak lordship,area,Spatial,1,0.03
+1996,an area of well-kept parkland,area,Spatial,1,0.03
+1997,an hour of BAD-style promo,hour,Temporal,1,0.03
+1998,an hour of beleaguered explanation,hour,Temporal,1,0.03
+1999,an hour of boring burble,hour,Temporal,1,0.03
+2000,an hour of civilisational water-treading,hour,Temporal,1,0.03
+2001,an hour of concentrated thought,hour,Temporal,1,0.03
+2002,an hour of cool rest,hour,Temporal,1,0.03
+2003,an hour of cut-and-thrust football,hour,Temporal,1,0.03
+2004,an hour of easy walking,hour,Temporal,1,0.03
+2005,an hour of fast shooting,hour,Temporal,1,0.03
+2006,an hour of free time,hour,Temporal,1,0.03
+2007,an hour of great joy,hour,Temporal,1,0.03
+2008,an hour of polite conversation,hour,Temporal,1,0.03
+2009,an hour of regular exercise,hour,Temporal,1,0.03
+2010,an hour of relative cheer,hour,Temporal,1,0.03
+2011,an hour of silent reading,hour,Temporal,1,0.03
+2012,an hour of steady jumping,hour,Temporal,1,0.03
+2013,An hour of wall-to-wall Carpeting,hour,Temporal,1,0.03
+2014,an inch of blue mould,inch,Length,1,0.03
+2015,an inch of clear floor,inch,Length,1,0.03
+2016,an inch of condensed milk,inch,Length,1,0.03
+2017,an inch of dark dinner-jacket,inch,Length,1,0.03
+2018,an inch of darkish liquid,inch,Length,1,0.03
+2019,an inch of icy water,inch,Length,1,0.03
+2020,an inch of small print,inch,Length,1,0.03
+2021,an item of additional expenditure,item,Other countable,1,0.03
+2022,an item of confidential gossip,item,Other countable,1,0.03
+2023,an item of equivalent value,item,Other countable,1,0.03
+2024,an item of given information,item,Other countable,1,0.03
+2025,an item of great interest,item,Other countable,1,0.03
+2026,an item of light fiction,item,Other countable,1,0.03
+2027,an item of outdoor clothing,item,Other countable,1,0.03
+2028,an item of pleasurable entertainment,item,Other countable,1,0.03
+2029,an item of political discussion,item,Other countable,1,0.03
+2030,an ounce of excess fat,ounce,Weight,1,0.03
+2031,an ounce of grown-up character,ounce,Weight,1,0.03
+2032,an ounce of Lebanese Gold,ounce,Weight,1,0.03
+2033,an ounce of prescriptive sovereignty,ounce,Weight,1,0.03
+2034,an ounce of shredded wheat,ounce,Weight,1,0.03
+2035,an ounce of surplus bone,ounce,Weight,1,0.03
+2036,an ounce of surplus fat,ounce,Weight,1,0.03
+2037,an ounce of surplus flesh,ounce,Weight,1,0.03
+2038,an ounce of unsalted butter,ounce,Weight,1,0.03
+2039,an ounce of unwanted fat,ounce,Weight,1,0.03
+2040,every area of commercial activity,area,Spatial,1,0.03
+2041,every area of economic activity,area,Spatial,1,0.03
+2042,every area of European joint-government,area,Spatial,1,0.03
+2043,every area of feminist activity,area,Spatial,1,0.03
+2044,every area of national life,area,Spatial,1,0.03
+2045,every area of psychic life,area,Spatial,1,0.03
+2046,every area of public life,area,Spatial,1,0.03
+2047,every area of social welfare,area,Spatial,1,0.03
+2048,every bottle of English wine,bottle,Container,1,0.03
+2049,every day of fine weather,day,Temporal,1,0.03
+2050,every drop of accursed wolfseed,drop,Small / discrete,1,0.03
+2051,every drop of Baltic water,drop,Small / discrete,1,0.03
+2052,every hour of brisk walking,hour,Temporal,1,0.03
+2053,every inch of available space,inch,Length,1,0.03
+2054,Every inch of available wall,inch,Length,1,0.03
+2055,every inch of powerful physique,inch,Length,1,0.03
+2056,every item of industrial archaeology,item,Other countable,1,0.03
+2057,every level of Cornish society,level,Abstract quantity,1,0.03
+2058,every level of industrial life,level,Abstract quantity,1,0.03
+2059,every level of linguistic analysis,level,Abstract quantity,1,0.03
+2060,every level of post-school education,level,Abstract quantity,1,0.03
+2061,every level of social life,level,Abstract quantity,1,0.03
+2062,every ounce of available experience,ounce,Weight,1,0.03
+2063,every ounce of potential profit,ounce,Weight,1,0.03
+2064,every ounce of viable business,ounce,Weight,1,0.03
+2065,every ounce of warm air,ounce,Weight,1,0.03
+2066,every pair of lilac satin,pair,Numerical / counting,1,0.03
+2067,every period of cold weather,period,Temporal,1,0.03
+2068,every piece of English farmland,piece,Portion,1,0.03
+2069,every piece of human knowledge,piece,Portion,1,0.03
+2070,every piece of human tissue,piece,Portion,1,0.03
+2071,Every piece of indirect evidence,piece,Portion,1,0.03
+2072,every piece of lesbian information,piece,Portion,1,0.03
+2073,every piece of modern equipment,piece,Portion,1,0.03
+2074,every piece of social research,piece,Portion,1,0.03
+2075,every pound of fried product,pound,Weight,1,0.03
+2076,every year of illegal persecution,year,Temporal,1,0.03
+2077,No amount of authoritative shouting,amount,Abstract quantity,1,0.03
+2078,no amount of bashful cuteness,amount,Abstract quantity,1,0.03
+2079,no amount of careful editing,amount,Abstract quantity,1,0.03
+2080,no amount of cool breeze,amount,Abstract quantity,1,0.03
+2081,no amount of detailed research,amount,Abstract quantity,1,0.03
+2082,no amount of economic reductionism,amount,Abstract quantity,1,0.03
+2083,no amount of educational funding,amount,Abstract quantity,1,0.03
+2084,no amount of empirical evidence,amount,Abstract quantity,1,0.03
+2085,no amount of empirical research,amount,Abstract quantity,1,0.03
+2086,no amount of European nervousness,amount,Abstract quantity,1,0.03
+2087,No amount of excessive decoration,amount,Abstract quantity,1,0.03
+2088,No amount of expensive television,amount,Abstract quantity,1,0.03
+2089,no amount of external treatment,amount,Abstract quantity,1,0.03
+2090,no amount of factual certainty,amount,Abstract quantity,1,0.03
+2091,no amount of factual knowledge,amount,Abstract quantity,1,0.03
+2092,no amount of financial juggling,amount,Abstract quantity,1,0.03
+2093,no amount of formal training,amount,Abstract quantity,1,0.03
+2094,no amount of frenzied sociability,amount,Abstract quantity,1,0.03
+2095,no amount of good will,amount,Abstract quantity,1,0.03
+2096,no amount of hard work,amount,Abstract quantity,1,0.03
+2097,no amount of individual effort,amount,Abstract quantity,1,0.03
+2098,no amount of logistic information,amount,Abstract quantity,1,0.03
+2099,No amount of male kindness,amount,Abstract quantity,1,0.03
+2100,No amount of mathematical modelling,amount,Abstract quantity,1,0.03
+2101,no amount of organizational skill,amount,Abstract quantity,1,0.03
+2102,no amount of passive resistance,amount,Abstract quantity,1,0.03
+2103,No amount of phonetic training,amount,Abstract quantity,1,0.03
+2104,No amount of procedural fairness,amount,Abstract quantity,1,0.03
+2105,no amount of proposed refurbishment,amount,Abstract quantity,1,0.03
+2106,No amount of public condemnation,amount,Abstract quantity,1,0.03
+2107,no amount of scriptural citation,amount,Abstract quantity,1,0.03
+2108,no amount of special pleading,amount,Abstract quantity,1,0.03
+2109,No amount of unsighted knowledge,amount,Abstract quantity,1,0.03
+2110,no area of scholarly research,area,Spatial,1,0.03
+2111,no degree of artificial lighting,degree,Abstract quantity,1,0.03
+2112,no drop of Israelitish blood,drop,Small / discrete,1,0.03
+2113,no period of prolonged failure,period,Temporal,1,0.03
+2114,no period of Roman history,period,Temporal,1,0.03
+2115,no school of Cubist painting,school,Animal group,1,0.03
+2116,no set of general purpose,set,Numerical / counting,1,0.03
+2117,the amount of Ac-ASA present,amount,Abstract quantity,1,0.03
+2118,the amount of accrued interest,amount,Abstract quantity,1,0.03
+2119,the amount of active sleep,amount,Abstract quantity,1,0.03
+2120,The amount of actual light,amount,Abstract quantity,1,0.03
+2121,the amount of actual teaching,amount,Abstract quantity,1,0.03
+2122,the amount of additional engine-weight,amount,Abstract quantity,1,0.03
+2123,the amount of administrative support,amount,Abstract quantity,1,0.03
+2124,the amount of Advance Corporation,amount,Abstract quantity,1,0.03
+2125,The amount of advance notice,amount,Abstract quantity,1,0.03
+2126,the amount of Advanced Corporation,amount,Abstract quantity,1,0.03
+2127,the amount of aesthetic interest,amount,Abstract quantity,1,0.03
+2128,the amount of African debt,amount,Abstract quantity,1,0.03
+2129,the amount of aggressive behaviour,amount,Abstract quantity,1,0.03
+2130,the amount of aggressive fighting,amount,Abstract quantity,1,0.03
+2131,the amount of agricultural intensification,amount,Abstract quantity,1,0.03
+2132,the amount of agricultural land,amount,Abstract quantity,1,0.03
+2133,the amount of agricultural production,amount,Abstract quantity,1,0.03
+2134,the amount of analogical inheritance,amount,Abstract quantity,1,0.03
+2135,the amount of Anglo-Saxon metalwork,amount,Abstract quantity,1,0.03
+2136,the amount of annual maintenance,amount,Abstract quantity,1,0.03
+2137,the amount of appendicular infiltration,amount,Abstract quantity,1,0.03
+2138,the amount of applied research,amount,Abstract quantity,1,0.03
+2139,the amount of aquatic habitat,amount,Abstract quantity,1,0.03
+2140,the amount of Aramaic literature,amount,Abstract quantity,1,0.03
+2141,The amount of available accommodation,amount,Abstract quantity,1,0.03
+2142,the amount of available land,amount,Abstract quantity,1,0.03
+2143,the amount of available space,amount,Abstract quantity,1,0.03
+2144,the amount of bare ground,amount,Abstract quantity,1,0.03
+2145,the amount of basic research,amount,Abstract quantity,1,0.03
+2146,The amount of basic salary,amount,Abstract quantity,1,0.03
+2147,the amount of blue light,amount,Abstract quantity,1,0.03
+2148,The amount of building-society interest,amount,Abstract quantity,1,0.03
+2149,the amount of C-banded material,amount,Abstract quantity,1,0.03
+2150,the amount of carbamylated haemoglobin,amount,Abstract quantity,1,0.03
+2151,the amount of chromosomal material,amount,Abstract quantity,1,0.03
+2152,the amount of cognitive effort,amount,Abstract quantity,1,0.03
+2153,the amount of cognitive planning,amount,Abstract quantity,1,0.03
+2154,The amount of colonic platelet,amount,Abstract quantity,1,0.03
+2155,the amount of Communist influence,amount,Abstract quantity,1,0.03
+2156,the amount of company-specific information,amount,Abstract quantity,1,0.03
+2157,the amount of complex carbohydrate,amount,Abstract quantity,1,0.03
+2158,the amount of condensed milk,amount,Abstract quantity,1,0.03
+2159,the amount of conventional memory,amount,Abstract quantity,1,0.03
+2160,the amount of convertible debt,amount,Abstract quantity,1,0.03
+2161,the amount of cortical damage,amount,Abstract quantity,1,0.03
+2162,The amount of crappy car,amount,Abstract quantity,1,0.03
+2163,The amount of crude oil,amount,Abstract quantity,1,0.03
+2164,the amount of crystalline order,amount,Abstract quantity,1,0.03
+2165,the amount of current flow,amount,Abstract quantity,1,0.03
+2166,the amount of current passing,amount,Abstract quantity,1,0.03
+2167,the amount of dangerous fighting,amount,Abstract quantity,1,0.03
+2168,the amount of dappled shade,amount,Abstract quantity,1,0.03
+2169,the amount of day-care surgery,amount,Abstract quantity,1,0.03
+2170,the amount of dead wood,amount,Abstract quantity,1,0.03
+2171,the amount of deep sleep,amount,Abstract quantity,1,0.03
+2172,The amount of dental debris,amount,Abstract quantity,1,0.03
+2173,The amount of detailed investigation,amount,Abstract quantity,1,0.03
+2174,The amount of detrital material,amount,Abstract quantity,1,0.03
+2175,the amount of diffuse gamma-radiation,amount,Abstract quantity,1,0.03
+2176,the amount of digital information,amount,Abstract quantity,1,0.03
+2177,the amount of digital map,amount,Abstract quantity,1,0.03
+2178,the amount of diplomatic correspondence,amount,Abstract quantity,1,0.03
+2179,the amount of direct access,amount,Abstract quantity,1,0.03
+2180,the amount of direct questioning,amount,Abstract quantity,1,0.03
+2181,the amount of displaced water,amount,Abstract quantity,1,0.03
+2182,the amount of drug-induced impotence,amount,Abstract quantity,1,0.03
+2183,the amount of earned income,amount,Abstract quantity,1,0.03
+2184,the amount of economic aid,amount,Abstract quantity,1,0.03
+2185,the amount of effected signal,amount,Abstract quantity,1,0.03
+2186,the amount of electoral competition,amount,Abstract quantity,1,0.03
+2187,the amount of electric power,amount,Abstract quantity,1,0.03
+2188,the amount of electrical energy,amount,Abstract quantity,1,0.03
+2189,the amount of emotional energy,amount,Abstract quantity,1,0.03
+2190,the amount of emotional nourishment,amount,Abstract quantity,1,0.03
+2191,the amount of emotional stress,amount,Abstract quantity,1,0.03
+2192,the amount of empirical audience,amount,Abstract quantity,1,0.03
+2193,the amount of enclosed land,amount,Abstract quantity,1,0.03
+2194,the amount of environmental relief,amount,Abstract quantity,1,0.03
+2195,the amount of essential oxygen,amount,Abstract quantity,1,0.03
+2196,the amount of eventual subsidence,amount,Abstract quantity,1,0.03
+2197,the amount of evolutionary divergence,amount,Abstract quantity,1,0.03
+2198,the amount of excess weight,amount,Abstract quantity,1,0.03
+2199,the amount of external funding,amount,Abstract quantity,1,0.03
+2200,the amount of extra business,amount,Abstract quantity,1,0.03
+2201,the amount of extra household,amount,Abstract quantity,1,0.03
+2202,the amount of extra paperwork,amount,Abstract quantity,1,0.03
+2203,the amount of extra pay,amount,Abstract quantity,1,0.03
+2204,the amount of extra teaching,amount,Abstract quantity,1,0.03
+2205,the amount of extra work,amount,Abstract quantity,1,0.03
+2206,the amount of factional conflict,amount,Abstract quantity,1,0.03
+2207,the amount of factual information,amount,Abstract quantity,1,0.03
+2208,the amount of fatty animal,amount,Abstract quantity,1,0.03
+2209,the amount of fermentable material,amount,Abstract quantity,1,0.03
+2210,the amount of fertile soil,amount,Abstract quantity,1,0.03
+2211,the amount of financial aid,amount,Abstract quantity,1,0.03
+2212,the amount of fine detail,amount,Abstract quantity,1,0.03
+2213,the amount of first-class cricket,amount,Abstract quantity,1,0.03
+2214,the amount of fixed information,amount,Abstract quantity,1,0.03
+2215,the amount of free line,amount,Abstract quantity,1,0.03
+2216,the amount of free oxygen,amount,Abstract quantity,1,0.03
+2217,the amount of free volume,amount,Abstract quantity,1,0.03
+2218,the amount of fulvic acid,amount,Abstract quantity,1,0.03
+2219,the amount of future assistance,amount,Abstract quantity,1,0.03
+2220,The amount of genetic difference,amount,Abstract quantity,1,0.03
+2221,the amount of gilt-edged stock,amount,Abstract quantity,1,0.03
+2222,the amount of Green Belt,amount,Abstract quantity,1,0.03
+2223,the amount of gross income,amount,Abstract quantity,1,0.03
+2224,the amount of hard rubbing,amount,Abstract quantity,1,0.03
+2225,the amount of heated space,amount,Abstract quantity,1,0.03
+2226,the amount of heavy traffic,amount,Abstract quantity,1,0.03
+2227,the amount of heavy work,amount,Abstract quantity,1,0.03
+2228,the amount of Holy water,amount,Abstract quantity,1,0.03
+2229,the amount of horizontal space,amount,Abstract quantity,1,0.03
+2230,The amount of hot air,amount,Abstract quantity,1,0.03
+2231,The amount of human capital,amount,Abstract quantity,1,0.03
+2232,the amount of imported coal,amount,Abstract quantity,1,0.03
+2233,the amount of industrial effluent,amount,Abstract quantity,1,0.03
+2234,The amount of industrial production,amount,Abstract quantity,1,0.03
+2235,The amount of industrial waste,amount,Abstract quantity,1,0.03
+2236,the amount of infra-red light,amount,Abstract quantity,1,0.03
+2237,the amount of initial conditioning,amount,Abstract quantity,1,0.03
+2238,the amount of innovative work,amount,Abstract quantity,1,0.03
+2239,the amount of internal contraction,amount,Abstract quantity,1,0.03
+2240,the amount of internally-assessed coursework,amount,Abstract quantity,1,0.03
+2241,the amount of ionic movement,amount,Abstract quantity,1,0.03
+2242,the amount of Japanese aid,amount,Abstract quantity,1,0.03
+2243,the amount of journalistic coverage,amount,Abstract quantity,1,0.03
+2244,the amount of judicial time,amount,Abstract quantity,1,0.03
+2245,the amount of latent inhibition,amount,Abstract quantity,1,0.03
+2246,the amount of legislative attention,amount,Abstract quantity,1,0.03
+2247,the amount of light flak,amount,Abstract quantity,1,0.03
+2248,the amount of liquid water,amount,Abstract quantity,1,0.03
+2249,The amount of local news,amount,Abstract quantity,1,0.03
+2250,the amount of local tax,amount,Abstract quantity,1,0.03
+2251,the amount of local taxation,amount,Abstract quantity,1,0.03
+2252,the amount of long term,amount,Abstract quantity,1,0.03
+2253,the amount of luxurious food,amount,Abstract quantity,1,0.03
+2254,the amount of main memory,amount,Abstract quantity,1,0.03
+2255,the amount of main store,amount,Abstract quantity,1,0.03
+2256,the amount of male violence,amount,Abstract quantity,1,0.03
+2257,the amount of managerial talent,amount,Abstract quantity,1,0.03
+2258,the amount of manual intervention,amount,Abstract quantity,1,0.03
+2259,the amount of meaningful DNA,amount,Abstract quantity,1,0.03
+2260,the amount of mental effort,amount,Abstract quantity,1,0.03
+2261,the amount of military service,amount,Abstract quantity,1,0.03
+2262,the amount of modern hedgerow,amount,Abstract quantity,1,0.03
+2263,the amount of mutual involvement,amount,Abstract quantity,1,0.03
+2264,the amount of National Insurance,amount,Abstract quantity,1,0.03
+2265,the amount of national subsidy,amount,Abstract quantity,1,0.03
+2266,the amount of natural food,amount,Abstract quantity,1,0.03
+2267,the amount of natural light,amount,Abstract quantity,1,0.03
+2268,the amount of negative equity,amount,Abstract quantity,1,0.03
+2269,The amount of negative pitch,amount,Abstract quantity,1,0.03
+2270,the amount of nervous activity,amount,Abstract quantity,1,0.03
+2271,The amount of nervous excitement,amount,Abstract quantity,1,0.03
+2272,the amount of net saving,amount,Abstract quantity,1,0.03
+2273,the amount of neutral filler,amount,Abstract quantity,1,0.03
+2274,the amount of neutral gas,amount,Abstract quantity,1,0.03
+2275,the amount of neutral sodium,amount,Abstract quantity,1,0.03
+2276,the amount of new consumer,amount,Abstract quantity,1,0.03
+2277,the amount of new growth,amount,Abstract quantity,1,0.03
+2278,the amount of new investment,amount,Abstract quantity,1,0.03
+2279,the amount of new money,amount,Abstract quantity,1,0.03
+2280,The amount of new music,amount,Abstract quantity,1,0.03
+2281,the amount of new water,amount,Abstract quantity,1,0.03
+2282,the amount of non-compulsory expenditure,amount,Abstract quantity,1,0.03
+2283,the amount of non-recyclable packaging,amount,Abstract quantity,1,0.03
+2284,the amount of non-specific inhibitor,amount,Abstract quantity,1,0.03
+2285,the amount of nuclear material,amount,Abstract quantity,1,0.03
+2286,the amount of occupational verse,amount,Abstract quantity,1,0.03
+2287,The amount of occupational welfare,amount,Abstract quantity,1,0.03
+2288,the amount of oceanic crust,amount,Abstract quantity,1,0.03
+2289,the amount of open shelf,amount,Abstract quantity,1,0.03
+2290,the amount of oral review,amount,Abstract quantity,1,0.03
+2291,the amount of ordered energy,amount,Abstract quantity,1,0.03
+2292,the amount of outside income,amount,Abstract quantity,1,0.03
+2293,the amount of outside research,amount,Abstract quantity,1,0.03
+2294,the amount of overseas fuel,amount,Abstract quantity,1,0.03
+2295,the amount of overt aggression,amount,Abstract quantity,1,0.03
+2296,the amount of oxidised glutathione,amount,Abstract quantity,1,0.03
+2297,the amount of paid work,amount,Abstract quantity,1,0.03
+2298,the amount of parliamentary coverage,amount,Abstract quantity,1,0.03
+2299,the amount of parliamentary news,amount,Abstract quantity,1,0.03
+2300,the amount of pax[b] transcript,amount,Abstract quantity,1,0.03
+2301,the amount of personal damage,amount,Abstract quantity,1,0.03
+2302,the amount of personal income,amount,Abstract quantity,1,0.03
+2303,the amount of phonemic information,amount,Abstract quantity,1,0.03
+2304,the amount of physical activity,amount,Abstract quantity,1,0.03
+2305,the amount of physical movement,amount,Abstract quantity,1,0.03
+2306,the amount of physiological change,amount,Abstract quantity,1,0.03
+2307,the amount of Pistol-packing product,amount,Abstract quantity,1,0.03
+2308,the amount of political activity,amount,Abstract quantity,1,0.03
+2309,the amount of political column,amount,Abstract quantity,1,0.03
+2310,the amount of political power,amount,Abstract quantity,1,0.03
+2311,the amount of positive charge,amount,Abstract quantity,1,0.03
+2312,the amount of positive feed-back,amount,Abstract quantity,1,0.03
+2313,the amount of positive matter,amount,Abstract quantity,1,0.03
+2314,the amount of potential energy,amount,Abstract quantity,1,0.03
+2315,the amount of potential information,amount,Abstract quantity,1,0.03
+2316,the amount of practical support,amount,Abstract quantity,1,0.03
+2317,the amount of practical training,amount,Abstract quantity,1,0.03
+2318,the amount of pre-Mesozoic erosion,amount,Abstract quantity,1,0.03
+2319,the amount of pre-tour preparation,amount,Abstract quantity,1,0.03
+2320,the amount of prescribed action,amount,Abstract quantity,1,0.03
+2321,the amount of present legislation,amount,Abstract quantity,1,0.03
+2322,the amount of prior wakefulness,amount,Abstract quantity,1,0.03
+2323,the amount of procedural protection,amount,Abstract quantity,1,0.03
+2324,the amount of public business,amount,Abstract quantity,1,0.03
+2325,The amount of published research,amount,Abstract quantity,1,0.03
+2326,the amount of purchased goodwill,amount,Abstract quantity,1,0.03
+2327,the amount of radioactive carbon,amount,Abstract quantity,1,0.03
+2328,the amount of radioactive fallout,amount,Abstract quantity,1,0.03
+2329,the amount of radioactive iodine,amount,Abstract quantity,1,0.03
+2330,the amount of radioactive material,amount,Abstract quantity,1,0.03
+2331,the amount of raw material,amount,Abstract quantity,1,0.03
+2332,the amount of real choice,amount,Abstract quantity,1,0.03
+2333,The amount of real control,amount,Abstract quantity,1,0.03
+2334,the amount of realized trading,amount,Abstract quantity,1,0.03
+2335,the amount of reasonable remuneration,amount,Abstract quantity,1,0.03
+2336,The amount of reclaimed glass,amount,Abstract quantity,1,0.03
+2337,the amount of recoverable oil,amount,Abstract quantity,1,0.03
+2338,the amount of recreational space,amount,Abstract quantity,1,0.03
+2339,The amount of reduced glutathione,amount,Abstract quantity,1,0.03
+2340,the amount of reflected light,amount,Abstract quantity,1,0.03
+2341,The amount of related benefit,amount,Abstract quantity,1,0.03
+2342,the amount of renewable energy,amount,Abstract quantity,1,0.03
+2343,the amount of rented accommodation,amount,Abstract quantity,1,0.03
+2344,the amount of repetitive work,amount,Abstract quantity,1,0.03
+2345,the amount of rich food,amount,Abstract quantity,1,0.03
+2346,the amount of rotatory motion,amount,Abstract quantity,1,0.03
+2347,the amount of sensory stimulation,amount,Abstract quantity,1,0.03
+2348,the amount of sexual violence,amount,Abstract quantity,1,0.03
+2349,the amount of similar equipment,amount,Abstract quantity,1,0.03
+2350,the amount of social feedback,amount,Abstract quantity,1,0.03
+2351,The amount of social legislation,amount,Abstract quantity,1,0.03
+2352,the amount of social life,amount,Abstract quantity,1,0.03
+2353,the amount of social power,amount,Abstract quantity,1,0.03
+2354,the amount of social support,amount,Abstract quantity,1,0.03
+2355,the amount of soft tissue,amount,Abstract quantity,1,0.03
+2356,the amount of solar heating,amount,Abstract quantity,1,0.03
+2357,the amount of solar radiation,amount,Abstract quantity,1,0.03
+2358,the amount of solid dirt,amount,Abstract quantity,1,0.03
+2359,The amount of Soviet gold,amount,Abstract quantity,1,0.03
+2360,the amount of spare capacity,amount,Abstract quantity,1,0.03
+2361,the amount of stabilised oil,amount,Abstract quantity,1,0.03
+2362,the amount of statutory health,amount,Abstract quantity,1,0.03
+2363,the amount of statutory maternity,amount,Abstract quantity,1,0.03
+2364,the amount of stored energy,amount,Abstract quantity,1,0.03
+2365,the amount of subjective culpability,amount,Abstract quantity,1,0.03
+2366,the amount of suburban extension,amount,Abstract quantity,1,0.03
+2367,the amount of sulphated glycoprotein,amount,Abstract quantity,1,0.03
+2368,The amount of supplementary benefit,amount,Abstract quantity,1,0.03
+2369,The amount of surplus ACT,amount,Abstract quantity,1,0.03
+2370,the amount of surplus product,amount,Abstract quantity,1,0.03
+2371,The amount of sustained coverage,amount,Abstract quantity,1,0.03
+2372,the amount of symbolic capital,amount,Abstract quantity,1,0.03
+2373,the amount of synaptic membrane,amount,Abstract quantity,1,0.03
+2374,the amount of syntactic analysis,amount,Abstract quantity,1,0.03
+2375,the amount of syntactic processing,amount,Abstract quantity,1,0.03
+2376,the amount of tactical voting,amount,Abstract quantity,1,0.03
+2377,The amount of technical risk,amount,Abstract quantity,1,0.03
+2378,the amount of timetabled contact,amount,Abstract quantity,1,0.03
+2379,the amount of total assistance,amount,Abstract quantity,1,0.03
+2380,the amount of total demand,amount,Abstract quantity,1,0.03
+2381,the amount of total RNA,amount,Abstract quantity,1,0.03
+2382,the amount of transfected DNA,amount,Abstract quantity,1,0.03
+2383,the amount of transitional relief,amount,Abstract quantity,1,0.03
+2384,the amount of ultraviolet radiation,amount,Abstract quantity,1,0.03
+2385,the amount of undeveloped land,amount,Abstract quantity,1,0.03
+2386,the amount of unissued share,amount,Abstract quantity,1,0.03
+2387,the amount of unpaid leave,amount,Abstract quantity,1,0.03
+2388,the amount of untreated sewage,amount,Abstract quantity,1,0.03
+2389,the amount of useful vision,amount,Abstract quantity,1,0.03
+2390,the amount of useless energy,amount,Abstract quantity,1,0.03
+2391,the amount of violent crime,amount,Abstract quantity,1,0.03
+2392,the amount of weekly rate,amount,Abstract quantity,1,0.03
+2393,the amount of white land,amount,Abstract quantity,1,0.03
+2394,the amount of white space,amount,Abstract quantity,1,0.03
+2395,the amount of working capital,amount,Abstract quantity,1,0.03
+2396,the amount of written work,amount,Abstract quantity,1,0.03
+2397,the area of acetic acid,area,Spatial,1,0.03
+2398,the area of administrative law,area,Spatial,1,0.03
+2399,the area of advanced electronics,area,Spatial,1,0.03
+2400,the area of aesthetic appraisal,area,Spatial,1,0.03
+2401,the area of aesthetic response,area,Spatial,1,0.03
+2402,the area of Afro-Caribbean language,area,Spatial,1,0.03
+2403,the area of artistic appraisal,area,Spatial,1,0.03
+2404,the area of civil procedure,area,Spatial,1,0.03
+2405,the area of clean technology,area,Spatial,1,0.03
+2406,the area of close work,area,Spatial,1,0.03
+2407,the area of cognitive style,area,Spatial,1,0.03
+2408,The area of conscious energy,area,Spatial,1,0.03
+2409,the area of constitutional impropriety,area,Spatial,1,0.03
+2410,the area of conversational analysis,area,Spatial,1,0.03
+2411,the area of criminal activity,area,Spatial,1,0.03
+2412,the area of critical discourse,area,Spatial,1,0.03
+2413,the area of critical practice,area,Spatial,1,0.03
+2414,The area of cultivated land,area,Spatial,1,0.03
+2415,the area of cultural experience,area,Spatial,1,0.03
+2416,the area of customary law,area,Spatial,1,0.03
+2417,the area of damaged grass,area,Spatial,1,0.03
+2418,the area of depleted ozone,area,Spatial,1,0.03
+2419,the area of distorted communication,area,Spatial,1,0.03
+2420,the area of distributed object,area,Spatial,1,0.03
+2421,the area of dry land,area,Spatial,1,0.03
+2422,the area of economic management,area,Spatial,1,0.03
+2423,the area of economic policy,area,Spatial,1,0.03
+2424,the area of educational policy,area,Spatial,1,0.03
+2425,the area of educational research,area,Spatial,1,0.03
+2426,the area of empirical research,area,Spatial,1,0.03
+2427,the area of environmental scanning,area,Spatial,1,0.03
+2428,the area of ethnographic work,area,Spatial,1,0.03
+2429,the area of European security,area,Spatial,1,0.03
+2430,the area of feminist epistemology,area,Spatial,1,0.03
+2431,the area of financial compliance,area,Spatial,1,0.03
+2432,the area of fine hand,area,Spatial,1,0.03
+2433,the area of flexible response,area,Spatial,1,0.03
+2434,the area of foreseeable risk,area,Spatial,1,0.03
+2435,the area of forested land,area,Spatial,1,0.03
+2436,the area of formal government,area,Spatial,1,0.03
+2437,the area of freshwater recreation,area,Spatial,1,0.03
+2438,the area of gastric ulcer,area,Spatial,1,0.03
+2439,the area of general practice,area,Spatial,1,0.03
+2440,The area of Green Belt,area,Spatial,1,0.03
+2441,the area of hostile environment,area,Spatial,1,0.03
+2442,the area of immunochemical technology,area,Spatial,1,0.03
+2443,the area of improved pasture,area,Spatial,1,0.03
+2444,the area of in-service education,area,Spatial,1,0.03
+2445,the area of independent choice,area,Spatial,1,0.03
+2446,the area of industrial economics,area,Spatial,1,0.03
+2447,the area of industrial protest,area,Spatial,1,0.03
+2448,the area of industrial R&amp;D,area,Spatial,1,0.03
+2449,the area of industrial training,area,Spatial,1,0.03
+2450,the area of integrated delivery,area,Spatial,1,0.03
+2451,the area of intelligent support,area,Spatial,1,0.03
+2452,the area of irrigated land,area,Spatial,1,0.03
+2453,the area of judicial discretion,area,Spatial,1,0.03
+2454,the area of juvenile crime,area,Spatial,1,0.03
+2455,the area of legal education,area,Spatial,1,0.03
+2456,the area of linguistic study,area,Spatial,1,0.03
+2457,the area of local business,area,Spatial,1,0.03
+2458,the area of macroscopic lesion,area,Spatial,1,0.03
+2459,the area of major ozone,area,Spatial,1,0.03
+2460,the area of Mammalian Metabolism,area,Spatial,1,0.03
+2461,the area of managerial activity,area,Spatial,1,0.03
+2462,the area of maximum growth,area,Spatial,1,0.03
+2463,The area of medical jurisprudence,area,Spatial,1,0.03
+2464,the area of medical research,area,Spatial,1,0.03
+2465,the area of medical treatment,area,Spatial,1,0.03
+2466,the area of myocardial infarction,area,Spatial,1,0.03
+2467,the area of national expenditure,area,Spatial,1,0.03
+2468,the area of natural philosophy,area,Spatial,1,0.03
+2469,the area of negligent design,area,Spatial,1,0.03
+2470,the area of net measurement,area,Spatial,1,0.03
+2471,the area of networked computer,area,Spatial,1,0.03
+2472,the area of new church,area,Spatial,1,0.03
+2473,The area of new planting,area,Spatial,1,0.03
+2474,the area of new technology,area,Spatial,1,0.03
+2475,the area of occupational safety,area,Spatial,1,0.03
+2476,the area of Open Learning,area,Spatial,1,0.03
+2477,the area of open space,area,Spatial,1,0.03
+2478,the area of optical information,area,Spatial,1,0.03
+2479,the area of past-life regression,area,Spatial,1,0.03
+2480,the area of personal effectiveness,area,Spatial,1,0.03
+2481,the area of personal injury,area,Spatial,1,0.03
+2482,the area of personal search,area,Spatial,1,0.03
+2483,the area of possible measurement,area,Spatial,1,0.03
+2484,the area of post-war policy,area,Spatial,1,0.03
+2485,the area of potential danger,area,Spatial,1,0.03
+2486,the area of primary health,area,Spatial,1,0.03
+2487,the area of primary interest,area,Spatial,1,0.03
+2488,the area of private life,area,Spatial,1,0.03
+2489,the area of public order,area,Spatial,1,0.03
+2490,the area of public participation,area,Spatial,1,0.03
+2491,the area of public procurement,area,Spatial,1,0.03
+2492,The area of pure waste,area,Spatial,1,0.03
+2493,the area of Quaternary geology,area,Spatial,1,0.03
+2494,the area of radioactive fall-out,area,Spatial,1,0.03
+2495,the area of rapid sediment,area,Spatial,1,0.03
+2496,the area of recent sympatry,area,Spatial,1,0.03
+2497,the area of remote sensing,area,Spatial,1,0.03
+2498,the area of rough grassland/,area,Spatial,1,0.03
+2499,the area of rough grazing,area,Spatial,1,0.03
+2500,the area of segmental phonology,area,Spatial,1,0.03
+2501,the area of sexual abuse,area,Spatial,1,0.03
+2502,the area of sexual behaviour,area,Spatial,1,0.03
+2503,the area of sexual morality,area,Spatial,1,0.03
+2504,the area of social help,area,Spatial,1,0.03
+2505,the area of social law,area,Spatial,1,0.03
+2506,the Area of Social Ownership,area,Spatial,1,0.03
+2507,the area of social protection,area,Spatial,1,0.03
+2508,the area of social security,area,Spatial,1,0.03
+2509,The area of solid wall,area,Spatial,1,0.03
+2510,the area of spatial sampling,area,Spatial,1,0.03
+2511,the area of sponge-like tissue,area,Spatial,1,0.03
+2512,the area of steep torque,area,Spatial,1,0.03
+2513,The area of suggested centuriation,area,Spatial,1,0.03
+2514,the area of theoretical linguistics,area,Spatial,1,0.03
+2515,the area of total overlap,area,Spatial,1,0.03
+2516,the area of unfair dismissal,area,Spatial,1,0.03
+2517,the area of unsecured lending,area,Spatial,1,0.03
+2518,the area of visual communication,area,Spatial,1,0.03
+2519,the area of vocational training,area,Spatial,1,0.03
+2520,the area of whole agreement,area,Spatial,1,0.03
+2521,the bag of saline solution,bag,Container,1,0.03
+2522,The bottle of cheap wine,bottle,Container,1,0.03
+2523,the bottle of liquid cream,bottle,Container,1,0.03
+2524,the bottle of Southern Comfort,bottle,Container,1,0.03
+2525,the box of white paper,box,Container,1,0.03
+2526,the can of boiling water,can,Container,1,0.03
+2527,the can of red spray,can,Container,1,0.03
+2528,the chunk of sizzling corpse,chunk,Portion / quantity,1,0.03
+2529,the cup of black coffee,cup,Container,1,0.03
+2530,the cup of everlasting salvation,cup,Container,1,0.03
+2531,the cup of French tutelage,cup,Container,1,0.03
+2532,the cup of hot milk,cup,Container,1,0.03
+2533,the cup of lukewarm water,cup,Container,1,0.03
+2534,the cup of spiritual intoxication,cup,Container,1,0.03
+2535,the cup of ultimate triumph,cup,Container,1,0.03
+2536,The cup of warm beer,cup,Container,1,0.03
+2537,the day of domestic togetherness,day,Temporal,1,0.03
+2538,the day of environmental Manager,day,Temporal,1,0.03
+2539,the Day of False Resurrection,day,Temporal,1,0.03
+2540,the Day of German Unity,day,Temporal,1,0.03
+2541,the day of high technology,day,Temporal,1,0.03
+2542,the day of major opposition,day,Temporal,1,0.03
+2543,the day of microbiological diagnosis,day,Temporal,1,0.03
+2544,the degree of abnormal bowel,degree,Abstract quantity,1,0.03
+2545,the degree of abnormal uptake,degree,Abstract quantity,1,0.03
+2546,the degree of active student,degree,Abstract quantity,1,0.03
+2547,the degree of actual involvement,degree,Abstract quantity,1,0.03
+2548,The degree of added value,degree,Abstract quantity,1,0.03
+2549,the degree of archaeological survival,degree,Abstract quantity,1,0.03
+2550,the degree of ascetic zeal,degree,Abstract quantity,1,0.03
+2551,the degree of assortative mating,degree,Abstract quantity,1,0.03
+2552,the degree of bilingual ability,degree,Abstract quantity,1,0.03
+2553,The degree of capitalist development,degree,Abstract quantity,1,0.03
+2554,The degree of central control,degree,Abstract quantity,1,0.03
+2555,the degree of collective organization,degree,Abstract quantity,1,0.03
+2556,The degree of colonic bioavailability,degree,Abstract quantity,1,0.03
+2557,the degree of commercial autonomy,degree,Abstract quantity,1,0.03
+2558,the degree of commercial success,degree,Abstract quantity,1,0.03
+2559,the degree of common ground,degree,Abstract quantity,1,0.03
+2560,the degree of common membership,degree,Abstract quantity,1,0.03
+2561,the degree of conceptual confusion,degree,Abstract quantity,1,0.03
+2562,the degree of conceptual retardation,degree,Abstract quantity,1,0.03
+2563,the degree of contextual pressure,degree,Abstract quantity,1,0.03
+2564,the degree of cooperative response,degree,Abstract quantity,1,0.03
+2565,the degree of cosmic-ray bombardment,degree,Abstract quantity,1,0.03
+2566,the degree of creative guidance,degree,Abstract quantity,1,0.03
+2567,the degree of critical self-consciousness,degree,Abstract quantity,1,0.03
+2568,The degree of Croatian autonomy,degree,Abstract quantity,1,0.03
+2569,the degree of cross-disciplinary dialogue,degree,Abstract quantity,1,0.03
+2570,the degree of daily comovement,degree,Abstract quantity,1,0.03
+2571,the degree of dental debris,degree,Abstract quantity,1,0.03
+2572,the degree of diabetic control,degree,Abstract quantity,1,0.03
+2573,The degree of divisional-HQ interaction,degree,Abstract quantity,1,0.03
+2574,the degree of easy intimacy,degree,Abstract quantity,1,0.03
+2575,the degree of economic development,degree,Abstract quantity,1,0.03
+2576,the degree of economic independence,degree,Abstract quantity,1,0.03
+2577,The degree of economic specialization,degree,Abstract quantity,1,0.03
+2578,the degree of emotional disturbance,degree,Abstract quantity,1,0.03
+2579,The degree of emotional pressure,degree,Abstract quantity,1,0.03
+2580,the degree of ethnic strife,degree,Abstract quantity,1,0.03
+2581,the degree of existing knowledge,degree,Abstract quantity,1,0.03
+2582,the degree of focal activity,degree,Abstract quantity,1,0.03
+2583,the degree of foreign bank,degree,Abstract quantity,1,0.03
+2584,The degree of formal organisation,degree,Abstract quantity,1,0.03
+2585,the degree of functional specialization,degree,Abstract quantity,1,0.03
+2586,the degree of gastric alkalinity,degree,Abstract quantity,1,0.03
+2587,the degree of global concentration,degree,Abstract quantity,1,0.03
+2588,the degree of histological gastritis,degree,Abstract quantity,1,0.03
+2589,the degree of honorary LLD,degree,Abstract quantity,1,0.03
+2590,the degree of human sensibility,degree,Abstract quantity,1,0.03
+2591,the degree of increased risk,degree,Abstract quantity,1,0.03
+2592,the degree of individual interest,degree,Abstract quantity,1,0.03
+2593,the degree of individual participation,degree,Abstract quantity,1,0.03
+2594,the degree of industrial concentration,degree,Abstract quantity,1,0.03
+2595,the degree of inflammatory response,degree,Abstract quantity,1,0.03
+2596,the degree of inhomogeneous broadening,degree,Abstract quantity,1,0.03
+2597,The degree of intellectual impairment,degree,Abstract quantity,1,0.03
+2598,the degree of inter-disciplinary involvement,degree,Abstract quantity,1,0.03
+2599,the degree of inter-generational conflict,degree,Abstract quantity,1,0.03
+2600,the degree of internal coherence,degree,Abstract quantity,1,0.03
+2601,the degree of international power,degree,Abstract quantity,1,0.03
+2602,the degree of international recognition,degree,Abstract quantity,1,0.03
+2603,the degree of interpretative sophistication,degree,Abstract quantity,1,0.03
+2604,The degree of intestinal metaplasia,degree,Abstract quantity,1,0.03
+2605,the degree of inward investment,degree,Abstract quantity,1,0.03
+2606,the degree of ionic character,degree,Abstract quantity,1,0.03
+2607,the degree of lateral asymmetry,degree,Abstract quantity,1,0.03
+2608,the degree of local autonomy,degree,Abstract quantity,1,0.03
+2609,the degree of manorial fragmentation,degree,Abstract quantity,1,0.03
+2610,the degree of mental handicap,degree,Abstract quantity,1,0.03
+2611,The degree of mental stimulation,degree,Abstract quantity,1,0.03
+2612,the degree of military control,degree,Abstract quantity,1,0.03
+2613,the degree of modern contamination,degree,Abstract quantity,1,0.03
+2614,the degree of monetary autonomy,degree,Abstract quantity,1,0.03
+2615,the degree of monopolistic competition,degree,Abstract quantity,1,0.03
+2616,the degree of moral outrage,degree,Abstract quantity,1,0.03
+2617,the degree of moral responsibility,degree,Abstract quantity,1,0.03
+2618,the degree of mutual knowledge,degree,Abstract quantity,1,0.03
+2619,the degree of nasopharyngeal obstruction,degree,Abstract quantity,1,0.03
+2620,the degree of negative control,degree,Abstract quantity,1,0.03
+2621,the degree of objective similarity,degree,Abstract quantity,1,0.03
+2622,The degree of overseas investment,degree,Abstract quantity,1,0.03
+2623,the degree of parallel organization,degree,Abstract quantity,1,0.03
+2624,the degree of parental investment,degree,Abstract quantity,1,0.03
+2625,the degree of periodontal disease,degree,Abstract quantity,1,0.03
+2626,The degree of personal responsibility,degree,Abstract quantity,1,0.03
+2627,the degree of phenylalanine accumulation,degree,Abstract quantity,1,0.03
+2628,the degree of physical exertion,degree,Abstract quantity,1,0.03
+2629,the degree of physical injury,degree,Abstract quantity,1,0.03
+2630,the degree of political centralization,degree,Abstract quantity,1,0.03
+2631,the degree of political intervention,degree,Abstract quantity,1,0.03
+2632,the degree of political involvement,degree,Abstract quantity,1,0.03
+2633,the degree of possible grazing,degree,Abstract quantity,1,0.03
+2634,the degree of pre-morbid neuroticism,degree,Abstract quantity,1,0.03
+2635,the degree of premeditated dishonesty,degree,Abstract quantity,1,0.03
+2636,the degree of previous cooperation,degree,Abstract quantity,1,0.03
+2637,the degree of previous familiarity,degree,Abstract quantity,1,0.03
+2638,The degree of professional autonomy,degree,Abstract quantity,1,0.03
+2639,the degree of public anxiety,degree,Abstract quantity,1,0.03
+2640,the degree of public satisfaction,degree,Abstract quantity,1,0.03
+2641,the degree of racial discrimination,degree,Abstract quantity,1,0.03
+2642,the degree of regional income,degree,Abstract quantity,1,0.03
+2643,The degree of selective pressure,degree,Abstract quantity,1,0.03
+2644,the degree of self-generating investment,degree,Abstract quantity,1,0.03
+2645,the degree of sexual activity,degree,Abstract quantity,1,0.03
+2646,the degree of sexual conduct,degree,Abstract quantity,1,0.03
+2647,the degree of sexual dimorphism,degree,Abstract quantity,1,0.03
+2648,The degree of social closure,degree,Abstract quantity,1,0.03
+2649,the degree of social differentiation,degree,Abstract quantity,1,0.03
+2650,the degree of social isolation,degree,Abstract quantity,1,0.03
+2651,the degree of spoken language,degree,Abstract quantity,1,0.03
+2652,the degree of strategic mobility,degree,Abstract quantity,1,0.03
+2653,the degree of stylistic affinity,degree,Abstract quantity,1,0.03
+2654,the degree of suicidal intent,degree,Abstract quantity,1,0.03
+2655,the degree of supraorbital development,degree,Abstract quantity,1,0.03
+2656,the degree of syntactic ambiguity,degree,Abstract quantity,1,0.03
+2657,the degree of technical uncertainty,degree,Abstract quantity,1,0.03
+2658,the degree of three-dimensional ordering,degree,Abstract quantity,1,0.03
+2659,the degree of uncontrollable disturbance,degree,Abstract quantity,1,0.03
+2660,the degree of uneven development,degree,Abstract quantity,1,0.03
+2661,the degree of up-to-date detail,degree,Abstract quantity,1,0.03
+2662,the degree of urban independence,degree,Abstract quantity,1,0.03
+2663,the degree of vertical dissonance,degree,Abstract quantity,1,0.03
+2664,the degree of vertical equity,degree,Abstract quantity,1,0.03
+2665,the degree of warm enrichment,degree,Abstract quantity,1,0.03
+2666,the glass of fresh orange-juice,glass,Container,1,0.03
+2667,the glass of iced water,glass,Container,1,0.03
+2668,the glass of mulled wine,glass,Container,1,0.03
+2669,the glass of vinegary wine,glass,Container,1,0.03
+2670,the grain of English history,grain,Small / discrete,1,0.03
+2671,the grain of local politics,grain,Small / discrete,1,0.03
+2672,the grain of modern consciousness,grain,Small / discrete,1,0.03
+2673,the grain of natural disposition,grain,Small / discrete,1,0.03
+2674,the grain of organic functioning,grain,Small / discrete,1,0.03
+2675,the grain of popular feeling,grain,Small / discrete,1,0.03
+2676,the grain of recent writing,grain,Small / discrete,1,0.03
+2677,the grain of Scottish public,grain,Small / discrete,1,0.03
+2678,the group of ardent rail,group,Numerical / counting,1,0.03
+2679,the group of Physical Education,group,Numerical / counting,1,0.03
+2680,the group of rural home,group,Numerical / counting,1,0.03
+2681,the group of self-exiled book,group,Numerical / counting,1,0.03
+2682,the group of squat brick,group,Numerical / counting,1,0.03
+2683,the handful of professional club,handful,Portion,1,0.03
+2684,The hour of acute awareness,hour,Temporal,1,0.03
+2685,the hour of desperate need,hour,Temporal,1,0.03
+2686,the hour of maximum danger,hour,Temporal,1,0.03
+2687,the hour of supreme glory,hour,Temporal,1,0.03
+2688,the inch of bare skin,inch,Length,1,0.03
+2689,the inch of yellow knitting,inch,Length,1,0.03
+2690,the item of outstanding importance,item,Other countable,1,0.03
+2691,the item of scientific interest,item,Other countable,1,0.03
+2692,the length of actual time,length,Spatial,1,0.03
+2693,the length of adequate surveillance,length,Spatial,1,0.03
+2694,the length of brown thigh,length,Spatial,1,0.03
+2695,the length of heavy chain,length,Spatial,1,0.03
+2696,the length of hot water,length,Spatial,1,0.03
+2697,the length of in-house experience,length,Spatial,1,0.03
+2698,the length of putrid flesh,length,Spatial,1,0.03
+2699,the length of scheduled working,length,Spatial,1,0.03
+2700,the length of therapeutic treatment,length,Spatial,1,0.03
+2701,the length of unwrapped leash,length,Spatial,1,0.03
+2702,the length of useful life,length,Spatial,1,0.03
+2703,the length of windowe box,length,Spatial,1,0.03
+2704,the level of acceptable risk,level,Abstract quantity,1,0.03
+2705,the level of aerobic endurance,level,Abstract quantity,1,0.03
+2706,the level of aggregate output,level,Abstract quantity,1,0.03
+2707,the level of aggregate production,level,Abstract quantity,1,0.03
+2708,the level of aggregate welfare,level,Abstract quantity,1,0.03
+2709,the level of agricultural output,level,Abstract quantity,1,0.03
+2710,the level of agricultural pre-occupation,level,Abstract quantity,1,0.03
+2711,the level of ambient light,level,Abstract quantity,1,0.03
+2712,the level of anti-neutrophil antibody,level,Abstract quantity,1,0.03
+2713,the level of articulate rationality,level,Abstract quantity,1,0.03
+2714,the level of Australian aid,level,Abstract quantity,1,0.03
+2715,the level of authentic faith,level,Abstract quantity,1,0.03
+2716,the level of autonomous expenditure,level,Abstract quantity,1,0.03
+2717,the level of average consumption,level,Abstract quantity,1,0.03
+2718,the level of bar-room farce,level,Abstract quantity,1,0.03
+2719,the level of bare subsistence,level,Abstract quantity,1,0.03
+2720,the level of basic pension,level,Abstract quantity,1,0.03
+2721,The level of British farming,level,Abstract quantity,1,0.03
+2722,the level of categorical separation,level,Abstract quantity,1,0.03
+2723,the level of chemical production,level,Abstract quantity,1,0.03
+2724,the level of collective knowledge,level,Abstract quantity,1,0.03
+2725,the level of common sense,level,Abstract quantity,1,0.03
+2726,the level of communicative action,level,Abstract quantity,1,0.03
+2727,the level of competitive advertising,level,Abstract quantity,1,0.03
+2728,the level of composite rate,level,Abstract quantity,1,0.03
+2729,the level of conceptual development,level,Abstract quantity,1,0.03
+2730,the level of conscious control,level,Abstract quantity,1,0.03
+2731,the level of continual commitment,level,Abstract quantity,1,0.03
+2732,the level of cooperative activity,level,Abstract quantity,1,0.03
+2733,The level of corporate support,level,Abstract quantity,1,0.03
+2734,the level of critical analysis,level,Abstract quantity,1,0.03
+2735,the level of cultural exchange,level,Abstract quantity,1,0.03
+2736,the level of cultural policy,level,Abstract quantity,1,0.03
+2737,the level of cultural theory,level,Abstract quantity,1,0.03
+2738,the level of current dividend,level,Abstract quantity,1,0.03
+2739,the level of current funding,level,Abstract quantity,1,0.03
+2740,the level of current passing,level,Abstract quantity,1,0.03
+2741,the level of current spending,level,Abstract quantity,1,0.03
+2742,the level of current wage,level,Abstract quantity,1,0.03
+2743,the level of custodial sentencing,level,Abstract quantity,1,0.03
+2744,the level of defence-related employment,level,Abstract quantity,1,0.03
+2745,the level of detailed evidence,level,Abstract quantity,1,0.03
+2746,the level of diagnostic help,level,Abstract quantity,1,0.03
+2747,the level of direct taxation,level,Abstract quantity,1,0.03
+2748,the level of disposable income,level,Abstract quantity,1,0.03
+2749,the level of DNA-protein complex,level,Abstract quantity,1,0.03
+2750,the level of domestic consumption,level,Abstract quantity,1,0.03
+2751,the level of domestic demand,level,Abstract quantity,1,0.03
+2752,the level of economic growth,level,Abstract quantity,1,0.03
+2753,the level of economic theory,level,Abstract quantity,1,0.03
+2754,the level of economic welfare,level,Abstract quantity,1,0.03
+2755,the level of educational achievement,level,Abstract quantity,1,0.03
+2756,the level of educational performance,level,Abstract quantity,1,0.03
+2757,the level of effective decision-making,level,Abstract quantity,1,0.03
+2758,the level of emotional intensity,level,Abstract quantity,1,0.03
+2759,the level of empirical evidence,level,Abstract quantity,1,0.03
+2760,the level of empirical observation,level,Abstract quantity,1,0.03
+2761,the level of energy-efficient building,level,Abstract quantity,1,0.03
+2762,the level of English aggression,level,Abstract quantity,1,0.03
+2763,the level of environmental contamination,level,Abstract quantity,1,0.03
+2764,the level of existing capacity,level,Abstract quantity,1,0.03
+2765,the level of existing pollution,level,Abstract quantity,1,0.03
+2766,the level of explicit knowledge,level,Abstract quantity,1,0.03
+2767,the level of expressed emotion,level,Abstract quantity,1,0.03
+2768,the level of federal aid,level,Abstract quantity,1,0.03
+2769,the level of female activity,level,Abstract quantity,1,0.03
+2770,the level of female celibacy,level,Abstract quantity,1,0.03
+2771,the level of female representation,level,Abstract quantity,1,0.03
+2772,the level of feminine domesticity,level,Abstract quantity,1,0.03
+2773,The level of fermentable sugar,level,Abstract quantity,1,0.03
+2774,the level of financial compensation,level,Abstract quantity,1,0.03
+2775,the level of financial control,level,Abstract quantity,1,0.03
+2776,the level of financial irresponsibility,level,Abstract quantity,1,0.03
+2777,the level of foreign investment,level,Abstract quantity,1,0.03
+2778,the level of foreign news,level,Abstract quantity,1,0.03
+2779,the level of foreign portfolio,level,Abstract quantity,1,0.03
+2780,The level of foreign trade,level,Abstract quantity,1,0.03
+2781,the level of full employment,level,Abstract quantity,1,0.03
+2782,the level of general class-room,level,Abstract quantity,1,0.03
+2783,The level of general interest,level,Abstract quantity,1,0.03
+2784,the level of general practice,level,Abstract quantity,1,0.03
+2785,the level of generic definition,level,Abstract quantity,1,0.03
+2786,the level of geological activity,level,Abstract quantity,1,0.03
+2787,the level of glorified health,level,Abstract quantity,1,0.03
+2788,the level of glossy paper,level,Abstract quantity,1,0.03
+2789,the level of glycaemic control,level,Abstract quantity,1,0.03
+2790,the level of heavy street,level,Abstract quantity,1,0.03
+2791,the level of high density,level,Abstract quantity,1,0.03
+2792,the level of high spring,level,Abstract quantity,1,0.03
+2793,the level of high-school mentality,level,Abstract quantity,1,0.03
+2794,the level of human contact,level,Abstract quantity,1,0.03
+2795,the level of IL-6DBP/NF-IL6 mRNA,level,Abstract quantity,1,0.03
+2796,the level of imaginative writing,level,Abstract quantity,1,0.03
+2797,the level of immediate experience,level,Abstract quantity,1,0.03
+2798,the level of immediate observation,level,Abstract quantity,1,0.03
+2799,the level of immediate recognition,level,Abstract quantity,1,0.03
+2800,the level of individual activity,level,Abstract quantity,1,0.03
+2801,the level of individual portrayal,level,Abstract quantity,1,0.03
+2802,the level of individual test,level,Abstract quantity,1,0.03
+2803,the level of indoor air,level,Abstract quantity,1,0.03
+2804,the level of industrial production,level,Abstract quantity,1,0.03
+2805,the level of initial interest,level,Abstract quantity,1,0.03
+2806,the level of initial recruitment,level,Abstract quantity,1,0.03
+2807,the level of institutional approval,level,Abstract quantity,1,0.03
+2808,The level of intellectual activity,level,Abstract quantity,1,0.03
+2809,the level of intergenerational exchange,level,Abstract quantity,1,0.03
+2810,the level of intergovernmental cooperation,level,Abstract quantity,1,0.03
+2811,the level of intermittent companionship,level,Abstract quantity,1,0.03
+2812,The level of internal control,level,Abstract quantity,1,0.03
+2813,the level of interpersonal interaction,level,Abstract quantity,1,0.03
+2814,the level of intracellular calcium,level,Abstract quantity,1,0.03
+2815,the level of Japanese car,level,Abstract quantity,1,0.03
+2816,the level of Japanese investment,level,Abstract quantity,1,0.03
+2817,the level of joint planning,level,Abstract quantity,1,0.03
+2818,the level of judicial training,level,Abstract quantity,1,0.03
+2819,the level of Keynesian unemployment,level,Abstract quantity,1,0.03
+2820,the level of legal culture,level,Abstract quantity,1,0.03
+2821,the level of legal theory,level,Abstract quantity,1,0.03
+2822,the level of lexico-grammatical form,level,Abstract quantity,1,0.03
+2823,the level of local authority,level,Abstract quantity,1,0.03
+2824,the level of local expenditure,level,Abstract quantity,1,0.03
+2825,the level of local politics,level,Abstract quantity,1,0.03
+2826,The level of logical rigour,level,Abstract quantity,1,0.03
+2827,the level of long-stay care,level,Abstract quantity,1,0.03
+2828,the level of magnetic disturbance,level,Abstract quantity,1,0.03
+2829,the level of managerial support,level,Abstract quantity,1,0.03
+2830,the level of manifest policy,level,Abstract quantity,1,0.03
+2831,the level of mass impact,level,Abstract quantity,1,0.03
+2832,the level of measurable behaviour,level,Abstract quantity,1,0.03
+2833,the level of mental ability,level,Abstract quantity,1,0.03
+2834,the level of mental maturity,level,Abstract quantity,1,0.03
+2835,the level of mere idea,level,Abstract quantity,1,0.03
+2836,the level of metaphoric form,level,Abstract quantity,1,0.03
+2837,the level of military activity,level,Abstract quantity,1,0.03
+2838,the level of military expenditure,level,Abstract quantity,1,0.03
+2839,the level of military spending,level,Abstract quantity,1,0.03
+2840,the level of minimum service,level,Abstract quantity,1,0.03
+2841,the level of minor celebrity,level,Abstract quantity,1,0.03
+2842,the level of mutual deception,level,Abstract quantity,1,0.03
+2843,the level of National Certificate,level,Abstract quantity,1,0.03
+2844,the level of national health,level,Abstract quantity,1,0.03
+2845,the level of national leadership,level,Abstract quantity,1,0.03
+2846,the level of national policy,level,Abstract quantity,1,0.03
+2847,the level of national politics,level,Abstract quantity,1,0.03
+2848,the level of nationalist discourse,level,Abstract quantity,1,0.03
+2849,the level of natural handicap,level,Abstract quantity,1,0.03
+2850,The level of natural unemployment,level,Abstract quantity,1,0.03
+2851,the level of net immigration,level,Abstract quantity,1,0.03
+2852,the level of net investment,level,Abstract quantity,1,0.03
+2853,the level of net migration,level,Abstract quantity,1,0.03
+2854,the level of new business,level,Abstract quantity,1,0.03
+2855,the level of non-Urenco business,level,Abstract quantity,1,0.03
+2856,the level of nuclear calcium,level,Abstract quantity,1,0.03
+2857,the level of occupational competence,level,Abstract quantity,1,0.03
+2858,the level of ongoing responsibility,level,Abstract quantity,1,0.03
+2859,the level of opencast coal,level,Abstract quantity,1,0.03
+2860,the level of opencast output,level,Abstract quantity,1,0.03
+2861,the level of operational technique,level,Abstract quantity,1,0.03
+2862,the level of oral language,level,Abstract quantity,1,0.03
+2863,the level of organisational resistance,level,Abstract quantity,1,0.03
+2864,the level of original definition,level,Abstract quantity,1,0.03
+2865,The level of other support,level,Abstract quantity,1,0.03
+2866,The level of outstanding consumer,level,Abstract quantity,1,0.03
+2867,the level of overseas interest,level,Abstract quantity,1,0.03
+2868,the level of oxidised glutathione,level,Abstract quantity,1,0.03
+2869,the level of painful anecdote,level,Abstract quantity,1,0.03
+2870,the level of parental wealth,level,Abstract quantity,1,0.03
+2871,the level of parliamentary discourse,level,Abstract quantity,1,0.03
+2872,the level of parliamentary representation,level,Abstract quantity,1,0.03
+2873,the level of patient oxygenation,level,Abstract quantity,1,0.03
+2874,the level of permitted beryllium,level,Abstract quantity,1,0.03
+2875,the level of personal consumption,level,Abstract quantity,1,0.03
+2876,the level of personal experience,level,Abstract quantity,1,0.03
+2877,the level of personal independence,level,Abstract quantity,1,0.03
+2878,the level of personal responsibility,level,Abstract quantity,1,0.03
+2879,the level of personal service,level,Abstract quantity,1,0.03
+2880,the level of personal well-being,level,Abstract quantity,1,0.03
+2881,the level of petty life,level,Abstract quantity,1,0.03
+2882,the level of photochemical smog,level,Abstract quantity,1,0.03
+2883,the level of physical contact,level,Abstract quantity,1,0.03
+2884,the level of physical disability,level,Abstract quantity,1,0.03
+2885,the level of physical location,level,Abstract quantity,1,0.03
+2886,the level of physiological activity,level,Abstract quantity,1,0.03
+2887,the level of planned capacity,level,Abstract quantity,1,0.03
+2888,the level of polite enquiry,level,Abstract quantity,1,0.03
+2889,the level of political action,level,Abstract quantity,1,0.03
+2890,the level of political activity,level,Abstract quantity,1,0.03
+2891,the level of political debate,level,Abstract quantity,1,0.03
+2892,the level of political intrusion,level,Abstract quantity,1,0.03
+2893,the level of political violence,level,Abstract quantity,1,0.03
+2894,the level of popular literature,level,Abstract quantity,1,0.03
+2895,the level of popular religion,level,Abstract quantity,1,0.03
+2896,the level of potential complexity,level,Abstract quantity,1,0.03
+2897,the level of potential development,level,Abstract quantity,1,0.03
+2898,the level of practical pedagogy,level,Abstract quantity,1,0.03
+2899,the level of pre-tax operating,level,Abstract quantity,1,0.03
+2900,the level of present development,level,Abstract quantity,1,0.03
+2901,the level of previous achievement,level,Abstract quantity,1,0.03
+2902,the level of Prime Minister,level,Abstract quantity,1,0.03
+2903,the level of prior knowledge,level,Abstract quantity,1,0.03
+2904,the level of private sector,level,Abstract quantity,1,0.03
+2905,the level of professional understanding,level,Abstract quantity,1,0.03
+2906,the level of promotional expenditure,level,Abstract quantity,1,0.03
+2907,the level of provincial autonomy,level,Abstract quantity,1,0.03
+2908,the level of psychiatric bed,level,Abstract quantity,1,0.03
+2909,the level of psychiatric disorder,level,Abstract quantity,1,0.03
+2910,the level of psychological maturity,level,Abstract quantity,1,0.03
+2911,the level of public concern,level,Abstract quantity,1,0.03
+2912,the level of public ignorance,level,Abstract quantity,1,0.03
+2913,the level of public sector,level,Abstract quantity,1,0.03
+2914,the level of public support,level,Abstract quantity,1,0.03
+2915,the level of quiet conversation,level,Abstract quantity,1,0.03
+2916,the level of racial sickness,level,Abstract quantity,1,0.03
+2917,the level of racist abuse,level,Abstract quantity,1,0.03
+2918,the level of real interest,level,Abstract quantity,1,0.03
+2919,the level of recorded income,level,Abstract quantity,1,0.03
+2920,the level of regional income,level,Abstract quantity,1,0.03
+2921,the level of regional oversubscription,level,Abstract quantity,1,0.03
+2922,the level of relative formality,level,Abstract quantity,1,0.03
+2923,the level of religious censorship,level,Abstract quantity,1,0.03
+2924,the level of reported experience,level,Abstract quantity,1,0.03
+2925,the level of reported unemployment,level,Abstract quantity,1,0.03
+2926,the level of required expenditure,level,Abstract quantity,1,0.03
+2927,the level of scientific appreciation,level,Abstract quantity,1,0.03
+2928,the level of scientific research,level,Abstract quantity,1,0.03
+2929,the level of secular government,level,Abstract quantity,1,0.03
+2930,the level of segmental phonology,level,Abstract quantity,1,0.03
+2931,the level of Senior Instructor,level,Abstract quantity,1,0.03
+2932,the level of sentence-based case,level,Abstract quantity,1,0.03
+2933,the level of sequential affinity,level,Abstract quantity,1,0.03
+2934,the level of sexual harassment,level,Abstract quantity,1,0.03
+2935,the level of sexual innuendo,level,Abstract quantity,1,0.03
+2936,the level of sexual tension,level,Abstract quantity,1,0.03
+2937,the level of single word,level,Abstract quantity,1,0.03
+2938,the level of small company,level,Abstract quantity,1,0.03
+2939,the level of social deprivation,level,Abstract quantity,1,0.03
+2940,the level of social disadvantage,level,Abstract quantity,1,0.03
+2941,the level of social expenditure,level,Abstract quantity,1,0.03
+2942,the level of social meaning,level,Abstract quantity,1,0.03
+2943,the level of social support,level,Abstract quantity,1,0.03
+2944,the level of social-political evolution,level,Abstract quantity,1,0.03
+2945,the level of solar radiation,level,Abstract quantity,1,0.03
+2946,the level of solar warmth,level,Abstract quantity,1,0.03
+2947,the level of somatic cell,level,Abstract quantity,1,0.03
+2948,the level of Spanish involvement,level,Abstract quantity,1,0.03
+2949,the level of standard charge,level,Abstract quantity,1,0.03
+2950,the level of standard equipment,level,Abstract quantity,1,0.03
+2951,the level of standard grant,level,Abstract quantity,1,0.03
+2952,the level of standby plant,level,Abstract quantity,1,0.03
+2953,The level of statistical significance,level,Abstract quantity,1,0.03
+2954,the level of statutory service,level,Abstract quantity,1,0.03
+2955,the level of stray light,level,Abstract quantity,1,0.03
+2956,the level of structural linguistics,level,Abstract quantity,1,0.03
+2957,the level of subjective recklessness,level,Abstract quantity,1,0.03
+2958,the level of substantial affinity,level,Abstract quantity,1,0.03
+2959,the level of supplementary benefit,level,Abstract quantity,1,0.03
+2960,The level of technical co-operation,level,Abstract quantity,1,0.03
+2961,the level of technical jargon,level,Abstract quantity,1,0.03
+2962,the level of technological sophistication,level,Abstract quantity,1,0.03
+2963,the level of theological education,level,Abstract quantity,1,0.03
+2964,the level of therapeutic input,level,Abstract quantity,1,0.03
+2965,the level of time-expired material,level,Abstract quantity,1,0.03
+2966,the level of total capacity,level,Abstract quantity,1,0.03
+2967,the level of total sound,level,Abstract quantity,1,0.03
+2968,the level of total spending,level,Abstract quantity,1,0.03
+2969,the level of traditional radiation,level,Abstract quantity,1,0.03
+2970,the level of ultimate reality,level,Abstract quantity,1,0.03
+2971,The level of undiscovered malpractice,level,Abstract quantity,1,0.03
+2972,the level of unleaded petrol,level,Abstract quantity,1,0.03
+2973,the level of unnecessary detail,level,Abstract quantity,1,0.03
+2974,the level of urban funding,level,Abstract quantity,1,0.03
+2975,the level of urban immiseration,level,Abstract quantity,1,0.03
+2976,the level of urban unemployment,level,Abstract quantity,1,0.03
+2977,the level of verbal form,level,Abstract quantity,1,0.03
+2978,the level of virtuosic deployment,level,Abstract quantity,1,0.03
+2979,the level of visual inventiveness,level,Abstract quantity,1,0.03
+2980,the level of voluntary conformity,level,Abstract quantity,1,0.03
+2981,the level of vulgar slanging,level,Abstract quantity,1,0.03
+2982,the level of young European,level,Abstract quantity,1,0.03
+2983,the load of displaced humanity,load,Portion / quantity,1,0.03
+2984,the metre of soft snow,metre,Length,1,0.03
+2985,the pair of heavy duty,pair,Numerical / counting,1,0.03
+2986,The pair of mutual mirror,pair,Numerical / counting,1,0.03
+2987,the period of active leisure,period,Temporal,1,0.03
+2988,the period of actual occupation,period,Temporal,1,0.03
+2989,the period of advanced capitalism,period,Temporal,1,0.03
+2990,The period of authoritarian rule,period,Temporal,1,0.03
+2991,the period of bourgeois dominance,period,Temporal,1,0.03
+2992,the period of cardiac surgery,period,Temporal,1,0.03
+2993,the period of Chinese disunity,period,Temporal,1,0.03
+2994,the period of civil war,period,Temporal,1,0.03
+2995,the period of Communist domination,period,Temporal,1,0.03
+2996,the period of Communist rebellion,period,Temporal,1,0.03
+2997,the period of Communist rule,period,Temporal,1,0.03
+2998,the period of compulsory detention,period,Temporal,1,0.03
+2999,the period of compulsory education,period,Temporal,1,0.03
+3000,the period of conventional warfare,period,Temporal,1,0.03
+3001,the period of corporate organization,period,Temporal,1,0.03
+3002,The period of costly childhood,period,Temporal,1,0.03
+3003,the period of daily running,period,Temporal,1,0.03
+3004,the period of deep recession,period,Temporal,1,0.03
+3005,the period of earthly life,period,Temporal,1,0.03
+3006,the period of economic growth,period,Temporal,1,0.03
+3007,the period of economic malaise,period,Temporal,1,0.03
+3008,the period of economic reform,period,Temporal,1,0.03
+3009,The period of epistolary self-restraint,period,Temporal,1,0.03
+3010,the period of expected dependency,period,Temporal,1,0.03
+3011,the period of financial crisis,period,Temporal,1,0.03
+3012,the period of fixed duration,period,Temporal,1,0.03
+3013,The period of foreign aid,period,Temporal,1,0.03
+3014,the period of formative influence,period,Temporal,1,0.03
+3015,the period of good summer,period,Temporal,1,0.03
+3016,the period of great excitement,period,Temporal,1,0.03
+3017,the period of high copper,period,Temporal,1,0.03
+3018,the period of historic relevance,period,Temporal,1,0.03
+3019,the period of historical relevance,period,Temporal,1,0.03
+3020,the period of hot weather,period,Temporal,1,0.03
+3021,The period of human history,period,Temporal,1,0.03
+3022,the period of imperial expansion,period,Temporal,1,0.03
+3023,the period of Inca domination,period,Temporal,1,0.03
+3024,the period of industrial action,period,Temporal,1,0.03
+3025,the period of industrial calm,period,Temporal,1,0.03
+3026,the period of industrial capitalism,period,Temporal,1,0.03
+3027,the period of industrial training,period,Temporal,1,0.03
+3028,the period of inflationary expansion,period,Temporal,1,0.03
+3029,the period of initial onset,period,Temporal,1,0.03
+3030,the period of initial training,period,Temporal,1,0.03
+3031,the period of intense conviction,period,Temporal,1,0.03
+3032,the period of intense pollution,period,Temporal,1,0.03
+3033,The period of intensive fieldwork,period,Temporal,1,0.03
+3034,the period of Italian rule,period,Temporal,1,0.03
+3035,the period of joint occupation,period,Temporal,1,0.03
+3036,the period of local government,period,Temporal,1,0.03
+3037,the period of low growth,period,Temporal,1,0.03
+3038,the period of massive repression,period,Temporal,1,0.03
+3039,the period of maximum risk,period,Temporal,1,0.03
+3040,the period of mere survival,period,Temporal,1,0.03
+3041,the period of modern philosophy,period,Temporal,1,0.03
+3042,the period of moral decadence,period,Temporal,1,0.03
+3043,the period of national maternity,period,Temporal,1,0.03
+3044,the period of national service,period,Temporal,1,0.03
+3045,the period of National-Socialist rule,period,Temporal,1,0.03
+3046,the period of nationalist fervour,period,Temporal,1,0.03
+3047,the period of normal measurement,period,Temporal,1,0.03
+3048,the period of old age,period,Temporal,1,0.03
+3049,the period of oral tradition,period,Temporal,1,0.03
+3050,the period of Ottoman rule,period,Temporal,1,0.03
+3051,the period of paid employment,period,Temporal,1,0.03
+3052,the period of parental care,period,Temporal,1,0.03
+3053,the period of parliamentary democracy,period,Temporal,1,0.03
+3054,the period of physical geography,period,Temporal,1,0.03
+3055,the period of pioneering work,period,Temporal,1,0.03
+3056,the period of political history,period,Temporal,1,0.03
+3057,the period of post-partum amenorrhoea,period,Temporal,1,0.03
+3058,the period of post-war reconstruction,period,Temporal,1,0.03
+3059,the period of post-war wage,period,Temporal,1,0.03
+3060,The period of prenatal existence,period,Temporal,1,0.03
+3061,the period of primitive accumulation,period,Temporal,1,0.03
+3062,the period of proposed field-work,period,Temporal,1,0.03
+3063,the period of rapid decline,period,Temporal,1,0.03
+3064,the period of rapid employment,period,Temporal,1,0.03
+3065,the period of revolutionary storm,period,Temporal,1,0.03
+3066,the period of Roman occupation,period,Temporal,1,0.03
+3067,the period of Roman rule,period,Temporal,1,0.03
+3068,the period of Russian domination,period,Temporal,1,0.03
+3069,the period of selective deprivation,period,Temporal,1,0.03
+3070,the period of sexual excitement,period,Temporal,1,0.03
+3071,the period of social modernisation,period,Temporal,1,0.03
+3072,the period of Soviet rule,period,Temporal,1,0.03
+3073,the period of Tatar domination,period,Temporal,1,0.03
+3074,the period of technological innovation,period,Temporal,1,0.03
+3075,the period of temporary reputation,period,Temporal,1,0.03
+3076,the period of Turkish overlordship,period,Temporal,1,0.03
+3077,the period of uneasy peace,period,Temporal,1,0.03
+3078,the period of Whig supremacy,period,Temporal,1,0.03
+3079,the period of white settlement,period,Temporal,1,0.03
+3080,the period of worldwide industrialization,period,Temporal,1,0.03
+3081,the piece of brown icing,piece,Portion,1,0.03
+3082,the piece of corrugated iron,piece,Portion,1,0.03
+3083,the piece of electric equipment,piece,Portion,1,0.03
+3084,the piece of folded exercise,piece,Portion,1,0.03
+3085,the piece of historic silverware,piece,Portion,1,0.03
+3086,the piece of lined paper,piece,Portion,1,0.03
+3087,the piece of ornamental driftwood,piece,Portion,1,0.03
+3088,the piece of petrified driftwood,piece,Portion,1,0.03
+3089,the piece of rotten log,piece,Portion,1,0.03
+3090,the piece of white chalk,piece,Portion,1,0.03
+3091,the piece of woollen material,piece,Portion,1,0.03
+3092,the piece of yellow parchment,piece,Portion,1,0.03
+3093,the pile of accumulated mail,pile,Portion / quantity,1,0.03
+3094,the pile of blue velvet,pile,Portion / quantity,1,0.03
+3095,the pile of burned clothing,pile,Portion / quantity,1,0.03
+3096,the pile of crumpled metal,pile,Portion / quantity,1,0.03
+3097,the pile of damp earth,pile,Portion / quantity,1,0.03
+3098,the pile of dirty washing,pile,Portion / quantity,1,0.03
+3099,the pile of green cereal,pile,Portion / quantity,1,0.03
+3100,the pile of human misery,pile,Portion / quantity,1,0.03
+3101,the pile of personal correspondence,pile,Portion / quantity,1,0.03
+3102,the pile of thick fur,pile,Portion / quantity,1,0.03
+3103,the pile of wet flannel,pile,Portion / quantity,1,0.03
+3104,the quantity of antihypertensive medication,quantity,Abstract quantity,1,0.03
+3105,the quantity of assembled class,quantity,Abstract quantity,1,0.03
+3106,the quantity of black market,quantity,Abstract quantity,1,0.03
+3107,the quantity of choral singing,quantity,Abstract quantity,1,0.03
+3108,the quantity of discarded paper,quantity,Abstract quantity,1,0.03
+3109,the quantity of domestic machinery,quantity,Abstract quantity,1,0.03
+3110,the quantity of dry ice,quantity,Abstract quantity,1,0.03
+3111,the quantity of exogenous bicarbonate,quantity,Abstract quantity,1,0.03
+3112,the quantity of hard science,quantity,Abstract quantity,1,0.03
+3113,the quantity of liquid effluent,quantity,Abstract quantity,1,0.03
+3114,the quantity of malabsorbed carbohydrate,quantity,Abstract quantity,1,0.03
+3115,The quantity of man-made sulphur,quantity,Abstract quantity,1,0.03
+3116,The quantity of mitochondrial DNA,quantity,Abstract quantity,1,0.03
+3117,the quantity of monetary base,quantity,Abstract quantity,1,0.03
+3118,The quantity of national output,quantity,Abstract quantity,1,0.03
+3119,The quantity of operational information,quantity,Abstract quantity,1,0.03
+3120,the quantity of organic matter,quantity,Abstract quantity,1,0.03
+3121,the quantity of Scottish fuel,quantity,Abstract quantity,1,0.03
+3122,the quantity of sexual harassment,quantity,Abstract quantity,1,0.03
+3123,the quantity of solid matter,quantity,Abstract quantity,1,0.03
+3124,the quantity of useful information,quantity,Abstract quantity,1,0.03
+3125,the school of civic design,school,Animal group,1,0.03
+3126,the school of functional sociology,school,Animal group,1,0.03
+3127,the school of logical positivism,school,Animal group,1,0.03
+3128,the School of Maritime Reconnaissance,school,Animal group,1,0.03
+3129,the school of Public Administration,school,Animal group,1,0.03
+3130,the School of Veterinary Medicine,school,Animal group,1,0.03
+3131,the set of antique-look brass,set,Numerical / counting,1,0.03
+3132,the set of individual amino,set,Numerical / counting,1,0.03
+3133,the set of occupied valence,set,Numerical / counting,1,0.03
+3134,the set of protected process,set,Numerical / counting,1,0.03
+3135,The set of relevant link,set,Numerical / counting,1,0.03
+3136,the stretch of blue winter,stretch,Spatial,1,0.03
+3137,the stretch of dual carriageway,stretch,Spatial,1,0.03
+3138,the stretch of empty road,stretch,Spatial,1,0.03
+3139,the stretch of golden sand,stretch,Spatial,1,0.03
+3140,the stretch of open turf,stretch,Spatial,1,0.03
+3141,the stretch of rutted wasteland,stretch,Spatial,1,0.03
+3142,the stretch of sandy beach,stretch,Spatial,1,0.03
+3143,the year of Catholic Emancipation,year,Temporal,1,0.03
+3144,the year of Continuing Decline,year,Temporal,1,0.03
+3145,the year of Easy Rider,year,Temporal,1,0.03
+3146,the year of European Integration,year,Temporal,1,0.03
+3147,the year of European Unity,year,Temporal,1,0.03
+3148,the year of free promotion,year,Temporal,1,0.03
+3149,the year of German reunification,year,Temporal,1,0.03
+3150,the year of intense stimulation,year,Temporal,1,0.03
+3151,the year of Italian unity,year,Temporal,1,0.03
+3152,The year of maximum emigration,year,Temporal,1,0.03
+3153,the year of proposed entry,year,Temporal,1,0.03
+3154,the year of relative glut,year,Temporal,1,0.03
+3155,the year of revolutionary upheaval,year,Temporal,1,0.03
+3156,the year of White Christmas,year,Temporal,1,0.03
