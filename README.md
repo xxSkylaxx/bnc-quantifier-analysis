@@ -2,7 +2,44 @@
 
 ## Overview
 
-This project investigates the distribution and usage patterns of quantifier structures in the **British National Corpus (BNC)**. It focuses on comparing two syntactic structures and examining their frequency distributions across different categories.
+This project investigates the distribution of quantifiers in two syntactic structures using the **British National Corpus (BNC)**.
+
+The study focuses on comparing the following structures:
+
+- **Structure A:** *a + adjective + quantifier + of + noun* (e.g., *a hot cup of tea*)
+- **Structure B:** *a + quantifier + of + adjective + noun* (e.g., *a cup of hot tea*)
+
+The research aims to compare the overall frequencies of the two structures and examine how different semantic categories of quantifiers are distributed across them.
+
+## Research Methods
+
+This study selects **53 quantifiers** and classifies them into **13 semantic categories** for analysis.
+
+The selection is intended to reduce irrelevant search results, such as proper nouns (e.g., *the Office of Fair Trading*) and idiomatic expressions (e.g., *a lot of hard work*).
+
+The following BNC query patterns are used to retrieve the two structures:
+
+**Structure A**
+```text
+_AT0 _AJ0 [NN1 list] of _NN1
+```
+
+**Structure B**
+```text
+_AT0 [NN1 list] of _AJ0 _NN1
+```
+
+**Combined Query**
+```text
+(_AT0 _AJ0 [NN1 list] of _NN1 |
+ _AT0 [NN1 list] of _AJ0 _NN1)
+```
+
+The analysis includes:
+
+1. Comparing the relative frequencies of Structures A and B.
+2. Examining the frequency distributions of the 13 semantic categories and individual quantifiers across the two structures.
+3. Conducting a chi-square test to determine whether the distribution of the two structures differs significantly across semantic categories.
 
 ## Repository Structure
 
@@ -12,10 +49,10 @@ quantifier-analysis/
 ├── data/
 │   ├── category_comparison.txt
 │   ├── quantifier_frequency.csv
-│   ├── frequency_list structure A.txt
-│   ├── frequency_list structure_B.txt
-│   ├── structure_A_parsed.csv
-│   └── structure_B_parsed.csv
+│   ├── frequency_list_structure_a.txt
+│   ├── frequency_list_structure_b.txt
+│   ├── structure_a_parsed.csv
+│   └── structure_b_parsed.csv
 │
 ├── scripts/
 │   └── frequency_analysis.py
@@ -23,43 +60,21 @@ quantifier-analysis/
 └── README.md
 ```
 
-### `data/`
+### Data
 
-Contains the datasets and frequency analysis results used in this project.
+Contains the original frequency lists retrieved from the BNC, processed CSV datasets, and category comparison results.
 
-| File | Description |
-|---|---|
-| `category_comparison.txt` | Comparison of the distribution of quantifier categories |
-| `quantifier_frequency.csv` | Frequency data of identified quantifiers |
-| `frequency_list structure A.txt` | Original frequency list for Structure A |
-| `frequency_list structure_B.txt` | Original frequency list for Structure B |
-| `structure_A_parsed.csv` | Parsed and structured frequency data for Structure A |
-| `structure_B_parsed.csv` | Parsed and structured frequency data for Structure B |
+### Scripts
 
-### `scripts/`
-
-Contains Python scripts used for data processing and analysis.
-
-- `frequency_analysis.py`: Processes frequency data and performs quantitative comparisons between the two structures.
-
-## Methods
-
-The analysis involves:
-
-1. **Data collection:** Retrieving instances of the two target structures from the BNC.
-2. **Data processing:** Parsing frequency lists and organizing lexical items into structured datasets.
-3. **Categorization:** Identifying and classifying quantifiers into semantic or functional categories.
-4. **Frequency analysis:** Comparing the distributions and normalized frequencies of the two structures.
-5. **Statistical analysis:** Examining differences in category distributions using statistical methods, including the chi-square test.
+Contains Python scripts for processing frequency data and conducting quantitative analysis.
 
 ## Tools
 
+- British National Corpus (BNC)
 - Python
 - pandas
-- BNC (British National Corpus)
 
-## Research Focus
+## Reference
 
-The project aims to explore how quantifier categories are distributed across two syntactic structures and whether the observed differences suggest distinct usage patterns.
-
+Cambridge Dictionary. (n.d.). *Quantifier*. https://dictionary.cambridge.org/
 
