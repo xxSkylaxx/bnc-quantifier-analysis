@@ -1,7 +1,5 @@
 # bnc-quantifier-analysis
 
-# Quantifier Analysis
-
 ## Overview
 
 This project investigates the distribution and usage patterns of quantifier structures in the **British National Corpus (BNC)**. It focuses on comparing two syntactic structures and examining their frequency distributions across different categories.
