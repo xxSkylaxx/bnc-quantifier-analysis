@@ -76,5 +76,5 @@ Contains Python scripts for processing frequency data and conducting quantitativ
 
 ## Reference
 
-Cambridge Dictionary. (n.d.). *Quantifier*. https://dictionary.cambridge.org/
+Cambridge Dictionary. (n.d.). Quantifiers. https://dictionary.cambridge.org/grammar/british-grammar/quantifiers
 
